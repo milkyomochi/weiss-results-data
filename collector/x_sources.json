@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryAt": "2026-09-14",
+  "lastDiscoveryAt": "2026-09-15",
   "accounts": [
     "saikoro1to3",
     "prinnyclub",
@@ -946,6 +946,9 @@
       ]
     },
     {
+      "url": "https://x.com/corgi_nagoya/status/2099101726905442522"
+    },
+    {
       "url": "https://x.com/card_bankshop/status/2093270450860433730"
     },
     {
@@ -968,11 +971,11 @@
         "ふらめ杯 優勝",
         "site:x.com/FLAME_CUP_unei 優勝"
       ],
-      "lastDiscoveryAt": "2026-09-14",
-      "lastDiscoveryOutcome": "result_found",
+      "lastDiscoveryAt": "2026-09-15",
+      "lastDiscoveryOutcome": "no_recent_result",
       "lastConfirmedPublishedAt": "2026-09-12",
       "lastConfirmedResultUrl": "https://x.com/FLAME_CUP_unei/status/2098713774433968395",
-      "discoveryNote": "大会名・アカウントをrecency=14で公開検索。結果投稿を確認し、公式公開oEmbedでの本文確認対象に追加。全投稿の網羅ではありません。",
+      "discoveryNote": "大会名・アカウントをrecency=14で公開検索。前回確認済みより新しい結果は未確認。開催中止・結果未発表を意味せず、全投稿の網羅でもありません。",
       "discoveryFailure": "Xの通常投稿ページはHTTP 403で取得できませんでした。公式公開oEmbedで4投稿の本文・公開日は確認済みです。",
       "failedSourceUrl": "https://x.com/FLAME_CUP_unei/status/2098713774433968395"
     },
@@ -985,11 +988,11 @@
         "福福杯 優勝",
         "site:x.com/fukufuku_ws 優勝"
       ],
-      "lastDiscoveryAt": "2026-09-14",
-      "lastDiscoveryOutcome": "result_found",
+      "lastDiscoveryAt": "2026-09-15",
+      "lastDiscoveryOutcome": "no_recent_result",
       "lastConfirmedPublishedAt": "2026-09-13",
       "lastConfirmedResultUrl": "https://x.com/fukufuku_ws/status/2099075207168499761",
-      "discoveryNote": "大会名・アカウントをrecency=14で公開検索。結果投稿を確認し、公式公開oEmbedでの本文確認対象に追加。全投稿の網羅ではありません。"
+      "discoveryNote": "大会名・アカウントをrecency=14で公開検索。前回確認済みより新しい結果は未確認。開催中止・結果未発表を意味せず、全投稿の網羅でもありません。"
     },
     {
       "name": "コギナゴカップ",
@@ -1000,7 +1003,7 @@
         "コギナゴカップ 優勝",
         "site:x.com/corgi_nagoya 優勝"
       ],
-      "lastDiscoveryAt": "2026-09-14",
+      "lastDiscoveryAt": "2026-09-15",
       "lastDiscoveryOutcome": "no_recent_result",
       "lastConfirmedPublishedAt": "2026-08-30",
       "lastConfirmedResultUrl": "https://x.com/corgi_nagoya/status/2093989484568485889",
@@ -1015,11 +1018,11 @@
         "SSSS杯 優勝",
         "site:x.com/SSSS37336553297 優勝"
       ],
-      "lastDiscoveryAt": "2026-09-14",
-      "lastDiscoveryOutcome": "result_found",
+      "lastDiscoveryAt": "2026-09-15",
+      "lastDiscoveryOutcome": "no_recent_result",
       "lastConfirmedPublishedAt": "2026-09-13",
       "lastConfirmedResultUrl": "https://x.com/SSSS37336553297/status/2099073550821056585",
-      "discoveryNote": "大会名・アカウントをrecency=14で公開検索。結果投稿を確認し、公式公開oEmbedでの本文確認対象に追加。全投稿の網羅ではありません。",
+      "discoveryNote": "大会名・アカウントをrecency=14で公開検索。前回確認済みより新しい結果は未確認。開催中止・結果未発表を意味せず、全投稿の網羅でもありません。",
       "discoveryFailure": "主催者案内からリンクされたTonamel大会ページは取得できませんでした。主催者の案内・結果と参加者の同回WS表記は公開oEmbedで確認済み。",
       "failedSourceUrl": "https://tonamel.com/competition/RVlyW"
     },
@@ -1033,7 +1036,7 @@
         "site:x.com/kizunahi_ijanai 優勝",
         "site:note.com/ws_final キズナ杯 運営レポート"
       ],
-      "lastDiscoveryAt": "2026-09-14",
+      "lastDiscoveryAt": "2026-09-15",
       "lastDiscoveryOutcome": "no_recent_result",
       "lastConfirmedPublishedAt": "2026-08-22",
       "lastConfirmedResultUrl": "https://x.com/kizunahi_ijanai/status/2091092263976026370",
@@ -1064,7 +1067,7 @@
         "餅CS 結果",
         "第○回結果"
       ],
-      "lastDiscoveryAt": "2026-09-14",
+      "lastDiscoveryAt": "2026-09-15",
       "lastDiscoveryOutcome": "no_recent_result",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。新しい結果は未確認。開催中止・結果未発表を意味しません。"
     },
@@ -1075,7 +1078,7 @@
         "WSたいCS",
         "たいCS ヴァイス 結果"
       ],
-      "lastDiscoveryAt": "2026-09-14",
+      "lastDiscoveryAt": "2026-09-15",
       "lastDiscoveryOutcome": "no_recent_result",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。新しい結果は未確認。開催中止・結果未発表を意味しません。"
     }

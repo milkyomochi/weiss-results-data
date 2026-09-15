@@ -2330,6 +2330,127 @@
       "sourceUrl": "https://x.com/bunakiruno_TCG/status/2094737831562453053",
       "title": null,
       "xCheckedAt": "2026-09-13T23:28:39+00:00"
+    },
+    {
+      "event": "コーギーアール名古屋店 / 公認大会",
+      "eventDate": null,
+      "publishedAt": "2026-09-13",
+      "category": "sanctioned",
+      "categoryReason": "公式公開oEmbed本文に「公認大会」の明記あり。",
+      "format": null,
+      "placement": "優勝",
+      "player": "山田",
+      "title": "アサルトリリィ",
+      "deck": "八扉アサルトリリィ",
+      "organizer": "コーギーアール名古屋店",
+      "area": null,
+      "sourceUrl": "https://x.com/corgi_nagoya/status/2099101726905442522",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/corgi_nagoya/status/2099101726905442522",
+      "deckUrl": "https://x.com/corgi_nagoya/status/2099101726905442522",
+      "evidence": "primary",
+      "notes": "公式公開oEmbed本文で成績・選手・デッキ・公開日を確認。開催日は「本日」から推定していません。画像は選手との対応を確認できる元画像URLを取得できなかったため追加していません。",
+      "collectedAt": "2026-09-15T00:07:56+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "id": "2293b5cb729625b8a570608e"
+    },
+    {
+      "event": "ネオスタンダード in WGP26-27 Season1 福岡会場 Aブロック",
+      "eventDate": "2026-09-05",
+      "publishedAt": "2026-09-10",
+      "category": "official",
+      "categoryReason": "WS公式の入賞者デッキレシピ検索情報に掲載。",
+      "format": "ネオスタンダード",
+      "placement": "優勝",
+      "player": "Kg",
+      "title": "アイドルマスター シンデレラガールズ",
+      "deck": "黒木ほの香さんご結婚おめでとうございます",
+      "organizer": "ブシロード",
+      "area": null,
+      "sourceUrl": "https://ws-tcg.com/deckrecipe/5432/",
+      "sourceName": "WS公式",
+      "originalUrl": null,
+      "deckUrl": "https://ws-tcg.com/deckrecipe/5432/",
+      "evidence": "search",
+      "notes": "公式検索情報で大会・順位・選手・デッキコード1DX4PE・デッキ名・区分を確認。公式本文は404で直接取得できず、訂正の有無と画像URLは未確認。開催日は公式WGP日程ページを参照。",
+      "collectedAt": "2026-09-15T00:07:56+00:00",
+      "images": [],
+      "relatedSources": [
+        {
+          "url": "https://ws-tcg.com/wgp2026/",
+          "name": "WGP26-27 Season1 公式日程",
+          "publishedAt": null
+        }
+      ],
+      "eventKind": null,
+      "sourceId": "official_reviewed",
+      "id": "20672030a5c7fe6817488da5"
+    },
+    {
+      "event": "トリオサバイバル in WGP26-27 Season1 福岡会場",
+      "eventDate": "2026-09-05",
+      "publishedAt": "2026-09-10",
+      "category": "official",
+      "categoryReason": "WS公式の入賞者デッキレシピ検索情報に掲載。",
+      "format": "トリオ",
+      "placement": "優勝",
+      "player": "アリス@企画屋",
+      "title": null,
+      "deck": null,
+      "organizer": "ブシロード",
+      "area": null,
+      "sourceUrl": "https://ws-tcg.com/deckrecipe/5435/",
+      "sourceName": "WS公式",
+      "originalUrl": null,
+      "deckUrl": "https://ws-tcg.com/deckrecipe/5435/",
+      "evidence": "search",
+      "notes": "公式検索情報で大会・順位・選手・役職を確認。使用タイトル・デッキ、チーム名、画像URLは検索情報で確認できないため未記入。公式本文は404で直接取得できず、訂正の有無は未確認。開催日は公式WGP日程ページを参照。",
+      "collectedAt": "2026-09-15T00:07:56+00:00",
+      "images": [],
+      "relatedSources": [
+        {
+          "url": "https://ws-tcg.com/wgp2026/",
+          "name": "WGP26-27 Season1 公式日程",
+          "publishedAt": null
+        }
+      ],
+      "role": "先鋒",
+      "sourceId": "official_reviewed",
+      "entryKey": "優勝|先鋒|アリス@企画屋|",
+      "id": "1d7471a8e919cf1c72a21271"
+    },
+    {
+      "event": "タイトルカップ in WGP26-27 Season1 福岡会場",
+      "eventDate": "2026-09-05",
+      "publishedAt": "2026-09-10",
+      "category": "official",
+      "categoryReason": "WS公式の入賞者デッキレシピ検索情報に掲載。",
+      "format": null,
+      "placement": "優勝",
+      "player": "ひろぽん",
+      "title": null,
+      "deck": "シャドウ・バニー",
+      "organizer": "ブシロード",
+      "area": null,
+      "sourceUrl": "https://ws-tcg.com/deckrecipe/5437/",
+      "sourceName": "WS公式",
+      "originalUrl": null,
+      "deckUrl": "https://ws-tcg.com/deckrecipe/5437/",
+      "evidence": "search",
+      "notes": "公式検索情報で大会・順位・選手・デッキコード2R3N9J・デッキ名を確認。使用タイトルと画像URLは確認できないため未記入。公式本文は404で直接取得できず、訂正の有無は未確認。開催日は公式WGP日程ページを参照。",
+      "collectedAt": "2026-09-15T00:07:56+00:00",
+      "images": [],
+      "relatedSources": [
+        {
+          "url": "https://ws-tcg.com/wgp2026/",
+          "name": "WGP26-27 Season1 公式日程",
+          "publishedAt": null
+        }
+      ],
+      "sourceId": "official_reviewed",
+      "id": "5df2f40638c0ae8041d023c4"
     }
   ],
   "sources": [
@@ -2338,9 +2459,9 @@
       "name": "WS公式",
       "url": "https://ws-tcg.com/deckrecipe/recipe_prize/",
       "status": "partial",
-      "checkedAt": "2026-09-09T06:15:26+00:00",
-      "count": 4,
-      "message": "公式ページの検索情報から4件を補完。本文の直接取得に失敗しており、最新分の網羅は未確認です。"
+      "checkedAt": "2026-09-15T00:07:56+00:00",
+      "count": 3,
+      "message": "公式検索情報からWGP26-27 Season1福岡会場の優勝3件を補完。公式本文は404で直接取得できず、明記された項目だけをevidence=searchで記録。最新分の網羅・訂正の有無・画像URLは未確認です。"
     },
     {
       "id": "cs",
@@ -2365,9 +2486,9 @@
       "name": "公開Web検索（補完）",
       "url": "https://search.yahoo.co.jp/realtime/",
       "status": "ok",
-      "checkedAt": "2026-09-13T23:25:24.419Z",
+      "checkedAt": "2026-09-15T00:07:56+00:00",
       "count": 0,
-      "message": "9月14日に優先CS5大会の名前・アカウント、餅CS・WSたいCS、登録店舗をrecency=14で公開検索。補助リアルタイム検索22クエリも確認。第113回福福杯・第64回SSSS杯の新規優勝投稿を発見。コギナゴカップ・キズナ杯など新しい結果未確認は未開催や未発表を意味しません。Xを含む全投稿の網羅ではありません。"
+      "message": "9月15日に優先CS5大会の名前と主催者アカウント、餅CS・WSたいCS、登録店舗をrecency=14で公開検索。優先CSの新しい結果は未確認。コーギーアール名古屋店の9月13日公開の公認大会優勝投稿を発見し、公式公開oEmbed本文を確認。未発見は未開催や未発表を意味せず、Xを含む全投稿の網羅でもありません。"
     },
     {
       "id": "cs_reviewed",

@@ -32,7 +32,8 @@ def main():
         raise RuntimeError("Collector failed; no data will be published")
     subprocess.run([sys.executable, "-X", "utf8", "collector/collect.py", "--validate-only"], cwd=ROOT, check=True)
     after = read("data/results.json")
-    if not {r["id"] for r in before["results"]}.issubset({r["id"] for r in after["results"]}):
+    rejected = {r["id"] for r in read("data/reviewed.json").get("rejectedResults", [])}
+    if not ({r["id"] for r in before["results"]} - rejected).issubset({r["id"] for r in after["results"]}):
         raise RuntimeError("Unexpected loss of existing result IDs; publication stopped")
     state = read("data/collection.json")
     state["sources"] = [s for s in state["sources"] if s["id"] != "discovery"] + [discovery]

@@ -661,9 +661,11 @@ def main():
                 statuses.append(dict(id=source["id"],name=source["name"],url=source["url"],status="error",checkedAt=stamp,count=0,message="取得できませんでした。既存の結果は保持しています。 "+str(e)[:100]))
         state["lastRun"]=utcnow();state["sources"]=list({s["id"]:s for s in [*state["sources"],*statuses]}.values())
     reviewed_path=ROOT/"data/reviewed.json"
+    rejected_ids=set()
     if reviewed_path.exists():
         reviewed=json.loads(reviewed_path.read_text())
         incoming.extend(reviewed["results"])
+        rejected_ids={r["id"] for r in reviewed.get("rejectedResults",[]) if r.get("id")}
         # Supplemental searches report their own checked time; stale searches never
         # overwrite a fresh successful feed status or pretend to run again.
         for s in reviewed.get("sources",[]):
@@ -671,7 +673,8 @@ def main():
             if not current:state["sources"].append(s)
             elif s.get("checkedAt","")>=current.get("checkedAt",""):
                 current.update(s)
-    data["results"]=merge(data["results"],incoming);data["updatedAt"]=utcnow();data["schemaVersion"]=3
+    data["results"]=[r for r in merge(data["results"],incoming) if r["id"] not in rejected_ids]
+    data["updatedAt"]=utcnow();data["schemaVersion"]=3
     added=len({r["id"] for r in data["results"]}-before)
     state["lastAdded"]=(state.get("lastAdded",0)+added) if opt.merge_only else added
     write_json(result_path,data);write_json(state_path,state)
