@@ -671,7 +671,7 @@ def main():
         for s in reviewed.get("sources",[]):
             current=next((x for x in state["sources"] if x["id"]==s["id"]),None)
             if not current:state["sources"].append(s)
-            elif s.get("checkedAt","")>=current.get("checkedAt",""):
+            elif (s.get("checkedAt") or "") >= (current.get("checkedAt") or ""):
                 current.update(s)
     data["results"]=[r for r in merge(data["results"],incoming) if r["id"] not in rejected_ids]
     data["updatedAt"]=utcnow();data["schemaVersion"]=3
