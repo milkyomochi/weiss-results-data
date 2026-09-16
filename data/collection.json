@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-16T01:15:33+00:00",
+  "lastRun": "2026-09-16T09:24:51+00:00",
   "lastAdded": 0,
   "schedule": {
     "enabled": true,
@@ -12,7 +12,7 @@
       "name": "WS公式",
       "url": "https://ws-tcg.com/deckrecipe/recipe_prize/",
       "status": "partial",
-      "checkedAt": "2026-09-16T01:14:12+00:00",
+      "checkedAt": "2026-09-16T09:23:48+00:00",
       "count": 0,
       "message": "公式の入賞者一覧を確認。15ページは取得・解析できませんでした。"
     },
@@ -21,7 +21,7 @@
       "name": "しろくろ速報",
       "url": "https://ws4696.xyz/category/deck/feed/",
       "status": "ok",
-      "checkedAt": "2026-09-16T01:14:44+00:00",
+      "checkedAt": "2026-09-16T09:24:19+00:00",
       "count": 41,
       "message": "最新6ページを確認。順位の対応が不明な投稿と対象外の記事は除外（19記事）。"
     },
@@ -30,16 +30,16 @@
       "name": "X（公開投稿）",
       "url": "https://x.com/",
       "status": "ok",
-      "checkedAt": "2026-09-16T01:15:21+00:00",
+      "checkedAt": "2026-09-16T09:24:41+00:00",
       "count": 5,
-      "message": "公開投稿を16件確認し、5件の結果を取得。対応が曖昧な投稿等は12件除外。検索・紹介記事で見つかった投稿が対象で、全投稿は網羅しません。"
+      "message": "公開投稿を17件確認し、5件の結果を取得。対応が曖昧な投稿等は13件除外。検索・紹介記事で見つかった投稿が対象で、全投稿は網羅しません。"
     },
     {
       "id": "cs",
       "name": "CS主催者（X）",
       "url": "https://x.com/",
       "status": "partial",
-      "checkedAt": "2026-09-16T01:15:12+00:00",
+      "checkedAt": "2026-09-16T09:24:32+00:00",
       "count": 0,
       "message": "CS主催者の公開投稿を13件確認し、0件の結果を取得。対応が曖昧な投稿等は13件除外。優先確認：ふらめ杯・福福杯・コギナゴカップ・SSSS杯・キズナ杯。Xの通常投稿ページはHTTP 403で取得できませんでした。公式公開oEmbedで4投稿の本文・公開日は確認済みです。コギナゴカップは2026-09-16の検索で直近結果を未確認。SSSS杯は2026-09-16の検索で直近結果を未確認。主催者案内からリンクされたTonamel大会ページは取得できませんでした。主催者の案内・結果と参加者の同回WS表記は公開oEmbedで確認済み。検索・紹介記事で見つかった投稿が対象で、全投稿は網羅しません。"
     },
@@ -94,5 +94,5 @@
   "migrationComplete": true,
   "manualUpdateUrl": "https://github.com/milkyomochi/weiss-results-data/actions/workflows/collect.yml",
   "runStatus": "partial",
-  "runUrl": "https://github.com/milkyomochi/weiss-results-data/actions/runs/35043263333"
+  "runUrl": "https://github.com/milkyomochi/weiss-results-data/actions/runs/35079153729"
 }
