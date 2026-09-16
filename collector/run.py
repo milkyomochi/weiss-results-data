@@ -25,7 +25,14 @@ def write(path, value):
 def main():
     before = read("data/results.json")
     config = read("collector/x_sources.json")
-    discovery = discover(config, os.environ.get("BRAVE_SEARCH_API_KEY", ""))
+    try:
+        discovery = discover(config, os.environ.get("TAVILY_API_KEY", ""),
+                             checkpoint=lambda: write("collector/x_sources.json", config))
+    except Exception as error:
+        # Do not log exception text, request headers or response bodies.
+        discovery = dict(id="discovery", name="X・優先CSの新規検索（Tavily）", status="error",
+                         count=0, checkedAt=None, message="検索処理でエラー。直接取得は継続します。",
+                         errors=[dict(type=type(error).__name__)])
     write("collector/x_sources.json", config)
     result = subprocess.run([sys.executable, "-X", "utf8", "collector/collect.py", "--pages", "6"], cwd=ROOT, timeout=1200)
     if result.returncode:
@@ -50,8 +57,8 @@ def main():
     write("public-data/snapshot.json", dict(dataset=after, collection=state))
     for name in ("results.json", "collection.json"):
         shutil.copyfile(ROOT / "data" / name, public / name)
-    (public / "index.html").write_text('<!doctype html><html lang="ja"><meta charset="utf-8"><title>WS入賞ウォッチ データ</title><h1>WS入賞ウォッチ データ</h1><p><a href="snapshot.json">最新データと収集状態</a></p><p>検索接続時: <a href="https://brave.com/search/api/">Powered by Brave Search</a></p></html>', encoding="utf-8")
-    write(".run-status.json", dict(status=state["runStatus"], failedSources=failures))
+    (public / "index.html").write_text('<!doctype html><html lang="ja"><meta charset="utf-8"><title>WS入賞ウォッチ データ</title><h1>WS入賞ウォッチ データ</h1><p><a href="snapshot.json">最新データと収集状態</a></p><p>検索接続時: <a href="https://www.tavily.com/">Powered by Tavily</a></p></html>', encoding="utf-8")
+    write(".run-status.json", dict(status=state["runStatus"], failedSources=failures, discovery=discovery))
     print(json.dumps(dict(records=len(after["results"]), status=state["runStatus"], failedSources=failures)))
 
 

@@ -1,5 +1,7 @@
 import copy
 import unittest
+import json
+from unittest.mock import patch
 from discover import PRIORITY, discover, post_url
 
 
@@ -20,10 +22,13 @@ class DiscoveryTests(unittest.TestCase):
         calls = []
         def search(q, freshness, key):
             calls.append(q)
-            return [{"url": "https://twitter.com/FLAME_CUP_unei/status/123?x=1", "description": "優勝 Foo 開催日2026/01/01"}]
+            return {"results": [{"url": "https://twitter.com/FLAME_CUP_unei/status/123?x=1", "content": "優勝 Foo 開催日2026/01/01"}], "usage": {"credits": 1}}
         result = discover(config, "test", search, lambda _: None)
         self.assertEqual(result["status"], "ok")
-        self.assertEqual(len(calls), 14)
+        self.assertEqual(len(calls), 13)
+        self.assertEqual(result["creditsReported"], 13)
+        for account in PRIORITY:
+            self.assertEqual(sum(account in q for q in calls), 2)
         self.assertEqual(len(config["posts"]), 1)
         self.assertEqual(set(config["posts"][0]), {"url", "discoveredAt", "eventKind"})
         self.assertFalse(config["csOrganizers"][-1]["priority"])
@@ -41,6 +46,32 @@ class DiscoveryTests(unittest.TestCase):
         for value in ["https://x.com.evil.test/a/status/123", "https://evil@x.com/a/status/123", "http://x.com/a/status/123", "https://x.com/a"]:
             self.assertIsNone(post_url(value))
         self.assertEqual(post_url("https://twitter.com/a/status/123"), "https://x.com/a/status/123")
+
+    def test_budget_and_error_redaction(self):
+        config = self.config()
+        def fail(*args):
+            raise RuntimeError("secret-token-do-not-log")
+        first = discover(config, "secret-token-do-not-log", fail, lambda _: None)
+        self.assertEqual(first["searches"], 13)
+        self.assertNotIn("secret-token-do-not-log", json.dumps(first))
+        discover(config, "test", fail, lambda _: None)
+        third = discover(config, "test", fail, lambda _: None)
+        self.assertEqual(third["searches"], 0)
+        config["tavilyBudget"]["dailyAttempts"] = 0
+        config["tavilyBudget"]["monthlyAttempts"] = 899
+        self.assertEqual(discover(config, "test", fail, lambda _: None)["searches"], 0)
+
+    def test_request_uses_basic_and_header_only_key(self):
+        from discover import search
+        with patch("discover.urllib.request.urlopen") as request:
+            request.return_value.__enter__.return_value.read.return_value = b'{"results": []}'
+            search("query", "2026-09-01", "secret-test")
+            req = request.call_args.args[0]
+            body = json.loads(req.data)
+            self.assertEqual(body["search_depth"], "basic")
+            self.assertFalse(body["auto_parameters"])
+            self.assertNotIn("secret-test", req.data.decode())
+            self.assertEqual(req.get_header("Authorization"), "Bearer secret-test")
 
 
 if __name__ == "__main__":
