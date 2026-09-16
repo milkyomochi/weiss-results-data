@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-15T23:04:38+00:00",
+  "updatedAt": "2026-09-16T00:47:46+00:00",
   "results": [
     {
       "event": "第64回SSSS杯",
@@ -2082,6 +2082,45 @@
       "entryKey": "2位|中堅|ぶろーど|",
       "sourceId": "cs_reports",
       "id": "38027999abc032227048ccca"
+    },
+    {
+      "event": "TableGameCafe’ Shuffle @大阪/ボードゲームカフェ/トレカ / 公認大会",
+      "eventDate": null,
+      "publishedAt": "2026-08-26",
+      "category": "sanctioned",
+      "categoryReason": "発表文に「公認」の明記あり",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "きんモザ",
+      "deck": null,
+      "organizer": "TableGameCafe’ Shuffle @大阪/ボードゲームカフェ/トレカ",
+      "area": null,
+      "sourceUrl": "https://x.com/TGCShuffle/status/2092588207468900415",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/TGCShuffle/status/2092588207468900415",
+      "deckUrl": "https://ws4696.xyz/2026/09/16/wsdeckkms-56/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-16T00:47:15+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-kms-2092588207468900415-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-kms-2092588207468900415-0-300x152.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/09/16/wsdeckkms-56/",
+          "alt": "デッキレシピきんモザ"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/09/16/wsdeckkms-56/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-09-16"
+        }
+      ],
+      "sourceId": "x",
+      "id": "271054846217ee4c3be0ce42",
+      "xCheckedAt": "2026-09-16T00:47:34+00:00"
     },
     {
       "event": "第28回 キズナ杯",
