@@ -15,7 +15,7 @@ def post_url(value):
     p = urllib.parse.urlsplit(value)
     if p.scheme != "https" or p.hostname not in {"x.com", "www.x.com", "twitter.com", "www.twitter.com"} or p.username or p.password:
         return None
-    m = re.fullmatch(r"/([A-Za-z0-9_]+)/status/(\d+)/?", p.path)
+    m = re.fullmatch(r"/([A-Za-z0-9_]+)/status/(\d+)(?:/(?:photo|video)/\d+)?/?", p.path)
     return f"https://x.com/{m[1]}/status/{m[2]}" if m else None
 
 

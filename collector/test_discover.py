@@ -46,6 +46,7 @@ class DiscoveryTests(unittest.TestCase):
         for value in ["https://x.com.evil.test/a/status/123", "https://evil@x.com/a/status/123", "http://x.com/a/status/123", "https://x.com/a"]:
             self.assertIsNone(post_url(value))
         self.assertEqual(post_url("https://twitter.com/a/status/123"), "https://x.com/a/status/123")
+        self.assertEqual(post_url("https://x.com/a/status/123/photo/1"), "https://x.com/a/status/123")
 
     def test_budget_and_error_redaction(self):
         config = self.config()
