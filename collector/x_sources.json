@@ -972,6 +972,55 @@
     },
     {
       "url": "https://x.com/TGCShuffle/status/2092588207468900415"
+    },
+    {
+      "url": "https://x.com/FLAME_CUP_unei/status/2098341860817416415",
+      "discoveredAt": "2026-09-16T00:52:25+00:00",
+      "eventKind": "cs"
+    },
+    {
+      "url": "https://x.com/FLAME_CUP_unei/status/2098616129350729945",
+      "discoveredAt": "2026-09-16T00:52:25+00:00",
+      "eventKind": "cs"
+    },
+    {
+      "url": "https://x.com/fukufuku_ws/status/2025506720886522155",
+      "discoveredAt": "2026-09-16T00:52:25+00:00",
+      "eventKind": "cs"
+    },
+    {
+      "url": "https://x.com/fukufuku_ws/status/2033116087043383394",
+      "discoveredAt": "2026-09-16T00:52:25+00:00",
+      "eventKind": "cs"
+    },
+    {
+      "url": "https://x.com/fukufuku_ws/status/2045804891998941537",
+      "discoveredAt": "2026-09-16T00:52:25+00:00",
+      "eventKind": "cs"
+    },
+    {
+      "url": "https://x.com/fukufuku_ws/status/2068530518971551758",
+      "discoveredAt": "2026-09-16T00:52:25+00:00",
+      "eventKind": "cs"
+    },
+    {
+      "url": "https://x.com/fukufuku_ws/status/2071174328973209604",
+      "discoveredAt": "2026-09-16T00:52:25+00:00",
+      "eventKind": "cs"
+    },
+    {
+      "url": "https://x.com/fukufuku_ws/status/2093998493203669498",
+      "discoveredAt": "2026-09-16T00:52:25+00:00",
+      "eventKind": "cs"
+    },
+    {
+      "url": "https://x.com/fukufuku_ws/status/2098381058458718445",
+      "discoveredAt": "2026-09-16T00:52:25+00:00",
+      "eventKind": "cs"
+    },
+    {
+      "url": "https://x.com/ws_quoter/status/2096256939953201294",
+      "discoveredAt": "2026-09-16T00:52:25+00:00"
     }
   ],
   "csOrganizers": [
@@ -985,14 +1034,14 @@
         "site:x.com/FLAME_CUP_unei 優勝"
       ],
       "lastDiscoveryAt": "2026-09-16",
-      "lastDiscoveryOutcome": "no_recent_result",
+      "lastDiscoveryOutcome": "candidates_found",
       "lastConfirmedPublishedAt": "2026-09-12",
       "lastConfirmedResultUrl": "https://x.com/FLAME_CUP_unei/status/2098713774433968395",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。前回確認済みより新しい結果は未確認。開催中止・結果未発表を意味せず、全投稿の網羅でもありません。",
       "discoveryFailure": "Xの通常投稿ページはHTTP 403で取得できませんでした。公式公開oEmbedで4投稿の本文・公開日は確認済みです。",
       "failedSourceUrl": "https://x.com/FLAME_CUP_unei/status/2098713774433968395",
-      "lastSearchAttemptAt": "2026-09-16T00:46:07+00:00",
-      "lastSearchOutcome": "no_candidates"
+      "lastSearchAttemptAt": "2026-09-16T00:52:25+00:00",
+      "lastSearchOutcome": "candidates_found"
     },
     {
       "name": "福福杯",
@@ -1008,7 +1057,7 @@
       "lastConfirmedPublishedAt": "2026-09-13",
       "lastConfirmedResultUrl": "https://x.com/fukufuku_ws/status/2099075207168499761",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。前回確認済みより新しい結果は未確認。開催中止・結果未発表を意味せず、全投稿の網羅でもありません。",
-      "lastSearchAttemptAt": "2026-09-16T00:46:07+00:00",
+      "lastSearchAttemptAt": "2026-09-16T00:52:25+00:00",
       "lastSearchOutcome": "candidates_found"
     },
     {
@@ -1025,7 +1074,7 @@
       "lastConfirmedPublishedAt": "2026-08-30",
       "lastConfirmedResultUrl": "https://x.com/corgi_nagoya/status/2093989484568485889",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。新しい結果は未確認。開催中止・結果未発表を意味しません。",
-      "lastSearchAttemptAt": "2026-09-16T00:46:07+00:00",
+      "lastSearchAttemptAt": "2026-09-16T00:52:25+00:00",
       "lastSearchOutcome": "no_candidates"
     },
     {
@@ -1044,7 +1093,7 @@
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。前回確認済みより新しい結果は未確認。開催中止・結果未発表を意味せず、全投稿の網羅でもありません。",
       "discoveryFailure": "主催者案内からリンクされたTonamel大会ページは取得できませんでした。主催者の案内・結果と参加者の同回WS表記は公開oEmbedで確認済み。",
       "failedSourceUrl": "https://tonamel.com/competition/RVlyW",
-      "lastSearchAttemptAt": "2026-09-16T00:46:07+00:00",
+      "lastSearchAttemptAt": "2026-09-16T00:52:25+00:00",
       "lastSearchOutcome": "no_candidates"
     },
     {
@@ -1064,7 +1113,7 @@
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。新しい結果は未確認。開催中止・結果未発表を意味しません。",
       "lastSupplementedAt": "2026-09-11",
       "lastSupplementSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
-      "lastSearchAttemptAt": "2026-09-16T00:46:07+00:00",
+      "lastSearchAttemptAt": "2026-09-16T00:52:25+00:00",
       "lastSearchOutcome": "candidates_found"
     },
     {
@@ -1081,7 +1130,7 @@
       "discoveryFailure": "ハリケーンCSの補助掲載ページはHTTP 403で取得できませんでした。補助リアルタイム検索への接続がHTTP 403（接続拒否）で失敗しました。",
       "failedSourceUrl": "https://www.twstalker.com/hrccsws",
       "discoveryNote": "直近14日程度の公開検索を大会名・主催者アカウントで実施。既存一覧にない新しい結果は未確認。検索未発見は開催中止や結果未発表を意味しません。",
-      "lastSearchAttemptAt": "2026-09-16T00:46:07+00:00",
+      "lastSearchAttemptAt": "2026-09-16T00:52:25+00:00",
       "lastSearchOutcome": "no_candidates"
     },
     {
@@ -1110,8 +1159,8 @@
   ],
   "tavilyBudget": {
     "month": "2026-09",
-    "monthlyAttempts": 13,
+    "monthlyAttempts": 26,
     "day": "2026-09-16",
-    "dailyAttempts": 13
+    "dailyAttempts": 26
   }
 }
