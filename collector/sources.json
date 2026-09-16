@@ -12,12 +12,6 @@
     "url": "https://ws4696.xyz/category/deck/feed/"
   },
   {
-    "id": "labo",
-    "name": "カードラボ",
-    "adapter": "labo",
-    "url": "https://www.c-labo.jp/blog/filter/tcg:6/"
-  },
-  {
     "id": "cs",
     "name": "CS主催者（X）",
     "adapter": "x_cs",

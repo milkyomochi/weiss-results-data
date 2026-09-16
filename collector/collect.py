@@ -673,6 +673,8 @@ def main():
             if not current:state["sources"].append(s)
             elif (s.get("checkedAt") or "") >= (current.get("checkedAt") or ""):
                 current.update(s)
+    # Retired collection source; retain its previously published results.
+    state["sources"]=[s for s in state["sources"] if s["id"]!="labo"]
     data["results"]=[r for r in merge(data["results"],incoming) if r["id"] not in rejected_ids]
     data["updatedAt"]=utcnow();data["schemaVersion"]=3
     added=len({r["id"] for r in data["results"]}-before)

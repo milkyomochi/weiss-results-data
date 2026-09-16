@@ -26,15 +26,6 @@
       "message": "最新6ページを確認。順位の対応が不明な投稿と対象外の記事は除外（19記事）。"
     },
     {
-      "id": "labo",
-      "name": "カードラボ",
-      "url": "https://www.c-labo.jp/blog/filter/tcg:6/",
-      "status": "error",
-      "checkedAt": "2026-09-16T01:15:00+00:00",
-      "count": 0,
-      "message": "取得できませんでした。既存の結果は保持しています。 <urlopen error timed out>"
-    },
-    {
       "id": "x",
       "name": "X（公開投稿）",
       "url": "https://x.com/",
