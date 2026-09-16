@@ -48,7 +48,7 @@ def main():
     state["manualUpdateUrl"] = "https://github.com/milkyomochi/weiss-results-data/actions/workflows/collect.yml"
     failures = [s["id"] for s in state["sources"] if s["status"] != "ok"]
     state["runStatus"] = "partial" if failures else "ok"
-    state["migrationComplete"] = False  # Set only after end-to-end verification and retirement of Work.
+    state["migrationComplete"] = True  # Verified end-to-end; old Work schedule paused on 2026-09-16.
     state["runUrl"] = os.environ.get("GITHUB_SERVER_URL", "https://github.com") + "/" + os.environ.get("GITHUB_REPOSITORY", "milkyomochi/weiss-results-data") + "/actions/runs/" + os.environ.get("GITHUB_RUN_ID", "")
     write("data/collection.json", state)
     # Publish a single snapshot to avoid mismatched results/status across deployments.
