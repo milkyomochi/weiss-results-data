@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-16T23:05:16+00:00",
+  "updatedAt": "2026-09-17T23:04:44+00:00",
   "results": [
     {
       "event": "第64回SSSS杯",
@@ -1786,6 +1786,45 @@
       "xCheckedAt": "2026-09-13T23:32:27+00:00"
     },
     {
+      "event": "TCGショップコロッサス@てんちょう🐾 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-08-29",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "ラブライブ!蓮ノ空女学院スクールアイドルクラブ",
+      "deck": null,
+      "organizer": "TCGショップコロッサス@てんちょう🐾",
+      "area": null,
+      "sourceUrl": "https://x.com/colotcg/status/2093652077490921678",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/colotcg/status/2093652077490921678",
+      "deckUrl": "https://ws4696.xyz/2026/09/17/wsdecklhs-217/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-17T23:04:07+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-lhs-2093652077490921678-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-lhs-2093652077490921678-0-300x181.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/09/17/wsdecklhs-217/",
+          "alt": "デッキレシピラブライブ!蓮ノ空女学院スクールアイドルクラブ"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/09/17/wsdecklhs-217/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-09-17"
+        }
+      ],
+      "sourceId": "x",
+      "id": "0070f30c0ecdb4c231098f64",
+      "xCheckedAt": "2026-09-17T23:04:31+00:00"
+    },
+    {
       "event": "TCGショップ ”ディスク” / 大会結果",
       "eventDate": null,
       "publishedAt": "2026-08-28",
@@ -3131,7 +3170,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-09T23:54:07+00:00"
+      "xCheckedAt": "2026-09-17T23:04:43+00:00"
     },
     {
       "event": "カードショップ竜星のPAO千葉中央店 / 公認大会",
@@ -3560,7 +3599,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-09T23:54:33+00:00"
+      "xCheckedAt": "2026-09-17T23:04:41+00:00"
     },
     {
       "event": "トレジャーコレクション イオンタウン周南久米店 / 大会結果",
@@ -3599,7 +3638,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-09T23:53:42+00:00"
+      "xCheckedAt": "2026-09-17T23:04:43+00:00"
     },
     {
       "event": "BOOKSあんとく みづま店@トレカコーナー / 大会結果",
@@ -3755,7 +3794,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-09T23:54:19+00:00"
+      "xCheckedAt": "2026-09-17T23:04:39+00:00"
     },
     {
       "event": "ホビーステーション仙台駅前店 / 大会結果",
