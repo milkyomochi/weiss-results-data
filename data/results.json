@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-18T23:05:21+00:00",
+  "updatedAt": "2026-09-19T23:05:16+00:00",
   "results": [
     {
       "event": "第64回SSSS杯",
@@ -1695,6 +1695,45 @@
       "sourceId": "reposts"
     },
     {
+      "event": "マト@BM池袋WS/WSR担当 / 公認大会",
+      "eventDate": null,
+      "publishedAt": "2026-08-29",
+      "category": "sanctioned",
+      "categoryReason": "発表文に「公認」の明記あり",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "【推しの子】",
+      "deck": null,
+      "organizer": "マト@BM池袋WS/WSR担当",
+      "area": null,
+      "sourceUrl": "https://x.com/bigmagicmato/status/2093627578007568752",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/bigmagicmato/status/2093627578007568752",
+      "deckUrl": "https://ws4696.xyz/2026/09/19/wsdeckosk-188/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-19T23:04:37+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-osk-2093627578007568752-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-osk-2093627578007568752-0-300x212.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/09/19/wsdeckosk-188/",
+          "alt": "デッキレシピ推しの子"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/09/19/wsdeckosk-188/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-09-19"
+        }
+      ],
+      "sourceId": "x",
+      "id": "9b76e549514c0d5471f6de69",
+      "xCheckedAt": "2026-09-19T23:05:02+00:00"
+    },
+    {
       "event": "パピー弥富店@✨名古屋駅から15分、近鉄弥富駅から徒歩5分✨ / 大会結果",
       "eventDate": null,
       "publishedAt": "2026-08-29",
@@ -3157,7 +3196,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-09T23:52:56+00:00"
+      "xCheckedAt": "2026-09-19T23:05:15+00:00"
     },
     {
       "event": "イーフォーラム河内長野店【ゲームトレカ】 / 大会結果",
@@ -3508,7 +3547,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-10T23:53:34+00:00"
+      "xCheckedAt": "2026-09-19T23:05:13+00:00"
     },
     {
       "event": "アメニティードリーム京都店 / 大会結果",
@@ -3586,7 +3625,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-09T23:53:25+00:00"
+      "xCheckedAt": "2026-09-19T23:05:14+00:00"
     },
     {
       "event": "CREATIVE STYLE / 大会結果",
