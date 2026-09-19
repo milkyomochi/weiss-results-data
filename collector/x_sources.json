@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryAt": "2026-09-19",
+  "lastDiscoveryAt": "2026-09-20",
   "accounts": [
     "saikoro1to3",
     "prinnyclub",
@@ -1105,6 +1105,9 @@
     {
       "url": "https://x.com/CS_shiga/status/2099054808301019646",
       "discoveredAt": "2026-09-18T23:03:38+00:00"
+    },
+    {
+      "url": "https://x.com/bigmagicmato/status/2093627578007568752"
     }
   ],
   "csOrganizers": [
@@ -1117,14 +1120,14 @@
         "ふらめ杯 優勝",
         "site:x.com/FLAME_CUP_unei 優勝"
       ],
-      "lastDiscoveryAt": "2026-09-19",
+      "lastDiscoveryAt": "2026-09-20",
       "lastDiscoveryOutcome": "candidates_found",
       "lastConfirmedPublishedAt": "2026-09-12",
       "lastConfirmedResultUrl": "https://x.com/FLAME_CUP_unei/status/2098713774433968395",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。前回確認済みより新しい結果は未確認。開催中止・結果未発表を意味せず、全投稿の網羅でもありません。",
       "discoveryFailure": "Xの通常投稿ページはHTTP 403で取得できませんでした。公式公開oEmbedで4投稿の本文・公開日は確認済みです。",
       "failedSourceUrl": "https://x.com/FLAME_CUP_unei/status/2098713774433968395",
-      "lastSearchAttemptAt": "2026-09-18T23:03:38+00:00",
+      "lastSearchAttemptAt": "2026-09-19T23:03:25+00:00",
       "lastSearchOutcome": "candidates_found"
     },
     {
@@ -1136,12 +1139,12 @@
         "福福杯 優勝",
         "site:x.com/fukufuku_ws 優勝"
       ],
-      "lastDiscoveryAt": "2026-09-19",
+      "lastDiscoveryAt": "2026-09-20",
       "lastDiscoveryOutcome": "candidates_found",
       "lastConfirmedPublishedAt": "2026-09-13",
       "lastConfirmedResultUrl": "https://x.com/fukufuku_ws/status/2099075207168499761",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。前回確認済みより新しい結果は未確認。開催中止・結果未発表を意味せず、全投稿の網羅でもありません。",
-      "lastSearchAttemptAt": "2026-09-18T23:03:38+00:00",
+      "lastSearchAttemptAt": "2026-09-19T23:03:25+00:00",
       "lastSearchOutcome": "candidates_found"
     },
     {
@@ -1153,12 +1156,12 @@
         "コギナゴカップ 優勝",
         "site:x.com/corgi_nagoya 優勝"
       ],
-      "lastDiscoveryAt": "2026-09-19",
+      "lastDiscoveryAt": "2026-09-20",
       "lastDiscoveryOutcome": "no_recent_result",
       "lastConfirmedPublishedAt": "2026-08-30",
       "lastConfirmedResultUrl": "https://x.com/corgi_nagoya/status/2093989484568485889",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。新しい結果は未確認。開催中止・結果未発表を意味しません。",
-      "lastSearchAttemptAt": "2026-09-18T23:03:38+00:00",
+      "lastSearchAttemptAt": "2026-09-19T23:03:25+00:00",
       "lastSearchOutcome": "no_candidates"
     },
     {
@@ -1170,15 +1173,15 @@
         "SSSS杯 優勝",
         "site:x.com/SSSS37336553297 優勝"
       ],
-      "lastDiscoveryAt": "2026-09-19",
-      "lastDiscoveryOutcome": "no_recent_result",
+      "lastDiscoveryAt": "2026-09-20",
+      "lastDiscoveryOutcome": "candidates_found",
       "lastConfirmedPublishedAt": "2026-09-13",
       "lastConfirmedResultUrl": "https://x.com/SSSS37336553297/status/2099073550821056585",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。前回確認済みより新しい結果は未確認。開催中止・結果未発表を意味せず、全投稿の網羅でもありません。",
       "discoveryFailure": "主催者案内からリンクされたTonamel大会ページは取得できませんでした。主催者の案内・結果と参加者の同回WS表記は公開oEmbedで確認済み。",
       "failedSourceUrl": "https://tonamel.com/competition/RVlyW",
-      "lastSearchAttemptAt": "2026-09-18T23:03:38+00:00",
-      "lastSearchOutcome": "no_candidates"
+      "lastSearchAttemptAt": "2026-09-19T23:03:25+00:00",
+      "lastSearchOutcome": "candidates_found"
     },
     {
       "name": "キズナ杯",
@@ -1190,15 +1193,15 @@
         "site:x.com/kizunahi_ijanai 優勝",
         "site:note.com/ws_final キズナ杯 運営レポート"
       ],
-      "lastDiscoveryAt": "2026-09-19",
-      "lastDiscoveryOutcome": "candidates_found",
+      "lastDiscoveryAt": "2026-09-20",
+      "lastDiscoveryOutcome": "no_recent_result",
       "lastConfirmedPublishedAt": "2026-08-22",
       "lastConfirmedResultUrl": "https://x.com/kizunahi_ijanai/status/2091092263976026370",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。新しい結果は未確認。開催中止・結果未発表を意味しません。",
       "lastSupplementedAt": "2026-09-11",
       "lastSupplementSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
-      "lastSearchAttemptAt": "2026-09-18T23:03:38+00:00",
-      "lastSearchOutcome": "candidates_found"
+      "lastSearchAttemptAt": "2026-09-19T23:03:25+00:00",
+      "lastSearchOutcome": "no_candidates"
     },
     {
       "name": "ハリケーンCS",
@@ -1225,10 +1228,10 @@
         "餅CS 結果",
         "第○回結果"
       ],
-      "lastDiscoveryAt": "2026-09-17",
+      "lastDiscoveryAt": "2026-09-20",
       "lastDiscoveryOutcome": "candidates_found",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。新しい結果は未確認。開催中止・結果未発表を意味しません。",
-      "lastSearchAttemptAt": "2026-09-16T23:03:28+00:00",
+      "lastSearchAttemptAt": "2026-09-19T23:03:25+00:00",
       "lastSearchOutcome": "candidates_found"
     },
     {
@@ -1247,8 +1250,8 @@
   ],
   "tavilyBudget": {
     "month": "2026-09",
-    "monthlyAttempts": 65,
-    "day": "2026-09-19",
+    "monthlyAttempts": 78,
+    "day": "2026-09-20",
     "dailyAttempts": 13
   }
 }
