@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-19T23:05:16+00:00",
+  "updatedAt": "2026-09-20T23:05:08+00:00",
   "results": [
     {
       "event": "第64回SSSS杯",
@@ -392,7 +392,8 @@
       "sourceId": "cs_reviewed",
       "entryKey": "3位||オセンベイ|",
       "xCheckedAt": "2026-09-12T23:45:01+00:00",
-      "id": "fa3640cfb48c27dd595f74e9"
+      "id": "fa3640cfb48c27dd595f74e9",
+      "contextSourceUrl": "https://x.com/FLAME_CUP_unei/status/2098713304852316356"
     },
     {
       "event": "第92回ふらめ杯",
@@ -430,7 +431,8 @@
       "sourceId": "cs_reviewed",
       "entryKey": "準優勝||五条悟|",
       "xCheckedAt": "2026-09-12T23:45:01+00:00",
-      "id": "c92ff5919718e06c8e458da9"
+      "id": "c92ff5919718e06c8e458da9",
+      "contextSourceUrl": "https://x.com/FLAME_CUP_unei/status/2098713527737548886"
     },
     {
       "event": "第92回ふらめ杯",
@@ -537,7 +539,8 @@
       "sourceId": "cs_reviewed",
       "entryKey": "4位||ジョン・スミス|",
       "xCheckedAt": "2026-09-12T23:45:01+00:00",
-      "id": "c03b91f7afcc8ceace0db9d0"
+      "id": "c03b91f7afcc8ceace0db9d0",
+      "contextSourceUrl": "https://x.com/FLAME_CUP_unei/status/2098713048030785605"
     },
     {
       "event": "第92回ふらめ杯",
@@ -1888,6 +1891,45 @@
       "sourceId": "x",
       "id": "0070f30c0ecdb4c231098f64",
       "xCheckedAt": "2026-09-17T23:04:31+00:00"
+    },
+    {
+      "event": "トレカタウン三刀屋店 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-08-28",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "天元突破グレンラガン",
+      "deck": null,
+      "organizer": "トレカタウン三刀屋店",
+      "area": null,
+      "sourceUrl": "https://x.com/torecatown_mi/status/2093312452842917998",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/torecatown_mi/status/2093312452842917998",
+      "deckUrl": "https://ws4696.xyz/2026/09/20/wsdeckgl-7/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-20T23:04:29+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-gl-2093312452842917998-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-gl-2093312452842917998-0-300x200.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/09/20/wsdeckgl-7/",
+          "alt": "デッキレシピ天元突破グレンラガン"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/09/20/wsdeckgl-7/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-09-20"
+        }
+      ],
+      "sourceId": "x",
+      "id": "125134db7dee74e3246df267",
+      "xCheckedAt": "2026-09-20T23:04:54+00:00"
     },
     {
       "event": "TCGショップ ”ディスク” / 大会結果",
@@ -3586,7 +3628,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-09T23:53:09+00:00"
+      "xCheckedAt": "2026-09-20T23:05:07+00:00"
     },
     {
       "event": "🐎TC バトロコ高田馬場🐎@アルバイト募集中 / 大会結果",
