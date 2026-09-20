@@ -12,7 +12,8 @@
     "SSSS37336553297",
     "kizunahi_ijanai",
     "hrccsws",
-    "bigmariows"
+    "bigmariows",
+    "10Jo_ceiling"
   ],
   "posts": [
     {
@@ -1246,6 +1247,17 @@
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。新しい結果は未確認。開催中止・結果未発表を意味しません。",
       "lastSearchAttemptAt": "2026-09-17T23:02:55+00:00",
       "lastSearchOutcome": "no_candidates"
+    },
+    {
+      "name": "WS天井杯",
+      "account": "10Jo_ceiling",
+      "priority": false,
+      "searchTerms": [
+        "WS天井杯 ヴァイス 結果",
+        "天井杯 優勝",
+        "site:x.com/10Jo_ceiling 結果"
+      ],
+      "discoveryNote": "ユーザー指定で通常のCS収集対象に追加。検索で発見した投稿は公開oEmbed等で本文を確認してから採用します。"
     }
   ],
   "tavilyBudget": {
