@@ -553,9 +553,6 @@ def collect_x(fetch,source,pages,old):
             payload=json.loads(fetch.raw(endpoint))
             found=parse_x(payload,url,hint)
             outcome="parsed" if found else "no_result"
-            cutoff=(datetime.now(JST)-timedelta(days=14)).date().isoformat()
-            if found and all((r.get("publishedAt") or "")<cutoff for r in found):
-                found=[];outcome="outside_window"
             if found:results.extend(found)
             else:skipped+=1
             print(f"  X {attempts}: {len(found)} result(s)",flush=True)

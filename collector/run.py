@@ -27,10 +27,10 @@ def freshness(before, after, now=None):
     cutoff=(now-timedelta(days=14)).date().isoformat()
     known={r["id"] for r in before["results"]}
     added=[r for r in after["results"] if r["id"] not in known]
-    recent=[r for r in added if (r.get("publishedAt") or "")>=cutoff]
+    recent=[r for r in added if r.get("evidence")=="primary" and (r.get("publishedAt") or "")>=cutoff]
     articles=[s.get("publishedAt") for r in after["results"] for s in r.get("relatedSources",[]) if s.get("publishedAt")]
     articles.extend(r["publishedAt"] for r in after["results"] if r.get("evidence")=="repost" and r.get("publishedAt"))
-    latest=max((r.get("publishedAt") or "" for r in after["results"]),default="") or None
+    latest=max((r.get("publishedAt") or "" for r in after["results"] if r.get("evidence")=="primary"),default="") or None
     return dict(latestResultPublishedAt=latest, latestArticlePublishedAt=max(articles,default=None),
                 recentAdded=len(recent), historicalAdded=len(added)-len(recent),
                 daysSinceLatest=(now.date()-datetime.fromisoformat(latest).date()).days if latest else None)

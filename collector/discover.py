@@ -50,7 +50,7 @@ def discover(config, key, search_fn=search, pause=time.sleep, checkpoint=lambda:
     plans = []
     for account in PRIORITY:
         organizer = organizers[account.lower()]
-        plans.append((organizer, [f'"{organizer["name"]}" 大会結果', f'site:x.com/{account} 結果']))
+        plans.append((organizer, [f'"{organizer["name"]}" 大会結果', f'site:x.com "{account}" "{organizer["name"]}"']))
     # Normal organizers (including Hurricane) remain in collection, outside the priority five.
     normal = [o for o in config.get("csOrganizers", []) if o["account"].lower() not in {a.lower() for a in PRIORITY}]
     if normal:
@@ -82,7 +82,7 @@ def discover(config, key, search_fn=search, pause=time.sleep, checkpoint=lambda:
                 for result in payload["results"]:
                     url = post_url(result.get("url", ""))
                     # Account queries may still return unrelated authors; never queue those.
-                    if url and organizer and "site:x.com/" in query and url.split("/")[3].lower() != organizer["account"].lower():
+                    if url and organizer and "site:x.com" in query and url.split("/")[3].lower() != organizer["account"].lower():
                         continue
                     if url:
                         urls.add(url)
