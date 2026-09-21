@@ -1,6 +1,6 @@
 {
-  "lastRun": "2026-09-21T11:24:06+00:00",
-  "lastAdded": 2,
+  "lastRun": "2026-09-21T11:33:31+00:00",
+  "lastAdded": 0,
   "schedule": {
     "enabled": true,
     "label": "毎朝8時ごろ（GitHub Actions）",
@@ -12,7 +12,7 @@
       "name": "WS公式",
       "url": "https://ws-tcg.com/deckrecipe/recipe_prize/",
       "status": "partial",
-      "checkedAt": "2026-09-21T11:22:55+00:00",
+      "checkedAt": "2026-09-21T11:32:13+00:00",
       "count": 0,
       "message": "公式の入賞者一覧を確認。15ページは取得・解析できませんでした。"
     },
@@ -21,7 +21,7 @@
       "name": "しろくろ速報",
       "url": "https://ws4696.xyz/category/deck/feed/",
       "status": "ok",
-      "checkedAt": "2026-09-21T11:23:27+00:00",
+      "checkedAt": "2026-09-21T11:32:46+00:00",
       "count": 42,
       "message": "最新6ページを確認。順位の対応が不明な投稿と対象外の記事は除外（18記事）。"
     },
@@ -29,19 +29,19 @@
       "id": "x",
       "name": "X（公開投稿）",
       "url": "https://x.com/",
-      "status": "partial",
-      "checkedAt": "2026-09-21T11:23:53+00:00",
-      "count": 2,
-      "message": "公開投稿を20件確認し、2件の結果を取得。対応が曖昧な投稿等は16件除外。2件は取得できませんでした。検索・紹介記事で見つかった投稿が対象で、全投稿は網羅しません。"
+      "status": "ok",
+      "checkedAt": "2026-09-21T11:33:16+00:00",
+      "count": 16,
+      "message": "公開投稿を20件確認し、16件の結果を取得。対応が曖昧な投稿等は5件除外。検索・紹介記事で見つかった投稿が対象で、全投稿は網羅しません。"
     },
     {
       "id": "cs",
       "name": "CS主催者（X）",
       "url": "https://x.com/",
       "status": "partial",
-      "checkedAt": "2026-09-21T11:23:41+00:00",
-      "count": 10,
-      "message": "CS主催者の公開投稿を20件確認し、10件の結果を取得。対応が曖昧な投稿等は14件除外。優先確認：ふらめ杯・福福杯・コギナゴカップ・SSSS杯・キズナ杯。Xの通常投稿ページはHTTP 403で取得できませんでした。公式公開oEmbedで4投稿の本文・公開日は確認済みです。コギナゴカップは2026-09-21の検索で直近結果を未確認。SSSS杯は2026-09-21の検索で直近結果を未確認。主催者案内からリンクされたTonamel大会ページは取得できませんでした。主催者の案内・結果と参加者の同回WS表記は公開oEmbedで確認済み。キズナ杯は2026-09-21の検索で直近結果を未確認。検索・紹介記事で見つかった投稿が対象で、全投稿は網羅しません。"
+      "checkedAt": "2026-09-21T11:33:01+00:00",
+      "count": 17,
+      "message": "CS主催者の公開投稿を20件確認し、17件の結果を取得。対応が曖昧な投稿等は12件除外。優先確認：ふらめ杯・福福杯・コギナゴカップ・SSSS杯・キズナ杯。Xの通常投稿ページはHTTP 403で取得できませんでした。公式公開oEmbedで4投稿の本文・公開日は確認済みです。コギナゴカップは2026-09-21の検索で直近結果を未確認。SSSS杯は2026-09-21の検索で直近結果を未確認。主催者案内からリンクされたTonamel大会ページは取得できませんでした。主催者の案内・結果と参加者の同回WS表記は公開oEmbedで確認済み。キズナ杯は2026-09-21の検索で直近結果を未確認。検索・紹介記事で見つかった投稿が対象で、全投稿は網羅しません。"
     },
     {
       "id": "cs_reports",
@@ -74,125 +74,32 @@
       "id": "discovery",
       "name": "X・優先CSの新規検索（Tavily）",
       "url": "https://www.tavily.com/",
-      "checkedAt": "2026-09-21T11:22:26+00:00",
-      "count": 2,
-      "status": "partial",
-      "searches": 13,
-      "errors": [
-        {
-          "query": "site:x.com/FLAME_CUP_unei 結果",
-          "type": "HTTPError",
-          "httpStatus": 400
-        },
-        {
-          "query": "site:x.com/fukufuku_ws 結果",
-          "type": "HTTPError",
-          "httpStatus": 400
-        },
-        {
-          "query": "site:x.com/corgi_nagoya 結果",
-          "type": "HTTPError",
-          "httpStatus": 400
-        },
-        {
-          "query": "site:x.com/SSSS37336553297 結果",
-          "type": "HTTPError",
-          "httpStatus": 400
-        },
-        {
-          "query": "site:x.com/kizunahi_ijanai 結果",
-          "type": "HTTPError",
-          "httpStatus": 400
-        }
-      ],
-      "creditsReported": 8,
-      "resultUrls": [
-        "https://x.com/CS_shiga/status/2099054808301019646",
-        "https://x.com/i/status/2100581789811060955",
-        "https://x.com/AmitShah/status/2096991287295766577"
-      ],
-      "webCandidates": [
-        "https://x.com/4rashi0317/reposts?lang=ar",
-        "https://note.com/murato1126/n/n470914118dc6",
-        "https://x.com/kizunahi_ijanai/reposts?lang=ar",
-        "https://www.youtube.com/watch?v=dN_t0y77NuI"
-      ],
-      "queries": [
-        {
-          "query": "\"ふらめ杯\" 大会結果",
-          "postUrls": []
-        },
-        {
-          "query": "site:x.com/FLAME_CUP_unei 結果",
-          "postUrls": []
-        },
-        {
-          "query": "\"福福杯\" 大会結果",
-          "postUrls": []
-        },
-        {
-          "query": "site:x.com/fukufuku_ws 結果",
-          "postUrls": []
-        },
-        {
-          "query": "\"コギナゴカップ\" 大会結果",
-          "postUrls": []
-        },
-        {
-          "query": "site:x.com/corgi_nagoya 結果",
-          "postUrls": []
-        },
-        {
-          "query": "\"SSSS杯\" 大会結果",
-          "postUrls": []
-        },
-        {
-          "query": "site:x.com/SSSS37336553297 結果",
-          "postUrls": []
-        },
-        {
-          "query": "\"キズナ杯\" 大会結果",
-          "postUrls": []
-        },
-        {
-          "query": "site:x.com/kizunahi_ijanai 結果",
-          "postUrls": []
-        },
-        {
-          "query": "\"ハリケーンCS\" hrccsws 結果",
-          "postUrls": []
-        },
-        {
-          "query": "site:x.com \"ヴァイスシュヴァルツ\" \"優勝\"",
-          "postUrls": [
-            "https://x.com/CS_shiga/status/2099054808301019646",
-            "https://x.com/i/status/2100581789811060955",
-            "https://x.com/AmitShah/status/2096991287295766577"
-          ]
-        },
-        {
-          "query": "\"ヴァイスシュヴァルツ\" \"大会結果\"",
-          "postUrls": []
-        }
-      ],
+      "checkedAt": null,
+      "count": 0,
+      "status": "pending",
+      "searches": 0,
+      "errors": [],
+      "creditsReported": 0,
+      "resultUrls": [],
+      "webCandidates": [],
+      "message": "Tavilyの検索上限（日26回・月900回）により新規検索を見送りました。直接取得は継続します。",
       "budget": {
         "month": "2026-09",
         "monthlyAttempts": 104,
         "day": "2026-09-21",
         "dailyAttempts": 26
-      },
-      "message": "Tavily basicで13検索。優先CS5大会を各2検索。X候補3件（新規2件）、その他Web候補4件。本文で確認できた入賞情報だけ採用します。Web候補は未検証です。今月の検索試行104/900回。 検索失敗5件。"
+      }
     }
   ],
   "migrationComplete": true,
   "manualUpdateUrl": "https://github.com/milkyomochi/weiss-results-data/actions/workflows/collect.yml",
   "runStatus": "partial",
-  "runUrl": "https://github.com/milkyomochi/weiss-results-data/actions/runs/35593694079",
+  "runUrl": "https://github.com/milkyomochi/weiss-results-data/actions/runs/35594561412",
   "freshness": {
-    "latestResultPublishedAt": "2026-09-21",
+    "latestResultPublishedAt": "2026-09-13",
     "latestArticlePublishedAt": "2026-09-21",
-    "recentAdded": 2,
+    "recentAdded": 0,
     "historicalAdded": 0,
-    "daysSinceLatest": 0
+    "daysSinceLatest": 8
   }
 }
