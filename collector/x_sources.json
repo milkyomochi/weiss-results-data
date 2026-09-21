@@ -25,16 +25,24 @@
       "lastCheckOutcome": "outside_window"
     },
     {
-      "url": "https://x.com/prinnyclub/status/2091404522312933390"
+      "url": "https://x.com/prinnyclub/status/2091404522312933390",
+      "lastCheckedAt": "2026-09-21T11:33:17+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
-      "url": "https://x.com/prinnyclub/status/2088878623449321924"
+      "url": "https://x.com/prinnyclub/status/2088878623449321924",
+      "lastCheckedAt": "2026-09-21T11:33:18+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
-      "url": "https://x.com/prinnyclub/status/2087059106314240141"
+      "url": "https://x.com/prinnyclub/status/2087059106314240141",
+      "lastCheckedAt": "2026-09-21T11:33:19+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
-      "url": "https://x.com/prinnyclub/status/2086321603483443221"
+      "url": "https://x.com/prinnyclub/status/2086321603483443221",
+      "lastCheckedAt": "2026-09-21T11:33:20+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/taics1111/status/2076233772614459567",
@@ -55,7 +63,9 @@
           "alt": "第12回WSたいCS 優勝 レーズン選手のデッキリスト"
         }
       ],
-      "relatedSources": []
+      "relatedSources": [],
+      "lastCheckedAt": "2026-09-21T11:33:15+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/taics1111/status/2076234033760215204",
@@ -82,7 +92,9 @@
           "name": "主催者の結果発表（返信元）",
           "publishedAt": "2026-07-12"
         }
-      ]
+      ],
+      "lastCheckedAt": "2026-09-21T11:33:14+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/taics1111/status/2076234241252425924",
@@ -109,7 +121,9 @@
           "name": "主催者の結果発表（返信元）",
           "publishedAt": "2026-07-12"
         }
-      ]
+      ],
+      "lastCheckedAt": "2026-09-21T11:33:14+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/taics1111/status/2076234416725352856",
@@ -136,21 +150,27 @@
           "name": "主催者の結果発表（返信元）",
           "publishedAt": "2026-07-12"
         }
-      ]
+      ],
+      "lastCheckedAt": "2026-09-21T11:33:13+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/moti_cs_/status/2086345200268653034",
       "event": "第26回餅CS",
       "eventKind": "cs",
       "game": "ws",
-      "contextSourceUrl": "https://x.com/moti_cs_/status/2086345200268653034"
+      "contextSourceUrl": "https://x.com/moti_cs_/status/2086345200268653034",
+      "lastCheckedAt": "2026-09-21T11:33:12+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/moti_cs_/status/2094012306959241264",
       "event": "第27回餅CS",
       "eventKind": "cs",
       "game": "ws",
-      "contextSourceUrl": "https://x.com/moti_cs_/status/2094015075409596846"
+      "contextSourceUrl": "https://x.com/moti_cs_/status/2094015075409596846",
+      "lastCheckedAt": "2026-09-21T11:33:11+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/FLAME_CUP_unei/status/2088551921112244566",
@@ -276,7 +296,9 @@
             }
           ]
         }
-      ]
+      ],
+      "lastCheckedAt": "2026-09-21T11:33:05+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/fukufuku_ws/status/2093998440313413668",
@@ -316,7 +338,9 @@
           "images": [],
           "relatedSources": []
         }
-      ]
+      ],
+      "lastCheckedAt": "2026-09-21T11:33:02+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/fukufuku_ws/status/2096536905173410166",
@@ -547,11 +571,15 @@
     },
     {
       "url": "https://x.com/HeathCrim/status/2096536242318107008",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-21T11:33:07+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/ryunosuke_kmt/status/2094015377244377317",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-21T11:33:10+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/bigmariows/status/2092604196323516660",
@@ -801,31 +829,47 @@
       "lastCheckOutcome": "outside_window"
     },
     {
-      "url": "https://x.com/PAOtoreka_chiba/status/2082054061550186937"
+      "url": "https://x.com/PAOtoreka_chiba/status/2082054061550186937",
+      "lastCheckedAt": "2026-09-21T11:33:22+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
-      "url": "https://x.com/torepla_okazaki/status/2070842499090862254"
+      "url": "https://x.com/torepla_okazaki/status/2070842499090862254",
+      "lastCheckedAt": "2026-09-21T11:33:30+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
-      "url": "https://x.com/front_card/status/2082426712072327379"
+      "url": "https://x.com/front_card/status/2082426712072327379",
+      "lastCheckedAt": "2026-09-21T11:33:20+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
-      "url": "https://x.com/bulldor777/status/2071241114380874013"
+      "url": "https://x.com/bulldor777/status/2071241114380874013",
+      "lastCheckedAt": "2026-09-21T11:33:29+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
-      "url": "https://x.com/mizumatoreca/status/2073691409652265325"
+      "url": "https://x.com/mizumatoreca/status/2073691409652265325",
+      "lastCheckedAt": "2026-09-21T11:33:25+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
-      "url": "https://x.com/tbs_kwskT/status/2071896859959017534"
+      "url": "https://x.com/tbs_kwskT/status/2071896859959017534",
+      "lastCheckedAt": "2026-09-21T11:33:27+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
-      "url": "https://x.com/poyonnmaru/status/2070859091183010092"
+      "url": "https://x.com/poyonnmaru/status/2070859091183010092",
+      "lastCheckedAt": "2026-09-21T11:33:29+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/tcg_mobara/status/2066020819734814823"
     },
     {
-      "url": "https://x.com/colotcg/status/2070823997663842610"
+      "url": "https://x.com/colotcg/status/2070823997663842610",
+      "lastCheckedAt": "2026-09-21T11:33:31+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/GalaxyCardStore/status/2070169007987253717"
@@ -850,7 +894,9 @@
     },
     {
       "url": "https://x.com/wskagawacs1/status/2060971285476528499",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-21T11:33:16+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/wskagawacs1/status/2060971276634849604",
@@ -861,7 +907,9 @@
       "eventKind": "cs"
     },
     {
-      "url": "https://x.com/hbst_meieki/status/2082412240427487251"
+      "url": "https://x.com/hbst_meieki/status/2082412240427487251",
+      "lastCheckedAt": "2026-09-21T11:33:21+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/GproYsi/status/2057805996106645695"
@@ -885,7 +933,9 @@
       "url": "https://x.com/batolocobaba/status/2074129151456641478"
     },
     {
-      "url": "https://x.com/ButterBeer_TCG/status/2074123746974306561"
+      "url": "https://x.com/ButterBeer_TCG/status/2074123746974306561",
+      "lastCheckedAt": "2026-09-21T11:33:23+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/torekore_kudama/status/2073740754539962848"
@@ -897,10 +947,14 @@
       "url": "https://x.com/eforum_staff/status/2082060276720132571"
     },
     {
-      "url": "https://x.com/MastersSquare/status/2074090196375880179"
+      "url": "https://x.com/MastersSquare/status/2074090196375880179",
+      "lastCheckedAt": "2026-09-21T11:33:23+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
-      "url": "https://x.com/cuiyang520/status/2073746213258895711"
+      "url": "https://x.com/cuiyang520/status/2073746213258895711",
+      "lastCheckedAt": "2026-09-21T11:33:24+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/hbst_meieki/status/2072273151489425487"
@@ -912,10 +966,14 @@
       "url": "https://x.com/saisaikokubu/status/2073714895724712047"
     },
     {
-      "url": "https://x.com/MastersSquare/status/2073687351302426863"
+      "url": "https://x.com/MastersSquare/status/2073687351302426863",
+      "lastCheckedAt": "2026-09-21T11:33:26+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
-      "url": "https://x.com/CS_shiga/status/2073673401055781283"
+      "url": "https://x.com/CS_shiga/status/2073673401055781283",
+      "lastCheckedAt": "2026-09-21T11:33:26+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/batolocobaba/status/2072675783626367250"
@@ -924,7 +982,9 @@
       "url": "https://x.com/HBSTsendai/status/2072273014272700452"
     },
     {
-      "url": "https://x.com/mathjong1/status/2071552639687627117"
+      "url": "https://x.com/mathjong1/status/2071552639687627117",
+      "lastCheckedAt": "2026-09-21T11:33:28+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/ws_changwon/status/2070857966111293459"
@@ -1021,7 +1081,9 @@
     {
       "url": "https://x.com/FLAME_CUP_unei/status/2098341860817416415",
       "discoveredAt": "2026-09-16T00:52:25+00:00",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-21T11:33:01+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/FLAME_CUP_unei/status/2098616129350729945",
@@ -1033,7 +1095,9 @@
     {
       "url": "https://x.com/fukufuku_ws/status/2025506720886522155",
       "discoveredAt": "2026-09-16T00:52:25+00:00",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-21T11:33:06+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/fukufuku_ws/status/2033116087043383394",
@@ -1048,7 +1112,9 @@
     {
       "url": "https://x.com/fukufuku_ws/status/2068530518971551758",
       "discoveredAt": "2026-09-16T00:52:25+00:00",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-21T11:33:04+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/fukufuku_ws/status/2071174328973209604",
@@ -1076,17 +1142,23 @@
       "lastCheckOutcome": "no_result"
     },
     {
-      "url": "https://x.com/MastersSquare/status/2092220371395301440"
+      "url": "https://x.com/MastersSquare/status/2092220371395301440",
+      "lastCheckedAt": "2026-09-21T11:33:17+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/FLAME_CUP_unei/status/2095762045614653788",
       "discoveredAt": "2026-09-16T23:03:28+00:00",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-21T11:33:03+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/FLAME_CUP_unei/status/2097310071411847435",
       "discoveredAt": "2026-09-16T23:03:28+00:00",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-21T11:33:03+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/FLAME_CUP_unei/status/2098658978029048113",
@@ -1123,22 +1195,30 @@
     {
       "url": "https://x.com/moti_cs_/status/2095494800711860551",
       "discoveredAt": "2026-09-16T23:03:28+00:00",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-21T11:33:10+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/moti_cs_/status/2095865555001688550",
       "discoveredAt": "2026-09-16T23:03:28+00:00",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-21T11:33:09+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/moti_cs_/status/2096194617003929606",
       "discoveredAt": "2026-09-16T23:03:28+00:00",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-21T11:33:08+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/moti_cs_/status/2098966811115147527",
       "discoveredAt": "2026-09-16T23:03:28+00:00",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-21T11:33:06+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/i/status/2098966811115147527",
