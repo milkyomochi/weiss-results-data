@@ -5,7 +5,7 @@ import shutil
 import subprocess
 import sys
 from pathlib import Path
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from discover import discover
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -20,6 +20,20 @@ def write(path, value):
     temp = target.with_suffix(target.suffix + ".tmp")
     temp.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     temp.replace(target)
+
+
+def freshness(before, after, now=None):
+    now=now or datetime.now(timezone(timedelta(hours=9)))
+    cutoff=(now-timedelta(days=14)).date().isoformat()
+    known={r["id"] for r in before["results"]}
+    added=[r for r in after["results"] if r["id"] not in known]
+    recent=[r for r in added if (r.get("publishedAt") or "")>=cutoff]
+    articles=[s.get("publishedAt") for r in after["results"] for s in r.get("relatedSources",[]) if s.get("publishedAt")]
+    articles.extend(r["publishedAt"] for r in after["results"] if r.get("evidence")=="repost" and r.get("publishedAt"))
+    latest=max((r.get("publishedAt") or "" for r in after["results"]),default="") or None
+    return dict(latestResultPublishedAt=latest, latestArticlePublishedAt=max(articles,default=None),
+                recentAdded=len(recent), historicalAdded=len(added)-len(recent),
+                daysSinceLatest=(now.date()-datetime.fromisoformat(latest).date()).days if latest else None)
 
 
 def main():
@@ -43,6 +57,7 @@ def main():
     if not ({r["id"] for r in before["results"]} - rejected).issubset({r["id"] for r in after["results"]}):
         raise RuntimeError("Unexpected loss of existing result IDs; publication stopped")
     state = read("data/collection.json")
+    state["freshness"] = freshness(before,after)
     state["sources"] = [s for s in state["sources"] if s["id"] != "discovery"] + [discovery]
     state["schedule"] = dict(enabled=True, label="毎朝8時ごろ（GitHub Actions）", timezone="Asia/Tokyo")
     state["manualUpdateUrl"] = "https://github.com/milkyomochi/weiss-results-data/actions/workflows/collect.yml"
@@ -59,7 +74,7 @@ def main():
         shutil.copyfile(ROOT / "data" / name, public / name)
     (public / "index.html").write_text('<!doctype html><html lang="ja"><meta charset="utf-8"><title>WS入賞ウォッチ データ</title><h1>WS入賞ウォッチ データ</h1><p><a href="snapshot.json">最新データと収集状態</a></p><p>検索接続時: <a href="https://www.tavily.com/">Powered by Tavily</a></p></html>', encoding="utf-8")
     write(".run-status.json", dict(status=state["runStatus"], failedSources=failures, discovery=discovery))
-    print(json.dumps(dict(records=len(after["results"]), status=state["runStatus"], failedSources=failures)))
+    print(json.dumps(dict(records=len(after["results"]), status=state["runStatus"], failedSources=failures, freshness=state["freshness"])))
 
 
 if __name__ == "__main__":

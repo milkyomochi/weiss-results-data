@@ -22,7 +22,10 @@ def post_url(value):
 def search(query, freshness, key):
     params = dict(query=query, start_date=freshness, search_depth="basic", auto_parameters=False,
                   max_results=10, topic="general", include_answer=False, include_raw_content=False,
-                  include_images=False, include_usage=True)
+                  include_images=False, include_usage=True, language="ja", country="japan",
+                  exact_match='"' in query, include_published_date=True, safe_search=True)
+    if "site:x.com" in query:
+        params.update(include_domains=["x.com", "twitter.com"], include_domains_mode="restrict")
     req = urllib.request.Request(ENDPOINT, data=json.dumps(params).encode(),
         headers={"Content-Type": "application/json", "Authorization": "Bearer " + key})
     with urllib.request.urlopen(req, timeout=25) as response:
@@ -47,13 +50,13 @@ def discover(config, key, search_fn=search, pause=time.sleep, checkpoint=lambda:
     plans = []
     for account in PRIORITY:
         organizer = organizers[account.lower()]
-        plans.append((organizer, [f'{organizer["name"]} ヴァイス 大会結果', f'site:x.com/{account}/status/ 優勝 準優勝 3位 4位']))
+        plans.append((organizer, [f'"{organizer["name"]}" 大会結果', f'site:x.com/{account} 結果']))
     # Normal organizers (including Hurricane) remain in collection, outside the priority five.
     normal = [o for o in config.get("csOrganizers", []) if o["account"].lower() not in {a.lower() for a in PRIORITY}]
     if normal:
         organizer = normal[now.toordinal() % len(normal)]
-        plans.append((organizer, [f'{organizer["name"]} {organizer["account"]} ヴァイス 結果']))
-    plans.append((None, ["site:x.com ヴァイスシュヴァルツ 公認 非公認 優勝 大会結果", "ヴァイスシュヴァルツ CS 大会結果 入賞 デッキ"]))
+        plans.append((organizer, [f'"{organizer["name"]}" {organizer["account"]} 結果']))
+    plans.append((None, ['site:x.com "ヴァイスシュヴァルツ" "優勝"', '"ヴァイスシュヴァルツ" "大会結果"']))
     budget = config.setdefault("tavilyBudget", {})
     if budget.get("month") != str(now)[:7]: budget.update(month=str(now)[:7], monthlyAttempts=0)
     if budget.get("day") != str(now): budget.update(day=str(now), dailyAttempts=0)
@@ -63,10 +66,12 @@ def discover(config, key, search_fn=search, pause=time.sleep, checkpoint=lambda:
         return report
     existing = {post_url(p["url"]) for p in config.get("posts", [])}
     errors = []
+    report["queries"] = []
     for organizer, queries in plans:
         urls = set()
         failed = False
         for query in queries:
+            accepted = []
             try:
                 budget["dailyAttempts"] += 1
                 budget["monthlyAttempts"] += 1
@@ -76,17 +81,30 @@ def discover(config, key, search_fn=search, pause=time.sleep, checkpoint=lambda:
                 report["creditsReported"] += payload.get("usage", {}).get("credits", 0)
                 for result in payload["results"]:
                     url = post_url(result.get("url", ""))
+                    # Account queries may still return unrelated authors; never queue those.
+                    if url and organizer and "site:x.com/" in query and url.split("/")[3].lower() != organizer["account"].lower():
+                        continue
                     if url:
                         urls.add(url)
+                        accepted.append(url)
                         if url not in report["resultUrls"]: report["resultUrls"].append(url)
                     else:
                         raw = result.get("url", "")
                         parsed = urllib.parse.urlsplit(raw)
-                        if parsed.scheme == "https" and parsed.hostname and not parsed.username and not parsed.password and raw not in report["webCandidates"]:
+                        relevant = (organizer and organizer["name"] in (result.get("title", "") + result.get("content", ""))) or "ヴァイス" in (result.get("title", "") + result.get("content", ""))
+                        if relevant and parsed.scheme == "https" and parsed.hostname and not parsed.username and not parsed.password and raw not in report["webCandidates"]:
                             report["webCandidates"].append(raw)
+                        # Search may return a profile/article with individual post links in its excerpt.
+                        # Use the links only; excerpts never supply tournament facts.
+                        for candidate in re.findall(r'https://(?:x|twitter)\.com/[A-Za-z0-9_]+/status/\d+', result.get("content", "")):
+                            candidate = post_url(candidate)
+                            if organizer and candidate.split("/")[3].lower() != organizer["account"].lower(): continue
+                            urls.add(candidate); accepted.append(candidate)
+                            if candidate not in report["resultUrls"]: report["resultUrls"].append(candidate)
             except Exception as error:
                 failed = True
                 errors.append(dict(query=query, type=type(error).__name__, httpStatus=getattr(error,"code",None)))
+            report["queries"].append(dict(query=query, postUrls=list(dict.fromkeys(accepted))))
             pause(1.1)
         if organizer:
             organizer["lastSearchAttemptAt"] = stamp

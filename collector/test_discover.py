@@ -74,6 +74,25 @@ class DiscoveryTests(unittest.TestCase):
             self.assertNotIn("secret-test", req.data.decode())
             self.assertEqual(req.get_header("Authorization"), "Bearer secret-test")
 
+    def test_x_search_is_restricted_and_japanese(self):
+        from discover import search
+        with patch("discover.urllib.request.urlopen") as request:
+            request.return_value.__enter__.return_value.read.return_value = b'{"results": []}'
+            search('site:x.com "ヴァイスシュヴァルツ" "優勝"', "2026-09-01", "test")
+            body=json.loads(request.call_args.args[0].data)
+            self.assertEqual(body["include_domains"],["x.com","twitter.com"])
+            self.assertEqual(body["include_domains_mode"],"restrict")
+            self.assertEqual(body["language"],"ja")
+            self.assertTrue(body["exact_match"])
+
+    def test_extract_profile_post_link_without_copying_snippet(self):
+        config=self.config()
+        def search(*args):
+            return {"results":[{"url":"https://x.com/FLAME_CUP_unei/all","content":"リンク https://x.com/FLAME_CUP_unei/status/999 優勝 Fake"}]}
+        report=discover(config,"test",search,lambda _:None)
+        self.assertEqual(report["count"],1)
+        self.assertNotIn("title",config["posts"][0])
+
 
 if __name__ == "__main__":
     unittest.main()

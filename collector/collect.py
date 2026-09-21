@@ -4,7 +4,7 @@ from __future__ import annotations
 import argparse, hashlib, json, re, time, unicodedata, signal
 import urllib.request, urllib.error, urllib.parse, urllib.robotparser
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
 from pathlib import Path
@@ -502,6 +502,22 @@ def prioritize_posts(posts,organizers):
             if group:ordered.append(group.pop(0))
     return ordered+other
 
+
+def due_posts(posts, now=None):
+    """Unseen posts first, newest IDs first; negative checks must not monopolize the queue."""
+    now=now or datetime.now(timezone.utc)
+    ready=[]
+    for url,entry in posts.items():
+        last=entry.get("lastCheckedAt")
+        if last:
+            try:
+                age=(now-datetime.fromisoformat(last)).total_seconds()
+                cooldown=7*86400 if entry.get("lastCheckOutcome") in {"parsed","no_result","outside_window"} else 86400
+                if age<cooldown:continue
+            except (ValueError,TypeError):pass
+        ready.append((url,entry))
+    return sorted(ready,key=lambda pair:(bool(pair[1].get("lastCheckedAt")), -int(pair[0].rsplit("/",1)[-1]) if pair[0].rsplit("/",1)[-1].isdigit() else 0))
+
 def collect_x(fetch,source,pages,old):
     discovery=json.loads((ROOT/"collector/x_sources.json").read_text())
     hints={}
@@ -512,7 +528,13 @@ def collect_x(fetch,source,pages,old):
     for url in hints:posts.setdefault(url,{"url":url})
     results=[];failures=0;skipped=0;attempts=0
     cs_mode=source["id"]=="cs"
-    ordered=prioritize_posts(posts,discovery.get("csOrganizers",[])) if cs_mode else list(posts.items())
+    ready=due_posts(posts)
+    # Preserve unseen-before-retry ordering across the organizer round-robin.
+    ordered=[]
+    for unseen in (True,False):
+        batch=dict((u,e) for u,e in ready if (not e.get("lastCheckedAt"))==unseen)
+        ordered.extend(prioritize_posts(batch,discovery.get("csOrganizers",[])) if cs_mode else batch.items())
+    audit=[]
     for url,entry in ordered:
         if not re.fullmatch(r"https://x.com/[A-Za-z0-9_]+/status/\d+",url):continue
         existing=hints.get(url,[])
@@ -524,22 +546,33 @@ def collect_x(fetch,source,pages,old):
         if checked and all(t and (datetime.now(timezone.utc)-datetime.fromisoformat(t)).total_seconds()<7*86400 for t in checked):continue
         if attempts>=20:break
         attempts+=1
+        outcome="error";found=[];http_status=None
         try:
             # Use X's official public embed API; no login/session scraping.
             endpoint="https://publish.twitter.com/oembed?"+urllib.parse.urlencode(dict(url=url,omit_script="true",dnt="true"))
             payload=json.loads(fetch.raw(endpoint))
             found=parse_x(payload,url,hint)
+            outcome="parsed" if found else "no_result"
+            cutoff=(datetime.now(JST)-timedelta(days=14)).date().isoformat()
+            if found and all((r.get("publishedAt") or "")<cutoff for r in found):
+                found=[];outcome="outside_window"
             if found:results.extend(found)
             else:skipped+=1
             print(f"  X {attempts}: {len(found)} result(s)",flush=True)
         except urllib.error.HTTPError as e:
             failures+=1
+            http_status=e.code
             print(f"  X {attempts}: HTTP {e.code}",flush=True)
-            if e.code==429:break
         except Exception as e:
             failures+=1
             print(f"  X {attempts}: {type(e).__name__}: {str(e)[:120]}",flush=True)
+        entry.update(lastCheckedAt=utcnow(),lastCheckOutcome=outcome)
+        audit.append(dict(url=url,outcome=outcome,records=len(found),httpStatus=http_status))
+        if http_status==429:break
         time.sleep(.5)
+    # Existing queue objects are updated in place. Preserve candidates added by the feed.
+    write_json(ROOT/"collector/x_sources.json",discovery)
+    write_json(ROOT/(".x-audit-"+source["id"]+".json"),audit)
     message=("CS主催者の" if cs_mode else "")+f"公開投稿を{attempts}件確認し、{len(results)}件の結果を取得。"
     if skipped:message+=f"対応が曖昧な投稿等は{skipped}件除外。"
     if failures:message+=f"{failures}件は取得できませんでした。"
