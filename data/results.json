@@ -1,7 +1,39 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-20T23:05:08+00:00",
+  "updatedAt": "2026-09-21T11:24:06+00:00",
   "results": [
+    {
+      "event": "TCGショップ ”ディスク” / ショップ大会",
+      "eventDate": null,
+      "publishedAt": "2026-09-21",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "魔法少女まどか☆マギカ",
+      "deck": null,
+      "organizer": "TCGショップ ”ディスク”",
+      "area": null,
+      "sourceUrl": "https://ws4696.xyz/2026/09/21/wsdeckmm-47/",
+      "sourceName": "しろくろ速報",
+      "originalUrl": "https://x.com/6thedieiscast9/status/2093298725175345284",
+      "deckUrl": "https://ws4696.xyz/2026/09/21/wsdeckmm-47/",
+      "evidence": "repost",
+      "notes": "紹介記事内の投稿から成績を確認。使用タイトルは記事の表記。元投稿の「本日」等から開催日を推定していません。",
+      "collectedAt": "2026-09-21T11:23:30+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-mm-2093298725175345284-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-mm-2093298725175345284-0-300x151.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/09/21/wsdeckmm-47/",
+          "alt": "デッキレシピ魔法少女まどか☆マギカ"
+        }
+      ],
+      "relatedSources": [],
+      "sourceId": "reposts",
+      "id": "efcf4a8f2bfaca660b6557f8"
+    },
     {
       "event": "第64回SSSS杯",
       "eventDate": null,
@@ -68,7 +100,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-13T23:29:16+00:00",
+      "xCheckedAt": "2026-09-21T11:23:57+00:00",
       "id": "d9a8893634eab580eea46669"
     },
     {
@@ -102,6 +134,32 @@
       "game": "ws",
       "contextSourceUrl": null,
       "id": "d41b50cefe12811a1ce7e668"
+    },
+    {
+      "event": "トイパラダイスBANBAN21具志川店(カードゲーム専用アカウント) / 公認大会",
+      "eventDate": null,
+      "publishedAt": "2026-09-13",
+      "category": "sanctioned",
+      "categoryReason": "発表文に「公認」の明記あり",
+      "format": null,
+      "placement": "優勝",
+      "player": "トミタ",
+      "title": "アイドルマスターミリオンライブ",
+      "deck": null,
+      "organizer": "トイパラダイスBANBAN21具志川店(カードゲーム専用アカウント)",
+      "area": null,
+      "sourceUrl": "https://x.com/BANBAN21_TCG/status/2099112378508222612",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/BANBAN21_TCG/status/2099112378508222612",
+      "deckUrl": "https://x.com/BANBAN21_TCG/status/2099112378508222612",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-21T11:23:55+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-09-21T11:23:55+00:00",
+      "id": "cb03cfc13e12e1c1eb47fe98"
     },
     {
       "event": "第113回福福杯",
@@ -501,7 +559,8 @@
       "sourceId": "cs_reviewed",
       "entryKey": "優勝||山田|",
       "xCheckedAt": "2026-09-12T23:45:01+00:00",
-      "id": "c4cfd8d94daf83027ba4bde4"
+      "id": "c4cfd8d94daf83027ba4bde4",
+      "contextSourceUrl": "https://x.com/FLAME_CUP_unei/status/2098713774433968395"
     },
     {
       "event": "第92回ふらめ杯",
