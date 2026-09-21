@@ -864,7 +864,9 @@
       "lastCheckOutcome": "no_result"
     },
     {
-      "url": "https://x.com/tcg_mobara/status/2066020819734814823"
+      "url": "https://x.com/tcg_mobara/status/2066020819734814823",
+      "lastCheckedAt": "2026-09-21T11:42:11+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/colotcg/status/2070823997663842610",
@@ -872,13 +874,19 @@
       "lastCheckOutcome": "parsed"
     },
     {
-      "url": "https://x.com/GalaxyCardStore/status/2070169007987253717"
+      "url": "https://x.com/GalaxyCardStore/status/2070169007987253717",
+      "lastCheckedAt": "2026-09-21T11:42:09+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
-      "url": "https://x.com/batoloco_kjz/status/2069743215025201337"
+      "url": "https://x.com/batoloco_kjz/status/2069743215025201337",
+      "lastCheckedAt": "2026-09-21T11:42:09+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
-      "url": "https://x.com/PAOtoreka_chiba/status/2069364913647341675"
+      "url": "https://x.com/PAOtoreka_chiba/status/2069364913647341675",
+      "lastCheckedAt": "2026-09-21T11:42:10+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/torekore_kudama/status/2068662855642345753"
@@ -887,10 +895,14 @@
       "url": "https://x.com/BO_MUSAKO/status/2082083411217547584"
     },
     {
-      "url": "https://x.com/cuiyang520/status/2068313094858915981"
+      "url": "https://x.com/cuiyang520/status/2068313094858915981",
+      "lastCheckedAt": "2026-09-21T11:42:11+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
-      "url": "https://x.com/PAOtoreka_chiba/status/2051617350429049164"
+      "url": "https://x.com/PAOtoreka_chiba/status/2051617350429049164",
+      "lastCheckedAt": "2026-09-21T11:42:14+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/wskagawacs1/status/2060971285476528499",
@@ -900,11 +912,15 @@
     },
     {
       "url": "https://x.com/wskagawacs1/status/2060971276634849604",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-21T11:42:07+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/wskagawacs1/status/2060971268648898995",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-21T11:42:08+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/hbst_meieki/status/2082412240427487251",
@@ -912,19 +928,27 @@
       "lastCheckOutcome": "parsed"
     },
     {
-      "url": "https://x.com/GproYsi/status/2057805996106645695"
+      "url": "https://x.com/GproYsi/status/2057805996106645695",
+      "lastCheckedAt": "2026-09-21T11:42:12+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
-      "url": "https://x.com/poyonnmaru/status/2055645063792021552"
+      "url": "https://x.com/poyonnmaru/status/2055645063792021552",
+      "lastCheckedAt": "2026-09-21T11:42:13+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
-      "url": "https://x.com/poyonnmaru/status/2053103311532986581"
+      "url": "https://x.com/poyonnmaru/status/2053103311532986581",
+      "lastCheckedAt": "2026-09-21T11:42:13+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/amenitykyoto/status/2074102807024840725"
     },
     {
-      "url": "https://x.com/tennoji_labo/status/2051212318982496281"
+      "url": "https://x.com/tennoji_labo/status/2051212318982496281",
+      "lastCheckedAt": "2026-09-21T11:42:14+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/6thedieiscast9/status/2082086045164953905"
@@ -993,13 +1017,17 @@
       "url": "https://x.com/bigmagicmato/status/2070789005994770664"
     },
     {
-      "url": "https://x.com/Starrivers91573/status/2070765006988497321"
+      "url": "https://x.com/Starrivers91573/status/2070765006988497321",
+      "lastCheckedAt": "2026-09-21T11:42:08+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/ds_ikebukur0/status/2076621589630644706"
     },
     {
-      "url": "https://x.com/card_bankshop/status/2050164204234330403"
+      "url": "https://x.com/card_bankshop/status/2050164204234330403",
+      "lastCheckedAt": "2026-09-21T11:42:15+00:00",
+      "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/prinnyclub/status/2099028524174823679",
