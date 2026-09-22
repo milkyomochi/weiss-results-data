@@ -7,6 +7,7 @@ import sys
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
 from discover import discover
+from cs_discover import discover_cs
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -47,6 +48,7 @@ def main():
         discovery = dict(id="discovery", name="X・優先CSの新規検索（Tavily）", status="error",
                          count=0, checkedAt=None, message="検索処理でエラー。直接取得は継続します。",
                          errors=[dict(type=type(error).__name__)])
+    cs_discovery = discover_cs(config)
     write("collector/x_sources.json", config)
     result = subprocess.run([sys.executable, "-X", "utf8", "collector/collect.py", "--pages", "6"], cwd=ROOT, timeout=1200)
     if result.returncode:
@@ -58,7 +60,7 @@ def main():
         raise RuntimeError("Unexpected loss of existing result IDs; publication stopped")
     state = read("data/collection.json")
     state["freshness"] = freshness(before,after)
-    state["sources"] = [s for s in state["sources"] if s["id"] != "discovery"] + [discovery]
+    state["sources"] = [s for s in state["sources"] if s["id"] not in {"discovery", "cs_discovery"}] + [discovery, cs_discovery]
     state["schedule"] = dict(enabled=True, label="毎朝8時ごろ（GitHub Actions）", timezone="Asia/Tokyo")
     state["manualUpdateUrl"] = "https://github.com/milkyomochi/weiss-results-data/actions/workflows/collect.yml"
     failures = [s["id"] for s in state["sources"] if s["status"] != "ok"]

@@ -491,7 +491,7 @@ def parse_x(payload,url,hint=None):
 
 def prioritize_posts(posts,organizers):
     """Round-robin priority organizers before the remaining discovered posts."""
-    groups={o["account"].lower():[] for o in organizers if o.get("priority")}
+    groups={o["account"].lower():[] for o in sorted(organizers,key=lambda o:not o.get("priority"))}
     other=[]
     for url,entry in posts.items():
         account=urllib.parse.urlsplit(url).path.split("/")[1].lower()
@@ -544,7 +544,7 @@ def collect_x(fetch,source,pages,old):
         if existing:hint["entries"]=merge_entry_hints(existing,entry.get("entries",[]))
         checked=[r.get("xCheckedAt") for r in existing]
         if checked and all(t and (datetime.now(timezone.utc)-datetime.fromisoformat(t)).total_seconds()<7*86400 for t in checked):continue
-        if attempts>=20:break
+        if attempts >= (40 if cs_mode else 20):break
         attempts+=1
         outcome="error";found=[];http_status=None
         try:
@@ -578,8 +578,14 @@ def collect_x(fetch,source,pages,old):
         if watched:message+="優先確認："+"・".join(o["name"] for o in watched)+"。"
         for o in watched:
             if o.get("lastDiscoveryOutcome")=="no_recent_result":message+=f"{o['name']}は{o.get('lastDiscoveryAt','日付不明')}の検索で直近結果を未確認。"
-            if o.get("discoveryFailure"):
-                message+=o["discoveryFailure"];failures+=1
+            confirmed=[r for r in [*old,*results] if r.get("eventKind")=="cs" and r.get("evidence")=="primary" and urllib.parse.urlsplit(r["sourceUrl"]).path.split("/")[1].lower()==o["account"].lower()]
+            if confirmed:
+                latest=max(confirmed,key=lambda r:r.get("publishedAt") or "")
+                o["lastConfirmedPublishedAt"]=latest.get("publishedAt")
+                o["lastConfirmedResultUrl"]=latest["sourceUrl"]
+                message+=f"{o['name']}の確認済み結果の最新公開日：{latest.get('publishedAt','不明')}。"
+        # Historical alternate-page errors are evidence history, not this run's failures.
+        write_json(ROOT/"collector/x_sources.json",discovery)
     message+="検索・紹介記事で見つかった投稿が対象で、全投稿は網羅しません。"
     return results,failures,message
 

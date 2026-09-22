@@ -1391,6 +1391,60 @@
       "discoveredAt": "2026-09-21T23:03:27+00:00",
       "lastCheckedAt": "2026-09-21T23:04:48+00:00",
       "lastCheckOutcome": "parsed"
+    },
+    {
+      "url": "https://x.com/kizunahi_ijanai/status/2101597050316243187",
+      "eventKind": "cs",
+      "game": "ws",
+      "event": "第29回 キズナ杯",
+      "eventDate": "2026-09-20",
+      "contextSourceUrl": "https://note.com/ws_final/n/n22926cf66697"
+    },
+    {
+      "url": "https://x.com/kizunahi_ijanai/status/2101596961115959434",
+      "eventKind": "cs",
+      "game": "ws",
+      "event": "第29回 キズナ杯",
+      "eventDate": "2026-09-20",
+      "contextSourceUrl": "https://note.com/ws_final/n/n22926cf66697"
+    },
+    {
+      "url": "https://x.com/kizunahi_ijanai/status/2101596751660757409",
+      "eventKind": "cs",
+      "game": "ws",
+      "event": "第29回 キズナ杯",
+      "eventDate": "2026-09-20",
+      "contextSourceUrl": "https://note.com/ws_final/n/n22926cf66697"
+    },
+    {
+      "url": "https://x.com/10Jo_ceiling/status/2101228948097232926",
+      "eventKind": "cs",
+      "game": "ws",
+      "event": "第21回天井杯",
+      "eventDate": "2026-09-19",
+      "contextSourceUrl": "https://x.com/roaru19921016/status/2101231351471153363",
+      "relatedSources": [
+        {
+          "url": "https://x.com/10Jo_ceiling/status/2101228948097232926",
+          "name": "同回大会の主催者発表",
+          "publishedAt": "2026-09-19"
+        }
+      ]
+    },
+    {
+      "url": "https://x.com/10Jo_ceiling/status/2101229440303026554",
+      "eventKind": "cs",
+      "game": "ws",
+      "event": "第21回天井杯",
+      "eventDate": "2026-09-19",
+      "contextSourceUrl": "https://x.com/roaru19921016/status/2101231351471153363",
+      "relatedSources": [
+        {
+          "url": "https://x.com/10Jo_ceiling/status/2101228948097232926",
+          "name": "同回大会の主催者発表",
+          "publishedAt": "2026-09-19"
+        }
+      ]
     }
   ],
   "csOrganizers": [
@@ -1539,7 +1593,8 @@
         "天井杯 優勝",
         "site:x.com/10Jo_ceiling 結果"
       ],
-      "discoveryNote": "ユーザー指定で通常のCS収集対象に追加。検索で発見した投稿は公開oEmbed等で本文を確認してから採用します。"
+      "discoveryNote": "ユーザー指定で通常のCS収集対象に追加。検索で発見した投稿は公開oEmbed等で本文を確認してから採用します。",
+      "discoveryQuery": "天井杯"
     }
   ],
   "tavilyBudget": {
