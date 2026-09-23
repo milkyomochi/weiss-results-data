@@ -1118,7 +1118,9 @@
       "lastCheckOutcome": "no_result"
     },
     {
-      "url": "https://x.com/TGCShuffle/status/2092588207468900415"
+      "url": "https://x.com/TGCShuffle/status/2092588207468900415",
+      "lastCheckedAt": "2026-09-23T09:59:13+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/FLAME_CUP_unei/status/2098341860817416415",
@@ -1144,12 +1146,16 @@
     {
       "url": "https://x.com/fukufuku_ws/status/2033116087043383394",
       "discoveredAt": "2026-09-16T00:52:25+00:00",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-23T09:59:09+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/fukufuku_ws/status/2045804891998941537",
       "discoveredAt": "2026-09-16T00:52:25+00:00",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-23T09:59:09+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/fukufuku_ws/status/2068530518971551758",
@@ -1161,7 +1167,9 @@
     {
       "url": "https://x.com/fukufuku_ws/status/2071174328973209604",
       "discoveredAt": "2026-09-16T00:52:25+00:00",
-      "eventKind": "cs"
+      "eventKind": "cs",
+      "lastCheckedAt": "2026-09-23T09:59:08+00:00",
+      "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/fukufuku_ws/status/2093998493203669498",
@@ -1850,6 +1858,29 @@
       "discoveredAt": "2026-09-22T23:03:11+00:00",
       "lastCheckedAt": "2026-09-22T23:05:04+00:00",
       "lastCheckOutcome": "parsed"
+    },
+    {
+      "url": "https://x.com/ws4696/status/2099638071859827085",
+      "discoveredAt": "2026-09-23T09:57:33+00:00",
+      "lastCheckedAt": "2026-09-23T09:59:11+00:00",
+      "lastCheckOutcome": "no_result"
+    },
+    {
+      "url": "https://x.com/ws4696/status/2100015558532141119",
+      "discoveredAt": "2026-09-23T09:57:33+00:00",
+      "lastCheckedAt": "2026-09-23T09:59:11+00:00",
+      "lastCheckOutcome": "no_result"
+    },
+    {
+      "url": "https://x.com/UmairAbdur77846/status/2102001222672851287",
+      "discoveredAt": "2026-09-23T09:57:33+00:00",
+      "lastCheckedAt": "2026-09-23T09:59:10+00:00",
+      "lastCheckOutcome": "no_result"
+    },
+    {
+      "url": "https://x.com/GproYsi/status/2093318065064931469",
+      "lastCheckedAt": "2026-09-23T09:59:12+00:00",
+      "lastCheckOutcome": "no_result"
     }
   ],
   "csOrganizers": [
@@ -1863,14 +1894,14 @@
         "site:x.com/FLAME_CUP_unei 優勝"
       ],
       "lastDiscoveryAt": "2026-09-23",
-      "lastDiscoveryOutcome": "candidates_found",
+      "lastDiscoveryOutcome": "no_recent_result",
       "lastConfirmedPublishedAt": "2026-09-12",
       "lastConfirmedResultUrl": "https://x.com/FLAME_CUP_unei/status/2098713304852316356",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。前回確認済みより新しい結果は未確認。開催中止・結果未発表を意味せず、全投稿の網羅でもありません。",
       "discoveryFailure": "Xの通常投稿ページはHTTP 403で取得できませんでした。公式公開oEmbedで4投稿の本文・公開日は確認済みです。",
       "failedSourceUrl": "https://x.com/FLAME_CUP_unei/status/2098713774433968395",
-      "lastSearchAttemptAt": "2026-09-22T23:03:11+00:00",
-      "lastSearchOutcome": "candidates_found"
+      "lastSearchAttemptAt": "2026-09-23T09:57:33+00:00",
+      "lastSearchOutcome": "no_candidates"
     },
     {
       "name": "福福杯",
@@ -1882,12 +1913,12 @@
         "site:x.com/fukufuku_ws 優勝"
       ],
       "lastDiscoveryAt": "2026-09-23",
-      "lastDiscoveryOutcome": "no_recent_result",
+      "lastDiscoveryOutcome": "candidates_found",
       "lastConfirmedPublishedAt": "2026-09-20",
       "lastConfirmedResultUrl": "https://x.com/fukufuku_ws/status/2101642931618926706",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。前回確認済みより新しい結果は未確認。開催中止・結果未発表を意味せず、全投稿の網羅でもありません。",
-      "lastSearchAttemptAt": "2026-09-22T23:03:11+00:00",
-      "lastSearchOutcome": "no_candidates"
+      "lastSearchAttemptAt": "2026-09-23T09:57:33+00:00",
+      "lastSearchOutcome": "candidates_found"
     },
     {
       "name": "コギナゴカップ",
@@ -1899,12 +1930,12 @@
         "site:x.com/corgi_nagoya 優勝"
       ],
       "lastDiscoveryAt": "2026-09-23",
-      "lastDiscoveryOutcome": "candidates_found",
+      "lastDiscoveryOutcome": "no_recent_result",
       "lastConfirmedPublishedAt": "2026-08-30",
       "lastConfirmedResultUrl": "https://x.com/corgi_nagoya/status/2093989484568485889",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。新しい結果は未確認。開催中止・結果未発表を意味しません。",
-      "lastSearchAttemptAt": "2026-09-22T23:03:11+00:00",
-      "lastSearchOutcome": "candidates_found"
+      "lastSearchAttemptAt": "2026-09-23T09:57:33+00:00",
+      "lastSearchOutcome": "no_candidates"
     },
     {
       "name": "SSSS杯",
@@ -1922,7 +1953,7 @@
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。前回確認済みより新しい結果は未確認。開催中止・結果未発表を意味せず、全投稿の網羅でもありません。",
       "discoveryFailure": "主催者案内からリンクされたTonamel大会ページは取得できませんでした。主催者の案内・結果と参加者の同回WS表記は公開oEmbedで確認済み。",
       "failedSourceUrl": "https://tonamel.com/competition/RVlyW",
-      "lastSearchAttemptAt": "2026-09-22T23:03:11+00:00",
+      "lastSearchAttemptAt": "2026-09-23T09:57:33+00:00",
       "lastSearchOutcome": "no_candidates"
     },
     {
@@ -1942,7 +1973,7 @@
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。新しい結果は未確認。開催中止・結果未発表を意味しません。",
       "lastSupplementedAt": "2026-09-11",
       "lastSupplementSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
-      "lastSearchAttemptAt": "2026-09-22T23:03:11+00:00",
+      "lastSearchAttemptAt": "2026-09-23T09:57:33+00:00",
       "lastSearchOutcome": "candidates_found"
     },
     {
@@ -1986,7 +2017,7 @@
       "lastDiscoveryAt": "2026-09-23",
       "lastDiscoveryOutcome": "no_recent_result",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。新しい結果は未確認。開催中止・結果未発表を意味しません。",
-      "lastSearchAttemptAt": "2026-09-22T23:03:11+00:00",
+      "lastSearchAttemptAt": "2026-09-23T09:57:33+00:00",
       "lastSearchOutcome": "no_candidates"
     },
     {
@@ -2004,8 +2035,8 @@
   ],
   "tavilyBudget": {
     "month": "2026-09",
-    "monthlyAttempts": 143,
+    "monthlyAttempts": 156,
     "day": "2026-09-23",
-    "dailyAttempts": 13
+    "dailyAttempts": 26
   }
 }
