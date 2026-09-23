@@ -1,6 +1,6 @@
 import unittest
 import xml.etree.ElementTree as ET
-from collect import parse_repost, official_blocks, category, canonical, merge, deck_images, Tree, parse_x, blank, validate, prioritize_posts
+from collect import parse_repost, official_blocks, category, canonical, merge, deck_images, Tree, parse_x, blank, validate, prioritize_posts, archive_review_statuses
 
 def item(title, text, date="Tue, 08 Sep 2026 07:00:00 +0000"):
     x=ET.Element("item")
@@ -9,6 +9,24 @@ def item(title, text, date="Tue, 08 Sep 2026 07:00:00 +0000"):
     return x
 
 class Regressions(unittest.TestCase):
+    def test_official_wrapped_metadata_and_incomplete_next_player(self):
+        def dl(fields):
+            return '<dl>'+''.join('<div><dt>'+k+'</dt><dd>'+v+'</dd></div>' for k,v in fields.items())+'</dl>'
+        complete={'参加大会':'WGP2026','成績':'優勝','ハンドルネーム':'A','ネオスタンダード区分':'タイトルA'}
+        incomplete={'参加大会':'WGP2026','成績':'準優勝','ハンドルネーム':'B'}
+        r=official_blocks(dl(complete)+dl(incomplete),'https://ws-tcg.com/deckrecipe/999/')
+        self.assertEqual([(x['player'],x['title']) for x in r],[('A','タイトルA')])
+    def test_official_primary_enriches_search_record_without_losing_id(self):
+        old=blank(event='WGP2026',player='A',placement='優勝',sourceUrl='https://ws-tcg.com/deckrecipe/999/',sourceName='WS公式',evidence='search')
+        new=blank(event='WGP2026',player='A',placement='優勝',title='タイトルA',sourceUrl=old['sourceUrl'],sourceName='WS公式',evidence='primary')
+        rows=merge([old],[new]);self.assertEqual(len(rows),1)
+        self.assertEqual(rows[0]['id'],old['id']);self.assertEqual(rows[0]['title'],'タイトルA');self.assertEqual(rows[0]['evidence'],'primary')
+        self.assertEqual(len(merge(rows,[old,new])),1)
+    def test_review_history_preserves_limitations_and_active_errors(self):
+        review=dict(id='cs_reviewed',status='partial',message='開催日未確認')
+        active=dict(id='cs',status='error')
+        state=dict(sources=[review,active]);archive_review_statuses(state);archive_review_statuses(state)
+        self.assertEqual(state['reviewHistory'],[review]);self.assertEqual(state['sources'],[active])
     def test_non_sanctioned_is_not_sanctioned(self):
         self.assertEqual(category("WS非公認大会で優勝")[0],"independent")
     def test_shop_does_not_imply_sanctioned(self):

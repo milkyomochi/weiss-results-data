@@ -204,11 +204,14 @@ def parse_repost(item):
 def official_blocks(html,url,pub=None):
     root=Tree(html).root
     # Current official recipe pages use dt/dd metadata; cards/comments are not copied.
-    blocks=[];current={}
+    blocks=[]
     for dl in root.find("dl"):
-        for child in dl.children:
-            if not isinstance(child,Node) or child.tag!="dt":continue
-            siblings=dl.children;idx=siblings.index(child)
+        current={}
+        for child in dl.find("dt"):
+            owner=child.parent
+            while owner and owner.tag!="dl":owner=owner.parent
+            if owner is not dl:continue
+            siblings=child.parent.children;idx=siblings.index(child)
             dd=next((n for n in siblings[idx+1:] if isinstance(n,Node)),None)
             if not dd or dd.tag!="dd":continue
             k,v=child.text(),dd.text()
@@ -216,7 +219,7 @@ def official_blocks(html,url,pub=None):
                 if current:blocks.append(current)
                 current={}
             if k in {"参加大会","成績","ハンドルネーム","デッキ名","デッキ種別","ネオスタンダード区分","役職"}:current[k]=v
-    if current:blocks.append(current)
+        if current:blocks.append(current)
     results=[]
     for b in blocks:
         if not b.get("参加大会") or not b.get("成績") or not b.get("ネオスタンダード区分"):continue
@@ -249,7 +252,7 @@ def collect_official(fetch,source,pages,old):
             if not found:failures+=1
             results.extend(found)
         except Exception:failures+=1
-    return results,failures,"公式の入賞者一覧を確認。"+(f"{failures}ページは取得・解析できませんでした。" if failures else "")
+    return results,failures,f"公式{min(len(links),15)}ページを確認し、{len(results)}件の入賞情報を取得。"+(f"{failures}ページは取得・解析できませんでした。" if failures else "")
 
 def parse_labo(html,url):
     root=Tree(html).root
@@ -633,6 +636,10 @@ def merge(previous,incoming):
         validate(r);existing=out.get(r["id"])
         if not existing:
             url=canonical(r.get("originalUrl") or r["sourceUrl"])
+            if url.startswith("https://ws-tcg.com/") and r.get("player"):
+                candidates=[v for v in out.values() if canonical(v.get("originalUrl") or v["sourceUrl"])==url and v.get("event")==r.get("event") and v.get("player")==r["player"] and v.get("placement")==r["placement"] and (not v.get("title") or not r.get("title") or v["title"]==r["title"])]
+                if len(candidates)==1:
+                    existing=candidates[0];r={**r,"id":existing["id"]}
             matches=[v for v in out.values() if url.startswith("https://x.com/") and canonical(v.get("originalUrl") or v["sourceUrl"])==url]
             entrant_matches=[v for v in matches if v.get("placement")==r.get("placement") and v.get("player")==r.get("player") and r.get("player") and v.get("role")==r.get("role")]
             if len(entrant_matches)==1 and (r.get("entryKey") or entrant_matches[0].get("entryKey")):
@@ -665,6 +672,15 @@ def merge(previous,incoming):
             out[r["id"]]=merged
         else:out[r["id"]]=r
     return sorted(out.values(),key=lambda r:(r.get("publishedAt") or "",r["id"]),reverse=True)
+
+def archive_review_statuses(state):
+    """Keep one-off review limitations as history, not today's collection health."""
+    historical={"cs_reviewed","ingestion_review","cs_reports"}
+    records={s["id"]:s for s in state.get("reviewHistory",[])}
+    for source in state.get("sources",[]):
+        if source["id"] in historical:records[source["id"]]=source
+    state["reviewHistory"]=list(records.values())
+    state["sources"]=[s for s in state["sources"] if s["id"] not in historical]
 
 def main():
     args=argparse.ArgumentParser()
@@ -711,6 +727,7 @@ def main():
                 current.update(s)
     # Retired collection source; retain its previously published results.
     state["sources"]=[s for s in state["sources"] if s["id"]!="labo"]
+    archive_review_statuses(state)
     data["results"]=[r for r in merge(data["results"],incoming) if r["id"] not in rejected_ids]
     data["updatedAt"]=utcnow();data["schemaVersion"]=3
     added=len({r["id"] for r in data["results"]}-before)
