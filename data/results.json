@@ -1,7 +1,59 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-23T23:04:54+00:00",
+  "updatedAt": "2026-09-24T23:05:42+00:00",
   "results": [
+    {
+      "event": "Japan TCG Centerイオンモール沖縄ライカム店 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-09-24",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": null,
+      "organizer": "Japan TCG Centerイオンモール沖縄ライカム店",
+      "area": null,
+      "sourceUrl": "https://x.com/JTC_rycom/status/2103081624955240633",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/JTC_rycom/status/2103081624955240633",
+      "deckUrl": "https://x.com/JTC_rycom/status/2103081624955240633",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-24T23:05:29+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-09-24T23:05:29+00:00",
+      "id": "a1ec59e318bd690380c4de75"
+    },
+    {
+      "event": "町のトレカ屋さん|トレーディングカードショップ / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-09-23",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": null,
+      "organizer": "町のトレカ屋さん|トレーディングカードショップ",
+      "area": null,
+      "sourceUrl": "https://x.com/matitore0901/status/2102736289930039794",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/matitore0901/status/2102736289930039794",
+      "deckUrl": "https://x.com/matitore0901/status/2102736289930039794",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-24T23:05:30+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-09-24T23:05:30+00:00",
+      "id": "f3b4e88e3b9a9d46d8600555"
+    },
     {
       "event": "BSB 17号前橋リリカ トレカ店 / 大会結果",
       "eventDate": null,
@@ -395,6 +447,32 @@
       "sourceId": "x",
       "xCheckedAt": "2026-09-21T23:04:48+00:00",
       "id": "56ae1eb7c523a04193b27a02"
+    },
+    {
+      "event": "プリニークラブ各務原本店 / 公認大会",
+      "eventDate": null,
+      "publishedAt": "2026-09-20",
+      "category": "sanctioned",
+      "categoryReason": "発表文に「公認」の明記あり",
+      "format": null,
+      "placement": "優勝",
+      "player": "すっぱい",
+      "title": null,
+      "deck": "蓮ノ空8電",
+      "organizer": "プリニークラブ各務原本店",
+      "area": null,
+      "sourceUrl": "https://x.com/prinnyclub/status/2101572239267369099",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/prinnyclub/status/2101572239267369099",
+      "deckUrl": "https://x.com/prinnyclub/status/2101572239267369099",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-24T23:05:31+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-09-24T23:05:31+00:00",
+      "id": "f159a26a674f9d463348af56"
     },
     {
       "event": "第29回 キズナ杯",
@@ -1119,6 +1197,32 @@
       "id": "71c15f929f630999b1d75956"
     },
     {
+      "event": "トレカショップフロント / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-09-16",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": "ブラウンダストロ",
+      "organizer": "トレカショップフロント",
+      "area": null,
+      "sourceUrl": "https://x.com/front_card/status/2100185588473446435",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/front_card/status/2100185588473446435",
+      "deckUrl": "https://x.com/front_card/status/2100185588473446435",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-24T23:05:33+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-09-24T23:05:33+00:00",
+      "id": "0d2e0ef7f3ec915af39c7aa4"
+    },
+    {
       "event": "ネオ / 大会結果",
       "eventDate": null,
       "publishedAt": "2026-09-15",
@@ -1424,6 +1528,32 @@
       "sourceId": "x",
       "xCheckedAt": "2026-09-13T23:29:04+00:00",
       "id": "75a1d23618110dfbc92a32fa"
+    },
+    {
+      "event": "G-PROJECT中津店 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-09-13",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": null,
+      "organizer": "G-PROJECT中津店",
+      "area": null,
+      "sourceUrl": "https://x.com/GPROJECT_NAKATU/status/2099133154716192847",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/GPROJECT_NAKATU/status/2099133154716192847",
+      "deckUrl": "https://x.com/GPROJECT_NAKATU/status/2099133154716192847",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-24T23:05:33+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-09-24T23:05:33+00:00",
+      "id": "58258d6716fff2f8214b8101"
     },
     {
       "event": "第64回SSSS杯",
@@ -3910,6 +4040,45 @@
       "xCheckedAt": "2026-09-13T23:32:27+00:00"
     },
     {
+      "event": "✨ネクストプロ大須2号店✨ / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-08-29",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "【推しの子】",
+      "deck": "扉電源推しの子",
+      "organizer": "✨ネクストプロ大須2号店✨",
+      "area": null,
+      "sourceUrl": "https://x.com/NextPro0002/status/2093612486599811238",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/NextPro0002/status/2093612486599811238",
+      "deckUrl": "https://ws4696.xyz/2026/09/24/wsdeckosk-187/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-24T23:05:12+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-osk-2093612486599811238-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-osk-2093612486599811238-0-300x173.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/09/24/wsdeckosk-187/",
+          "alt": "デッキレシピ推しの子"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/09/24/wsdeckosk-187/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-09-24"
+        }
+      ],
+      "sourceId": "x",
+      "id": "18a289a47293efb627ff0011",
+      "xCheckedAt": "2026-09-24T23:05:36+00:00"
+    },
+    {
       "event": "TCGショップコロッサス@てんちょう🐾 / 大会結果",
       "eventDate": null,
       "publishedAt": "2026-08-29",
@@ -3946,7 +4115,7 @@
       ],
       "sourceId": "x",
       "id": "0070f30c0ecdb4c231098f64",
-      "xCheckedAt": "2026-09-17T23:04:31+00:00"
+      "xCheckedAt": "2026-09-24T23:05:35+00:00"
     },
     {
       "event": "トレカタウン三刀屋店 / 大会結果",
@@ -5255,7 +5424,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-16T23:05:15+00:00"
+      "xCheckedAt": "2026-09-24T23:05:36+00:00"
     },
     {
       "event": "TCGショップ ”ディスク” / 大会結果",
@@ -5333,7 +5502,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-17T23:04:43+00:00"
+      "xCheckedAt": "2026-09-24T23:05:37+00:00"
     },
     {
       "event": "カードショップ竜星のPAO千葉中央店 / 公認大会",
@@ -5762,7 +5931,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-17T23:04:41+00:00"
+      "xCheckedAt": "2026-09-24T23:05:38+00:00"
     },
     {
       "event": "トレジャーコレクション イオンタウン周南久米店 / 大会結果",
@@ -5801,7 +5970,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-17T23:04:43+00:00"
+      "xCheckedAt": "2026-09-24T23:05:38+00:00"
     },
     {
       "event": "BOOKSあんとく みづま店@トレカコーナー / 大会結果",
@@ -5957,7 +6126,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-17T23:04:39+00:00"
+      "xCheckedAt": "2026-09-24T23:05:39+00:00"
     },
     {
       "event": "ホビーステーション仙台駅前店 / 大会結果",
@@ -7682,7 +7851,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-16T23:05:16+00:00"
+      "xCheckedAt": "2026-09-24T23:05:40+00:00"
     },
     {
       "event": "蔦屋書店茂原店@NICトレカ部 / 大会結果",
