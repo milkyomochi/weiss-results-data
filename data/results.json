@@ -1,7 +1,59 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-26T23:05:25+00:00",
+  "updatedAt": "2026-09-27T23:05:14+00:00",
   "results": [
+    {
+      "event": "BSB 17号前橋リリカ トレカ店 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-09-27",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": "ご",
+      "title": null,
+      "deck": null,
+      "organizer": "BSB 17号前橋リリカ トレカ店",
+      "area": null,
+      "sourceUrl": "https://x.com/bookoff_tcgcard/status/2104183393063989393",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/bookoff_tcgcard/status/2104183393063989393",
+      "deckUrl": "https://x.com/bookoff_tcgcard/status/2104183393063989393",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-27T23:05:08+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-09-27T23:05:08+00:00",
+      "id": "93a6fdde52919a522ed8282a"
+    },
+    {
+      "event": "ブックマーケット高岡店 🐳🐳🐳 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-09-27",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": null,
+      "organizer": "ブックマーケット高岡店 🐳🐳🐳",
+      "area": null,
+      "sourceUrl": "https://x.com/toyama_bm/status/2104154925135720773",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/toyama_bm/status/2104154925135720773",
+      "deckUrl": "https://x.com/toyama_bm/status/2104154925135720773",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-27T23:05:10+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-09-27T23:05:10+00:00",
+      "id": "7159c6e18d3a44526a0d34b4"
+    },
     {
       "event": "カードショップMana / 大会結果",
       "eventDate": null,
@@ -27,6 +79,32 @@
       "sourceId": "x",
       "xCheckedAt": "2026-09-26T23:05:10+00:00",
       "id": "f0e89ac0d9d44de036c933c8"
+    },
+    {
+      "event": "草叢BOOKS各務原店 トレカ / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-09-26",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": "蓮ノ空",
+      "organizer": "草叢BOOKS各務原店 トレカ",
+      "area": null,
+      "sourceUrl": "https://x.com/kusamura_toreca/status/2103772212503457938",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/kusamura_toreca/status/2103772212503457938",
+      "deckUrl": "https://x.com/kusamura_toreca/status/2103772212503457938",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-27T23:05:11+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-09-27T23:05:11+00:00",
+      "id": "3c64f4ed2511246aeeb4b11e"
     },
     {
       "event": "Japan TCG Center八王子駅前店 / 大会結果",
@@ -3527,6 +3605,45 @@
       "id": "d0fe3b61821fc366c67d2bcf"
     },
     {
+      "event": "イーフォーラム河内長野店【ゲームトレカ】 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-09-01",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": "こぶり",
+      "title": "ミラー・ウォリアーズ",
+      "deck": null,
+      "organizer": "イーフォーラム河内長野店【ゲームトレカ】",
+      "area": null,
+      "sourceUrl": "https://x.com/eforum_staff/status/2094748459220062535",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/eforum_staff/status/2094748459220062535",
+      "deckUrl": "https://ws4696.xyz/2026/09/27/wsdeckmrd/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-27T23:04:52+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-mrd-2094748459220062535-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-mrd-2094748459220062535-0-300x160.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/09/27/wsdeckmrd/",
+          "alt": "デッキレシピミラー・ウォリアーズ"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/09/27/wsdeckmrd/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-09-27"
+        }
+      ],
+      "sourceId": "x",
+      "id": "86fbecbdd2d0922dd2be4979",
+      "xCheckedAt": "2026-09-27T23:05:12+00:00"
+    },
+    {
       "event": "ストレージワン広島店 / 公認大会",
       "eventDate": null,
       "publishedAt": "2026-09-01",
@@ -3551,6 +3668,45 @@
       "sourceId": "x",
       "xCheckedAt": "2026-09-13T23:28:51+00:00",
       "id": "690915122c82c3ae8b04dc0d"
+    },
+    {
+      "event": "カードン秋葉原本店 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-09-01",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": "CardGamerK",
+      "title": "グランブルーファンタジー",
+      "deck": "また専用機",
+      "organizer": "カードン秋葉原本店",
+      "area": null,
+      "sourceUrl": "https://x.com/cardon_tcg/status/2094747027670540419",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/cardon_tcg/status/2094747027670540419",
+      "deckUrl": "https://ws4696.xyz/2026/09/27/wsdeckgbf-17/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-27T23:04:52+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-gbf-2094747027670540419-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-gbf-2094747027670540419-0-300x169.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/09/27/wsdeckgbf-17/",
+          "alt": "デッキレシピグランブルーファンタジー"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/09/27/wsdeckgbf-17/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-09-27"
+        }
+      ],
+      "sourceId": "x",
+      "id": "2a8c79d0d58be7103ebf863e",
+      "xCheckedAt": "2026-09-27T23:05:12+00:00"
     },
     {
       "event": "プリニークラブ各務原本店 / 非公認大会",
@@ -4297,7 +4453,7 @@
       ],
       "sourceId": "x",
       "id": "125134db7dee74e3246df267",
-      "xCheckedAt": "2026-09-20T23:04:54+00:00"
+      "xCheckedAt": "2026-09-27T23:05:13+00:00"
     },
     {
       "event": "TCGショップ ”ディスク” / 大会結果",
@@ -5996,7 +6152,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-20T23:05:07+00:00"
+      "xCheckedAt": "2026-09-27T23:05:14+00:00"
     },
     {
       "event": "🐎TC バトロコ高田馬場🐎@アルバイト募集中 / 大会結果",
