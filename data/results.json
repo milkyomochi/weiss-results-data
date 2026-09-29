@@ -1,7 +1,33 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-28T23:05:39+00:00",
+  "updatedAt": "2026-09-29T23:05:42+00:00",
   "results": [
+    {
+      "event": "文教堂 あきる野店【トレカ】 / 公認大会",
+      "eventDate": null,
+      "publishedAt": "2026-09-29",
+      "category": "sanctioned",
+      "categoryReason": "発表文に「公認」の明記あり",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": "8電ごちうさ",
+      "organizer": "文教堂 あきる野店【トレカ】",
+      "area": null,
+      "sourceUrl": "https://x.com/bunakiruno_TCG/status/2104891015551484033",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/bunakiruno_TCG/status/2104891015551484033",
+      "deckUrl": "https://x.com/bunakiruno_TCG/status/2104891015551484033",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-29T23:05:29+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-09-29T23:05:29+00:00",
+      "id": "903425282a60d54d4fedf7d9"
+    },
     {
       "event": "トリオサバイバル in WGP26-27 Season1 京都会場 Aブロック",
       "eventDate": null,
@@ -1602,7 +1628,7 @@
       "role": null,
       "team": null,
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:31+00:00",
+      "xCheckedAt": "2026-09-29T23:05:33+00:00",
       "entryKey": "優勝||推しの子|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -1631,7 +1657,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T23:05:04+00:00",
+      "xCheckedAt": "2026-09-29T23:05:30+00:00",
       "id": "e580c82fb31988cbabcba116"
     },
     {
@@ -1660,7 +1686,7 @@
       "role": null,
       "team": null,
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:31+00:00",
+      "xCheckedAt": "2026-09-29T23:05:33+00:00",
       "entryKey": "準優勝||学マス|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -1718,7 +1744,7 @@
       "role": null,
       "team": null,
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:31+00:00",
+      "xCheckedAt": "2026-09-29T23:05:33+00:00",
       "entryKey": "3位||GA|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -1747,7 +1773,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T23:05:04+00:00",
+      "xCheckedAt": "2026-09-29T23:05:33+00:00",
       "id": "19926064e190aca6a5515aba"
     },
     {
@@ -1944,7 +1970,7 @@
       "role": "大将",
       "team": "あたしって、ほんとバカ...",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:15+00:00",
+      "xCheckedAt": "2026-09-29T23:05:21+00:00",
       "entryKey": "3位|大将|きたくぶ|",
       "game": "ws",
       "contextSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
@@ -1982,7 +2008,7 @@
       "role": "先鋒",
       "team": "芝オタク",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:12+00:00",
+      "xCheckedAt": "2026-09-29T23:05:17+00:00",
       "entryKey": "2位|先鋒|ヤッツー|",
       "game": "ws",
       "contextSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
@@ -2014,7 +2040,7 @@
       "role": null,
       "team": "牡蠣小屋",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:17+00:00",
+      "xCheckedAt": "2026-09-29T23:05:23+00:00",
       "entryKey": "優勝||抹茶|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -2046,7 +2072,7 @@
       "role": null,
       "team": "牡蠣小屋",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:17+00:00",
+      "xCheckedAt": "2026-09-29T23:05:23+00:00",
       "entryKey": "優勝||ロッティ|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -2084,7 +2110,7 @@
       "role": "中堅",
       "team": "あたしって、ほんとバカ...",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:15+00:00",
+      "xCheckedAt": "2026-09-29T23:05:21+00:00",
       "entryKey": "3位|中堅|流流流|",
       "game": "ws",
       "contextSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
@@ -2116,7 +2142,7 @@
       "role": null,
       "team": "牡蠣小屋",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:17+00:00",
+      "xCheckedAt": "2026-09-29T23:05:23+00:00",
       "entryKey": "優勝||ししゃーも|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -2154,7 +2180,7 @@
       "role": "大将",
       "team": "戦車リドル!!︎",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:08+00:00",
+      "xCheckedAt": "2026-09-29T23:05:12+00:00",
       "entryKey": "優勝|大将|リドル|",
       "game": "ws",
       "contextSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
@@ -2192,7 +2218,7 @@
       "role": "大将",
       "team": "芝オタク",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:12+00:00",
+      "xCheckedAt": "2026-09-29T23:05:17+00:00",
       "entryKey": "2位|大将|響@少佐|",
       "game": "ws",
       "contextSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
@@ -2230,7 +2256,7 @@
       "role": "先鋒",
       "team": "戦車リドル!!︎",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:08+00:00",
+      "xCheckedAt": "2026-09-29T23:05:12+00:00",
       "entryKey": "優勝|先鋒|しゃも|",
       "game": "ws",
       "contextSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
@@ -2268,7 +2294,7 @@
       "role": "先鋒",
       "team": "あたしって、ほんとバカ...",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:15+00:00",
+      "xCheckedAt": "2026-09-29T23:05:21+00:00",
       "entryKey": "3位|先鋒|rirure|",
       "game": "ws",
       "contextSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
@@ -2306,7 +2332,7 @@
       "role": "中堅",
       "team": "芝オタク",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:12+00:00",
+      "xCheckedAt": "2026-09-29T23:05:17+00:00",
       "entryKey": "2位|中堅|むっつ|",
       "game": "ws",
       "contextSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
@@ -2344,7 +2370,7 @@
       "role": "中堅",
       "team": "戦車リドル!!︎",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:08+00:00",
+      "xCheckedAt": "2026-09-29T23:05:12+00:00",
       "entryKey": "優勝|中堅|センパイ|",
       "game": "ws",
       "contextSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
@@ -2373,11 +2399,6 @@
       "images": [],
       "relatedSources": [
         {
-          "url": "https://x.com/10Jo_ceiling/status/2101228948097232926",
-          "name": "同回大会の主催者発表",
-          "publishedAt": "2026-09-19"
-        },
-        {
           "url": "https://x.com/roaru19921016/status/2101231351471153363",
           "name": "大会・返信元の確認資料",
           "publishedAt": null
@@ -2387,7 +2408,7 @@
       "role": "先鋒",
       "team": "ニブルヘイム",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:10+00:00",
+      "xCheckedAt": "2026-09-29T23:05:14+00:00",
       "entryKey": "優勝|先鋒|うっしー|",
       "game": "ws",
       "contextSourceUrl": "https://x.com/roaru19921016/status/2101231351471153363",
@@ -2430,7 +2451,7 @@
       "role": "先鋒",
       "team": "サザングロス",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:05+00:00",
+      "xCheckedAt": "2026-09-29T23:05:09+00:00",
       "entryKey": "準優勝|先鋒|ポカォ|",
       "game": "ws",
       "contextSourceUrl": "https://x.com/roaru19921016/status/2101231351471153363",
@@ -2459,11 +2480,6 @@
       "images": [],
       "relatedSources": [
         {
-          "url": "https://x.com/10Jo_ceiling/status/2101228948097232926",
-          "name": "同回大会の主催者発表",
-          "publishedAt": "2026-09-19"
-        },
-        {
           "url": "https://x.com/roaru19921016/status/2101231351471153363",
           "name": "大会・返信元の確認資料",
           "publishedAt": null
@@ -2473,7 +2489,7 @@
       "role": "中堅",
       "team": "ニブルヘイム",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:10+00:00",
+      "xCheckedAt": "2026-09-29T23:05:14+00:00",
       "entryKey": "優勝|中堅|なは|",
       "game": "ws",
       "contextSourceUrl": "https://x.com/roaru19921016/status/2101231351471153363",
@@ -2516,7 +2532,7 @@
       "role": "中堅",
       "team": "サザングロス",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:05+00:00",
+      "xCheckedAt": "2026-09-29T23:05:09+00:00",
       "entryKey": "準優勝|中堅|キャン|",
       "game": "ws",
       "contextSourceUrl": "https://x.com/roaru19921016/status/2101231351471153363",
@@ -2545,11 +2561,6 @@
       "images": [],
       "relatedSources": [
         {
-          "url": "https://x.com/10Jo_ceiling/status/2101228948097232926",
-          "name": "同回大会の主催者発表",
-          "publishedAt": "2026-09-19"
-        },
-        {
           "url": "https://x.com/roaru19921016/status/2101231351471153363",
           "name": "大会・返信元の確認資料",
           "publishedAt": null
@@ -2559,7 +2570,7 @@
       "role": "大将",
       "team": "ニブルヘイム",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:10+00:00",
+      "xCheckedAt": "2026-09-29T23:05:14+00:00",
       "entryKey": "優勝|大将|ロール|",
       "game": "ws",
       "contextSourceUrl": "https://x.com/roaru19921016/status/2101231351471153363",
@@ -2602,7 +2613,7 @@
       "role": "大将",
       "team": "サザングロス",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:05+00:00",
+      "xCheckedAt": "2026-09-29T23:05:09+00:00",
       "entryKey": "準優勝|大将|森サマー|",
       "game": "ws",
       "contextSourceUrl": "https://x.com/roaru19921016/status/2101231351471153363",
@@ -2686,7 +2697,7 @@
       "role": null,
       "team": null,
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T23:05:05+00:00",
+      "xCheckedAt": "2026-09-29T23:05:35+00:00",
       "entryKey": "3位||ブラウンダスト|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -2718,7 +2729,7 @@
       "role": null,
       "team": null,
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T23:05:05+00:00",
+      "xCheckedAt": "2026-09-29T23:05:35+00:00",
       "entryKey": "準優勝||怪獣8号|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -2750,7 +2761,7 @@
       "role": null,
       "team": null,
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T23:05:05+00:00",
+      "xCheckedAt": "2026-09-29T23:05:35+00:00",
       "entryKey": "優勝||東方|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -2822,7 +2833,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-21T11:23:57+00:00",
+      "xCheckedAt": "2026-09-29T23:05:37+00:00",
       "id": "d9a8893634eab580eea46669"
     },
     {
@@ -3134,7 +3145,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:33+00:00",
+      "xCheckedAt": "2026-09-29T23:05:36+00:00",
       "id": "2293b5cb729625b8a570608e"
     },
     {
@@ -3617,7 +3628,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-21T23:04:54+00:00",
+      "xCheckedAt": "2026-09-29T23:05:38+00:00",
       "id": "35d612b8a6c0a8aad9a3425a"
     },
     {
@@ -4483,7 +4494,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:33+00:00",
+      "xCheckedAt": "2026-09-29T23:05:39+00:00",
       "id": "d007f4cc5dcb9b50d1fe4ea5"
     },
     {
@@ -4509,7 +4520,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-22T12:41:34+00:00",
+      "xCheckedAt": "2026-09-29T23:05:41+00:00",
       "id": "f2fc57eb90bec2b0c15cec61"
     },
     {
@@ -4987,6 +4998,45 @@
       "sourceId": "x",
       "id": "2a8c79d0d58be7103ebf863e",
       "xCheckedAt": "2026-09-27T23:05:12+00:00"
+    },
+    {
+      "event": "ドラゴンスター池袋店 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-08-31",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "デアラ",
+      "deck": null,
+      "organizer": "ドラゴンスター池袋店",
+      "area": null,
+      "sourceUrl": "https://x.com/ds_ikebukur0/status/2094368560243945842",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/ds_ikebukur0/status/2094368560243945842",
+      "deckUrl": "https://ws4696.xyz/2026/09/29/wsdeckdal-377/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-09-29T23:04:49+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-dal-2094368560243945842-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-dal-2094368560243945842-0-300x225.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/09/29/wsdeckdal-377/",
+          "alt": "デッキレシピデアラ"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/09/29/wsdeckdal-377/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-09-29"
+        }
+      ],
+      "sourceId": "x",
+      "id": "0851ea43f87604d4e2d657ed",
+      "xCheckedAt": "2026-09-29T23:05:29+00:00"
     },
     {
       "event": "プリニークラブ各務原本店 / 非公認大会",
