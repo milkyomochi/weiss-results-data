@@ -1,6 +1,6 @@
 {
-  "lastRun": "2026-09-29T23:05:42+00:00",
-  "lastAdded": 2,
+  "lastRun": "2026-09-30T23:05:30+00:00",
+  "lastAdded": 7,
   "schedule": {
     "enabled": true,
     "label": "毎朝8時ごろ（GitHub Actions）",
@@ -12,7 +12,7 @@
       "name": "WS公式",
       "url": "https://ws-tcg.com/deckrecipe/recipe_prize/",
       "status": "ok",
-      "checkedAt": "2026-09-29T23:04:14+00:00",
+      "checkedAt": "2026-09-30T23:04:05+00:00",
       "count": 196,
       "message": "公式15ページを確認し、196件の入賞情報を取得。"
     },
@@ -21,7 +21,7 @@
       "name": "しろくろ速報",
       "url": "https://ws4696.xyz/category/deck/feed/",
       "status": "ok",
-      "checkedAt": "2026-09-29T23:04:46+00:00",
+      "checkedAt": "2026-09-30T23:04:35+00:00",
       "count": 47,
       "message": "最新6ページを確認。順位の対応が不明な投稿と対象外の記事は除外（13記事）。"
     },
@@ -30,47 +30,58 @@
       "name": "X（公開投稿）",
       "url": "https://x.com/",
       "status": "partial",
-      "checkedAt": "2026-09-29T23:05:28+00:00",
-      "count": 15,
-      "message": "公開投稿を20件確認し、15件の結果を取得。対応が曖昧な投稿等は8件除外。1件は取得できませんでした。検索・紹介記事で見つかった投稿が対象で、全投稿は網羅しません。"
+      "checkedAt": "2026-09-30T23:05:16+00:00",
+      "count": 11,
+      "message": "公開投稿を20件確認し、11件の結果を取得。対応が曖昧な投稿等は9件除外。2件は取得できませんでした。検索・紹介記事で見つかった投稿が対象で、全投稿は網羅しません。"
     },
     {
       "id": "cs",
       "name": "CS主催者（X）",
       "url": "https://x.com/",
       "status": "ok",
-      "checkedAt": "2026-09-29T23:05:01+00:00",
-      "count": 22,
-      "message": "CS主催者の公開投稿を40件確認し、22件の結果を取得。対応が曖昧な投稿等は33件除外。優先確認：ふらめ杯・福福杯・コギナゴカップ・SSSS杯・キズナ杯。ふらめ杯の確認済み結果の最新公開日：2026-09-12。福福杯の確認済み結果の最新公開日：2026-09-20。コギナゴカップは2026-09-30の検索で直近結果を未確認。コギナゴカップの確認済み結果の最新公開日：2026-08-30。SSSS杯は2026-09-30の検索で直近結果を未確認。SSSS杯の確認済み結果の最新公開日：2026-09-13。キズナ杯は2026-09-30の検索で直近結果を未確認。キズナ杯の確認済み結果の最新公開日：2026-09-20。検索・紹介記事で見つかった投稿が対象で、全投稿は網羅しません。"
+      "checkedAt": "2026-09-30T23:04:51+00:00",
+      "count": 9,
+      "message": "CS主催者の公開投稿を35件確認し、9件の結果を取得。対応が曖昧な投稿等は32件除外。優先確認：ふらめ杯・福福杯・コギナゴカップ・SSSS杯・キズナ杯。ふらめ杯は2026-10-01の検索で直近結果を未確認。ふらめ杯の確認済み結果の最新公開日：2026-09-12。福福杯の確認済み結果の最新公開日：2026-09-20。コギナゴカップは2026-10-01の検索で直近結果を未確認。コギナゴカップの確認済み結果の最新公開日：2026-08-30。SSSS杯は2026-10-01の検索で直近結果を未確認。SSSS杯の確認済み結果の最新公開日：2026-09-13。キズナ杯は2026-10-01の検索で直近結果を未確認。キズナ杯の確認済み結果の最新公開日：2026-09-20。検索・紹介記事で見つかった投稿が対象で、全投稿は網羅しません。"
     },
     {
       "id": "discovery",
       "name": "X・優先CSの新規検索（Tavily）",
       "url": "https://www.tavily.com/",
-      "checkedAt": "2026-09-29T23:03:22+00:00",
-      "count": 1,
+      "checkedAt": "2026-09-30T23:03:19+00:00",
+      "count": 5,
       "status": "ok",
       "searches": 13,
       "errors": [],
       "creditsReported": 13,
       "resultUrls": [
-        "https://x.com/FLAME_CUP_unei/status/2100440615951679644",
         "https://x.com/fukufuku_ws/status/2103416699429216347",
         "https://x.com/fukufuku_ws/status/2104067900474871857",
         "https://x.com/CS_shiga/status/2104104103114854796",
-        "https://x.com/bunakiruno_TCG/status/2104891015551484033"
+        "https://x.com/neokokufu/status/2104734997521543286",
+        "https://x.com/tcsnext/status/2103790352234881512",
+        "https://x.com/torekore_rakura/status/2104528038834979206",
+        "https://x.com/ws4696/status/2104213218482921863",
+        "https://x.com/ws4696/status/2103662086492696849",
+        "https://x.com/ws4696/status/2104462359662301548",
+        "https://x.com/ws4696/status/2104764349650985468",
+        "https://x.com/ws4696/status/2105239983967858887",
+        "https://x.com/ws4696/status/2102642870914089389",
+        "https://x.com/bo_mizonokuchi/status/2105254366953500764",
+        "https://x.com/bo_hashimotoTCG/status/2105243893348655273"
       ],
       "webCandidates": [
         "https://x.com/150067036955?lang=gu",
         "https://search.yahoo.co.jp/realtime/search?ei=UTF-8&p=%23%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%B9%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%84&rkf=1",
         "https://search.yahoo.co.jp/realtime/search?ei=UTF-8&p=%23ws+%E5%A4%A7%E4%BC%9A&md=h&rkf=1",
-        "https://x.com/Morisama_puyo/reposts?lang=bg",
         "https://note.com/murato1126/n/n2f33fdb1c952",
-        "https://x.com/Milvusmigrans1/all",
-        "https://search.yahoo.co.jp/realtime/search/nike?ei=UTF-8&md=h&rkf=1&ifr=tl_unit&p=nike+%E3%82%A2%E3%82%A6%E3%83%88%E3%83%AC%E3%83%83%E3%83%88+30%25%E3%82%AA%E3%83%95",
-        "https://www.bushi-navi.com/event?organizerId=562&seriesId=3398",
-        "https://ws4696.xyz/category/%E3%83%87%E3%83%83%E3%82%AD%E3%83%AC%E3%82%B7%E3%83%94%E3%82%A2%E3%82%B5%E3%83%AA",
-        "https://vanguard-gia.blog.jp/archives/1083616188.html",
+        "https://www.youtube.com/watch?v=zo9NhtfnWm8",
+        "https://x.com/Nagomin_plus/all",
+        "https://x.com/taics1111/all",
+        "https://search.yahoo.co.jp/realtime/search/tweet/2105406197088313519?detail=1&ifr=tl_twdtl&rkf=1",
+        "https://www.bushi-navi.com/event?organizerId=654&seriesId=3379",
+        "https://supersolenoid.jp/blog-entry-48078.html",
+        "https://ws4696.xyz/category/%E3%83%87%E3%83%83%E3%82%AD%E3%83%AC%E3%82%B7%E3%83%94aquaplus",
+        "https://torecamap.co.jp/column/duema-tournament-join",
         "https://note.com/0205574/n/nd2c3b950b035",
         "https://www.c-labo.jp/shop/oita/tournament/page/3",
         "https://yuyu-tei.jp/show/hocg/content/27521"
@@ -82,9 +93,7 @@
         },
         {
           "query": "site:x.com \"FLAME_CUP_unei\" \"ふらめ杯\"",
-          "postUrls": [
-            "https://x.com/FLAME_CUP_unei/status/2100440615951679644"
-          ]
+          "postUrls": []
         },
         {
           "query": "\"福福杯\" 大会結果",
@@ -122,42 +131,54 @@
           "postUrls": []
         },
         {
-          "query": "\"餅CS\" moti_cs_ 結果",
+          "query": "\"WSたいCS\" taics1111 結果",
           "postUrls": []
         },
         {
           "query": "site:x.com \"ヴァイスシュヴァルツ\" \"優勝\"",
-          "postUrls": []
+          "postUrls": [
+            "https://x.com/CS_shiga/status/2104104103114854796",
+            "https://x.com/neokokufu/status/2104734997521543286",
+            "https://x.com/tcsnext/status/2103790352234881512",
+            "https://x.com/torekore_rakura/status/2104528038834979206",
+            "https://x.com/ws4696/status/2104213218482921863",
+            "https://x.com/ws4696/status/2103662086492696849",
+            "https://x.com/ws4696/status/2104462359662301548",
+            "https://x.com/ws4696/status/2104764349650985468",
+            "https://x.com/ws4696/status/2105239983967858887",
+            "https://x.com/ws4696/status/2102642870914089389"
+          ]
         },
         {
           "query": "\"ヴァイスシュヴァルツ\" \"大会結果\"",
           "postUrls": [
-            "https://x.com/CS_shiga/status/2104104103114854796",
-            "https://x.com/bunakiruno_TCG/status/2104891015551484033"
+            "https://x.com/bo_mizonokuchi/status/2105254366953500764",
+            "https://x.com/bo_hashimotoTCG/status/2105243893348655273"
           ]
         }
       ],
       "budget": {
-        "month": "2026-09",
-        "monthlyAttempts": 247,
-        "day": "2026-09-30",
+        "month": "2026-10",
+        "monthlyAttempts": 13,
+        "day": "2026-10-01",
         "dailyAttempts": 13
       },
-      "message": "Tavily basicで13検索。優先CS5大会を各2検索。X候補5件（新規1件）、その他Web候補13件。本文で確認できた入賞情報だけ採用します。Web候補は未検証です。今月の検索試行247/900回。"
+      "message": "Tavily basicで13検索。優先CS5大会を各2検索。X候補14件（新規5件）、その他Web候補15件。本文で確認できた入賞情報だけ採用します。Web候補は未検証です。今月の検索試行13/900回。"
     },
     {
       "id": "cs_discovery",
       "name": "CS投稿URLの補助収集",
       "url": "https://search.yahoo.co.jp/realtime",
-      "checkedAt": "2026-09-29T23:03:59+00:00",
+      "checkedAt": "2026-09-30T23:03:50+00:00",
       "status": "ok",
-      "count": 5,
+      "count": 2,
       "requests": 9,
       "errors": [],
       "organizers": [
         {
           "name": "ふらめ杯",
           "urls": [
+            "https://x.com/FLAME_CUP_unei/status/2105246279416815809",
             "https://x.com/FLAME_CUP_unei/status/2104816331606598027",
             "https://x.com/FLAME_CUP_unei/status/2104548037146337662",
             "https://x.com/FLAME_CUP_unei/status/2100962313360785704",
@@ -174,6 +195,7 @@
         {
           "name": "福福杯",
           "urls": [
+            "https://x.com/fukufuku_ws/status/2105272590675980333",
             "https://x.com/fukufuku_ws/status/2104904031370146056",
             "https://x.com/fukufuku_ws/status/2104843626580942933",
             "https://x.com/fukufuku_ws/status/2104190413531943267",
@@ -184,8 +206,7 @@
             "https://x.com/fukufuku_ws/status/2103809715952402783",
             "https://x.com/fukufuku_ws/status/2103800791538729387",
             "https://x.com/fukufuku_ws/status/2103792820750516607",
-            "https://x.com/fukufuku_ws/status/2103454482474406136",
-            "https://x.com/fukufuku_ws/status/2103394081179046051"
+            "https://x.com/fukufuku_ws/status/2103454482474406136"
           ]
         },
         {
@@ -251,18 +272,18 @@
           ]
         }
       ],
-      "message": "公開検索ページを9件確認し、主催者の新しい投稿URLを5件発見。本文はX公式oEmbedで別途確認します。"
+      "message": "公開検索ページを9件確認し、主催者の新しい投稿URLを2件発見。本文はX公式oEmbedで別途確認します。"
     }
   ],
   "migrationComplete": true,
   "manualUpdateUrl": "https://github.com/milkyomochi/weiss-results-data/actions/workflows/collect.yml",
   "runStatus": "partial",
-  "runUrl": "https://github.com/milkyomochi/weiss-results-data/actions/runs/36643090212",
+  "runUrl": "https://github.com/milkyomochi/weiss-results-data/actions/runs/36789016385",
   "freshness": {
-    "latestResultPublishedAt": "2026-09-29",
-    "latestArticlePublishedAt": "2026-09-29",
-    "recentAdded": 1,
-    "historicalAdded": 1,
+    "latestResultPublishedAt": "2026-09-30",
+    "latestArticlePublishedAt": "2026-09-30",
+    "recentAdded": 5,
+    "historicalAdded": 2,
     "daysSinceLatest": 1
   },
   "reviewHistory": [
