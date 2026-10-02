@@ -1,7 +1,137 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-01T23:04:52+00:00",
+  "updatedAt": "2026-10-02T23:04:49+00:00",
   "results": [
+    {
+      "event": "カードジム石神井公園駅前店 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-02",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": null,
+      "organizer": "カードジム石神井公園駅前店",
+      "area": null,
+      "sourceUrl": "https://x.com/cardgym/status/2105998405118099580",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/cardgym/status/2105998405118099580",
+      "deckUrl": "https://x.com/cardgym/status/2105998405118099580",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-02T23:04:35+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-02T23:04:35+00:00",
+      "id": "f402d0a928e0c2ab15776af5"
+    },
+    {
+      "event": "Japan TCG Center本厚木駅前店 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-02",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": "NIKKE",
+      "organizer": "Japan TCG Center本厚木駅前店",
+      "area": null,
+      "sourceUrl": "https://x.com/JTC_Honatsugi/status/2105967823931703752",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/JTC_Honatsugi/status/2105967823931703752",
+      "deckUrl": "https://x.com/JTC_Honatsugi/status/2105967823931703752",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-02T23:04:38+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-02T23:04:38+00:00",
+      "id": "d1f57ad36256343df6dc1cb8"
+    },
+    {
+      "event": "TCGショップ ”ディスク” / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-02",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": null,
+      "organizer": "TCGショップ ”ディスク”",
+      "area": null,
+      "sourceUrl": "https://x.com/6thedieiscast9/status/2105979233923383495",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/6thedieiscast9/status/2105979233923383495",
+      "deckUrl": "https://x.com/6thedieiscast9/status/2105979233923383495",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-02T23:04:36+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-02T23:04:36+00:00",
+      "id": "42a7802641440f351b339123"
+    },
+    {
+      "event": "TSUTAYA Trading Card 北千住 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-02",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": null,
+      "organizer": "TSUTAYA Trading Card 北千住",
+      "area": null,
+      "sourceUrl": "https://x.com/TSUTAYA_Card_ks/status/2105968076768629092",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/TSUTAYA_Card_ks/status/2105968076768629092",
+      "deckUrl": "https://x.com/TSUTAYA_Card_ks/status/2105968076768629092",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-02T23:04:37+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-02T23:04:37+00:00",
+      "id": "0a91e255d7213b6cc7b2e5ff"
+    },
+    {
+      "event": "Japan TCG Center八王子駅前店 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-02",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": "竜王のお仕事!",
+      "organizer": "Japan TCG Center八王子駅前店",
+      "area": null,
+      "sourceUrl": "https://x.com/JTC_hachioji/status/2105985696104419344",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/JTC_hachioji/status/2105985696104419344",
+      "deckUrl": "https://x.com/JTC_hachioji/status/2105985696104419344",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-02T23:04:35+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-02T23:04:35+00:00",
+      "id": "05098cc9c430f979c595bcb9"
+    },
     {
       "event": "Japan TCG Centerイオンモール沖縄ライカム店 / 大会結果",
       "eventDate": null,
@@ -1687,7 +1817,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-24T23:05:29+00:00",
+      "xCheckedAt": "2026-10-02T23:04:39+00:00",
       "id": "a1ec59e318bd690380c4de75"
     },
     {
@@ -1739,7 +1869,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-24T23:05:30+00:00",
+      "xCheckedAt": "2026-10-02T23:04:40+00:00",
       "id": "f3b4e88e3b9a9d46d8600555"
     },
     {
@@ -2127,7 +2257,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-24T23:05:31+00:00",
+      "xCheckedAt": "2026-10-02T23:04:41+00:00",
       "id": "f159a26a674f9d463348af56"
     },
     {
@@ -2899,7 +3029,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-24T23:05:33+00:00",
+      "xCheckedAt": "2026-10-02T23:04:43+00:00",
       "id": "0d2e0ef7f3ec915af39c7aa4"
     },
     {
@@ -3232,7 +3362,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-24T23:05:33+00:00",
+      "xCheckedAt": "2026-10-02T23:04:44+00:00",
       "id": "58258d6716fff2f8214b8101"
     },
     {
@@ -6079,7 +6209,7 @@
       ],
       "sourceId": "x",
       "id": "18a289a47293efb627ff0011",
-      "xCheckedAt": "2026-09-24T23:05:36+00:00"
+      "xCheckedAt": "2026-10-02T23:04:46+00:00"
     },
     {
       "event": "TCGショップコロッサス@てんちょう🐾 / 大会結果",
@@ -6118,7 +6248,7 @@
       ],
       "sourceId": "x",
       "id": "0070f30c0ecdb4c231098f64",
-      "xCheckedAt": "2026-09-24T23:05:35+00:00"
+      "xCheckedAt": "2026-10-02T23:04:46+00:00"
     },
     {
       "event": "TCGショップ ”ディスク” / 大会結果",
@@ -6786,7 +6916,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-21T11:33:17+00:00",
+      "xCheckedAt": "2026-10-02T23:04:47+00:00",
       "id": "32b82872aea626c5e50424c0"
     },
     {
@@ -7000,7 +7130,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-21T11:33:18+00:00",
+      "xCheckedAt": "2026-10-02T23:04:48+00:00",
       "id": "de0b6fd79d3ad16475bd75cb"
     },
     {
@@ -7226,7 +7356,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-21T11:33:19+00:00",
+      "xCheckedAt": "2026-10-02T23:04:48+00:00",
       "id": "5ca48f3828a9024b6d35f8e9"
     },
     {
