@@ -1,7 +1,103 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-04T03:00:55+00:00",
+  "updatedAt": "2026-10-04T23:05:02+00:00",
   "results": [
+    {
+      "event": "第116回福福杯",
+      "eventDate": null,
+      "publishedAt": "2026-10-04",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": "しおぴぃ",
+      "title": "アイドルマスターミリオンライブ!",
+      "deck": null,
+      "organizer": "福福トレカ ヴァイスシュヴァルツ|郵送買取実施中!",
+      "area": null,
+      "sourceUrl": "https://x.com/fukufuku_ws/status/2106730447355174950",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/fukufuku_ws/status/2106730447355174950",
+      "deckUrl": "https://x.com/fukufuku_ws/status/2106730447355174950",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で順位・選手・使用デッキの対応を確認。公開日は元投稿の表示日付。成績はチーム順位。各選手の掲載デッキを1件として記録。使用タイトルの略称は投稿表記を保持（既存の表記統一を除く）。開催日は未確認。",
+      "collectedAt": "2026-10-04T23:04:42+00:00",
+      "images": [],
+      "relatedSources": [],
+      "eventKind": "cs",
+      "role": null,
+      "team": "ぴぃつー",
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-04T23:04:42+00:00",
+      "entryKey": "優勝||しおぴぃ|",
+      "game": "ws",
+      "contextSourceUrl": null,
+      "id": "d169d9f8aff76b61f9d34723"
+    },
+    {
+      "event": "第116回福福杯",
+      "eventDate": null,
+      "publishedAt": "2026-10-04",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": "bory",
+      "title": "Summer Pockets",
+      "deck": null,
+      "organizer": "福福トレカ ヴァイスシュヴァルツ|郵送買取実施中!",
+      "area": null,
+      "sourceUrl": "https://x.com/fukufuku_ws/status/2106730447355174950",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/fukufuku_ws/status/2106730447355174950",
+      "deckUrl": "https://x.com/fukufuku_ws/status/2106730447355174950",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で順位・選手・使用デッキの対応を確認。公開日は元投稿の表示日付。成績はチーム順位。各選手の掲載デッキを1件として記録。使用タイトルの略称は投稿表記を保持（既存の表記統一を除く）。開催日は未確認。",
+      "collectedAt": "2026-10-04T23:04:42+00:00",
+      "images": [],
+      "relatedSources": [],
+      "eventKind": "cs",
+      "role": null,
+      "team": "ぴぃつー",
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-04T23:04:42+00:00",
+      "entryKey": "優勝||bory|",
+      "game": "ws",
+      "contextSourceUrl": null,
+      "id": "a9dc5b961e7a33c3079099f7"
+    },
+    {
+      "event": "第116回福福杯",
+      "eventDate": null,
+      "publishedAt": "2026-10-04",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": "りゅー",
+      "title": "アサルトリリィ",
+      "deck": null,
+      "organizer": "福福トレカ ヴァイスシュヴァルツ|郵送買取実施中!",
+      "area": null,
+      "sourceUrl": "https://x.com/fukufuku_ws/status/2106730447355174950",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/fukufuku_ws/status/2106730447355174950",
+      "deckUrl": "https://x.com/fukufuku_ws/status/2106730447355174950",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で順位・選手・使用デッキの対応を確認。公開日は元投稿の表示日付。成績はチーム順位。各選手の掲載デッキを1件として記録。使用タイトルの略称は投稿表記を保持（既存の表記統一を除く）。開催日は未確認。",
+      "collectedAt": "2026-10-04T23:04:42+00:00",
+      "images": [],
+      "relatedSources": [],
+      "eventKind": "cs",
+      "role": null,
+      "team": "ぴぃつー",
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-04T23:04:42+00:00",
+      "entryKey": "優勝||りゅー|",
+      "game": "ws",
+      "contextSourceUrl": null,
+      "id": "375f2027d7f50881fd9abd44"
+    },
     {
       "event": "カードジム石神井公園駅前店 / 大会結果",
       "eventDate": null,
@@ -7421,7 +7517,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-21T11:33:20+00:00",
+      "xCheckedAt": "2026-10-04T23:04:49+00:00",
       "id": "8dd04bf8091be228abffe574"
     },
     {
@@ -7557,7 +7653,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-21T11:33:20+00:00"
+      "xCheckedAt": "2026-10-04T23:04:49+00:00"
     },
     {
       "event": "ホビーステーション名駅店 / 大会結果",
@@ -7596,7 +7692,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-21T11:33:21+00:00"
+      "xCheckedAt": "2026-10-04T23:04:50+00:00"
     },
     {
       "event": "【トレカ・ホビー】ブックオフ武蔵小金井店【!!ガンプラ買取強化!!】 / 大会結果",
@@ -7635,7 +7731,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-24T23:05:36+00:00"
+      "xCheckedAt": "2026-10-04T23:04:52+00:00"
     },
     {
       "event": "TCGショップ ”ディスク” / 大会結果",
@@ -7674,7 +7770,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-26T23:05:15+00:00"
+      "xCheckedAt": "2026-10-04T23:04:51+00:00"
     },
     {
       "event": "イーフォーラム河内長野店【ゲームトレカ】 / 大会結果",
@@ -7713,7 +7809,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-24T23:05:37+00:00"
+      "xCheckedAt": "2026-10-04T23:04:52+00:00"
     },
     {
       "event": "カードショップ竜星のPAO千葉中央店 / 公認大会",
@@ -7752,7 +7848,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-21T11:33:22+00:00"
+      "xCheckedAt": "2026-10-04T23:04:53+00:00"
     },
     {
       "event": "ドラゴンスター池袋店 / 大会結果",
@@ -7791,7 +7887,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-26T23:05:16+00:00"
+      "xCheckedAt": "2026-10-04T23:04:54+00:00"
     },
     {
       "event": "第12回WSたいCS",
@@ -8025,7 +8121,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-26T23:05:18+00:00"
+      "xCheckedAt": "2026-10-04T23:04:56+00:00"
     },
     {
       "event": "アメニティードリーム京都店 / 大会結果",
@@ -8103,7 +8199,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-26T23:05:17+00:00"
+      "xCheckedAt": "2026-10-04T23:04:54+00:00"
     },
     {
       "event": "CREATIVE STYLE / 大会結果",
@@ -8142,7 +8238,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-24T23:05:38+00:00"
+      "xCheckedAt": "2026-10-04T23:04:58+00:00"
     },
     {
       "event": "トレジャーコレクション イオンタウン周南久米店 / 大会結果",
@@ -8181,7 +8277,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-24T23:05:38+00:00"
+      "xCheckedAt": "2026-10-04T23:04:58+00:00"
     },
     {
       "event": "BOOKSあんとく みづま店@トレカコーナー / 大会結果",
@@ -8220,7 +8316,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-21T11:33:25+00:00"
+      "xCheckedAt": "2026-10-04T23:05:00+00:00"
     },
     {
       "event": "CREATIVE STYLE / 大会結果",
@@ -8259,7 +8355,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-21T11:33:26+00:00"
+      "xCheckedAt": "2026-10-04T23:05:01+00:00"
     },
     {
       "event": "カードショップ彩々 国分店 / 大会結果",
@@ -8298,7 +8394,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-26T23:05:18+00:00"
+      "xCheckedAt": "2026-10-04T23:04:59+00:00"
     },
     {
       "event": "🐎TC バトロコ高田馬場🐎@アルバイト募集中 / 大会結果",
