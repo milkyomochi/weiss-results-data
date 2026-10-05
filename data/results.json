@@ -1,7 +1,33 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-04T23:05:02+00:00",
+  "updatedAt": "2026-10-05T23:05:58+00:00",
   "results": [
+    {
+      "event": "BSB 17号前橋リリカ トレカ店 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-05",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": "時雨マナ",
+      "title": null,
+      "deck": null,
+      "organizer": "BSB 17号前橋リリカ トレカ店",
+      "area": null,
+      "sourceUrl": "https://x.com/bookoff_tcgcard/status/2106952071803281744",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/bookoff_tcgcard/status/2106952071803281744",
+      "deckUrl": "https://x.com/bookoff_tcgcard/status/2106952071803281744",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-05T23:05:46+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-05T23:05:46+00:00",
+      "id": "9ca04a1eccfd407d6d496b38"
+    },
     {
       "event": "第116回福福杯",
       "eventDate": null,
@@ -65,6 +91,32 @@
       "game": "ws",
       "contextSourceUrl": null,
       "id": "a9dc5b961e7a33c3079099f7"
+    },
+    {
+      "event": "CREATIVE STYLE / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-04",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": "リゼット",
+      "title": null,
+      "deck": "霊夢",
+      "organizer": "CREATIVE STYLE",
+      "area": null,
+      "sourceUrl": "https://x.com/CS_shiga/status/2106653418773524889",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/CS_shiga/status/2106653418773524889",
+      "deckUrl": "https://x.com/CS_shiga/status/2106653418773524889",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-05T23:05:48+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-05T23:05:48+00:00",
+      "id": "59e28a845c92d6f6291b623b"
     },
     {
       "event": "第116回福福杯",
@@ -1197,7 +1249,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-28T23:05:25+00:00",
+      "xCheckedAt": "2026-10-05T23:05:50+00:00",
       "id": "5877dfe8597a3cf82f214b6f"
     },
     {
@@ -1535,7 +1587,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-28T23:05:25+00:00",
+      "xCheckedAt": "2026-10-05T23:05:49+00:00",
       "id": "19ae0078d74eeee090f6e0d8"
     },
     {
@@ -1705,7 +1757,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-28T23:05:28+00:00",
+      "xCheckedAt": "2026-10-05T23:05:55+00:00",
       "id": "e3ca35fd5e5502f102b30651"
     },
     {
@@ -1731,7 +1783,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-27T23:05:08+00:00",
+      "xCheckedAt": "2026-10-05T23:05:53+00:00",
       "id": "93a6fdde52919a522ed8282a"
     },
     {
@@ -1757,7 +1809,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-27T23:05:10+00:00",
+      "xCheckedAt": "2026-10-05T23:05:54+00:00",
       "id": "7159c6e18d3a44526a0d34b4"
     },
     {
@@ -1809,7 +1861,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-27T23:05:11+00:00",
+      "xCheckedAt": "2026-10-05T23:05:56+00:00",
       "id": "3c64f4ed2511246aeeb4b11e"
     },
     {
@@ -1835,7 +1887,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-28T23:05:28+00:00",
+      "xCheckedAt": "2026-10-05T23:05:56+00:00",
       "id": "331ec2b583aaed114cfc186c"
     },
     {
@@ -2053,6 +2105,45 @@
       "id": "383dce4097a061565e9258e6"
     },
     {
+      "event": "ホビーステーション名駅店 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-09-23",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "アサリ",
+      "deck": "アサリ",
+      "organizer": "ホビーステーション名駅店",
+      "area": null,
+      "sourceUrl": "https://x.com/hbst_meieki/status/2102702355468972373",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/hbst_meieki/status/2102702355468972373",
+      "deckUrl": "https://ws4696.xyz/2026/10/05/wsdeckall-282/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-05T23:05:07+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-all-2102702355468972373-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-all-2102702355468972373-0-300x187.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/10/05/wsdeckall-282/",
+          "alt": "デッキレシピアサリ"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/10/05/wsdeckall-282/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-10-05"
+        }
+      ],
+      "sourceId": "x",
+      "id": "1095c96e7a7820968c2ec221",
+      "xCheckedAt": "2026-10-05T23:05:49+00:00"
+    },
+    {
       "event": "ネオ / 大会結果",
       "eventDate": null,
       "publishedAt": "2026-09-22",
@@ -2249,7 +2340,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-28T23:05:31+00:00",
+      "xCheckedAt": "2026-10-05T23:05:58+00:00",
       "id": "ffb8fa7208ce442e5e8b9e4c"
     },
     {
@@ -2327,7 +2418,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-28T23:05:30+00:00",
+      "xCheckedAt": "2026-10-05T23:05:57+00:00",
       "id": "56ae1eb7c523a04193b27a02"
     },
     {
@@ -3274,7 +3365,7 @@
       "player": "Kg",
       "title": "ISC",
       "deck": null,
-      "organizer": "SSSS杯→NEXT 9/13トリオ開催",
+      "organizer": "SSSS杯→NEXT 10/18トリオ開催",
       "area": null,
       "sourceUrl": "https://x.com/SSSS37336553297/status/2099073550821056585",
       "sourceName": "X",
@@ -3511,7 +3602,7 @@
       "player": "きんちゃん",
       "title": "BD",
       "deck": null,
-      "organizer": "SSSS杯→NEXT 9/13トリオ開催",
+      "organizer": "SSSS杯→NEXT 10/18トリオ開催",
       "area": null,
       "sourceUrl": "https://x.com/SSSS37336553297/status/2099073550821056585",
       "sourceName": "X",
@@ -3586,7 +3677,7 @@
       "player": "itokon",
       "title": "SMP",
       "deck": null,
-      "organizer": "SSSS杯→NEXT 9/13トリオ開催",
+      "organizer": "SSSS杯→NEXT 10/18トリオ開催",
       "area": null,
       "sourceUrl": "https://x.com/SSSS37336553297/status/2099073550821056585",
       "sourceName": "X",
