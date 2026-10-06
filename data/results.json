@@ -1,7 +1,39 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-05T23:05:58+00:00",
+  "updatedAt": "2026-10-06T23:05:26+00:00",
   "results": [
+    {
+      "event": "プリニークラブ各務原本店 / 公認ショップ大会",
+      "eventDate": null,
+      "publishedAt": "2026-10-06",
+      "category": "sanctioned",
+      "categoryReason": "発表文に「公認」の明記あり",
+      "format": null,
+      "placement": "優勝",
+      "player": "すっぱい",
+      "title": "ラブライブ!蓮ノ空女学院スクールアイドルクラブ",
+      "deck": null,
+      "organizer": "プリニークラブ各務原本店",
+      "area": null,
+      "sourceUrl": "https://ws4696.xyz/2026/10/06/wsdecklhs-218/",
+      "sourceName": "しろくろ速報",
+      "originalUrl": "https://x.com/prinnyclub/status/2101572239267369099",
+      "deckUrl": "https://ws4696.xyz/2026/10/06/wsdecklhs-218/",
+      "evidence": "repost",
+      "notes": "紹介記事内の投稿から成績を確認。使用タイトルは記事の表記。元投稿の「本日」等から開催日を推定していません。",
+      "collectedAt": "2026-10-06T23:04:50+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-lhs-2101572239267369099-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-lhs-2101572239267369099-0-300x177.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/10/06/wsdecklhs-218/",
+          "alt": "デッキレシピラブライブ!蓮ノ空女学院スクールアイドルクラブ"
+        }
+      ],
+      "relatedSources": [],
+      "sourceId": "reposts",
+      "id": "d5ccb5f8426b21a3d8a97edb"
+    },
     {
       "event": "BSB 17号前橋リリカ トレカ店 / 大会結果",
       "eventDate": null,
@@ -2366,7 +2398,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-28T23:05:31+00:00",
+      "xCheckedAt": "2026-10-06T23:05:12+00:00",
       "id": "96b5e8dda33f25b0c3a6de76"
     },
     {
@@ -2392,7 +2424,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-28T23:05:32+00:00",
+      "xCheckedAt": "2026-10-06T23:05:12+00:00",
       "id": "59890ae200f83229f5221dc3"
     },
     {
@@ -3229,7 +3261,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-28T23:05:35+00:00",
+      "xCheckedAt": "2026-10-06T23:05:15+00:00",
       "id": "71c15f929f630999b1d75956"
     },
     {
@@ -3478,7 +3510,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-28T23:05:39+00:00",
+      "xCheckedAt": "2026-10-06T23:05:19+00:00",
       "id": "cb03cfc13e12e1c1eb47fe98"
     },
     {
@@ -5519,7 +5551,7 @@
       ],
       "sourceId": "x",
       "id": "86fbecbdd2d0922dd2be4979",
-      "xCheckedAt": "2026-09-27T23:05:12+00:00"
+      "xCheckedAt": "2026-10-06T23:05:20+00:00"
     },
     {
       "event": "ストレージワン広島店 / 公認大会",
@@ -5610,7 +5642,7 @@
       ],
       "sourceId": "x",
       "id": "2a8c79d0d58be7103ebf863e",
-      "xCheckedAt": "2026-09-27T23:05:12+00:00"
+      "xCheckedAt": "2026-10-06T23:05:21+00:00"
     },
     {
       "event": "ドラゴンスター池袋店 / 大会結果",
@@ -6028,7 +6060,7 @@
       ],
       "sourceId": "x",
       "id": "6695d346691dec874b8a20cc",
-      "xCheckedAt": "2026-09-28T23:05:29+00:00"
+      "xCheckedAt": "2026-10-06T23:05:22+00:00"
     },
     {
       "event": "第27回餅CS",
@@ -6552,7 +6584,7 @@
       ],
       "sourceId": "x",
       "id": "125134db7dee74e3246df267",
-      "xCheckedAt": "2026-09-27T23:05:13+00:00"
+      "xCheckedAt": "2026-10-06T23:05:22+00:00"
     },
     {
       "event": "TCGショップ ”ディスク” / 大会結果",
@@ -8251,7 +8283,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-27T23:05:14+00:00"
+      "xCheckedAt": "2026-10-06T23:05:23+00:00"
     },
     {
       "event": "🐎TC バトロコ高田馬場🐎@アルバイト募集中 / 大会結果",
@@ -8524,7 +8556,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-24T23:05:39+00:00"
+      "xCheckedAt": "2026-10-06T23:05:24+00:00"
     },
     {
       "event": "ホビーステーション仙台駅前店 / 大会結果",
@@ -8563,7 +8595,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-26T23:05:20+00:00"
+      "xCheckedAt": "2026-10-06T23:05:25+00:00"
     },
     {
       "event": "ホビーステーション名駅店 / 大会結果",
@@ -8602,7 +8634,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-26T23:05:20+00:00"
+      "xCheckedAt": "2026-10-06T23:05:25+00:00"
     },
     {
       "event": "TSUTAYA BOOKSTORE川崎駅前店@トレカ / 大会結果",
