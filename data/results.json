@@ -1,7 +1,33 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-07T23:05:30+00:00",
+  "updatedAt": "2026-10-08T23:07:35+00:00",
   "results": [
+    {
+      "event": "ブックオフ西友大森店【トレカ】 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-08",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": "8電デアラ",
+      "organizer": "ブックオフ西友大森店【トレカ】",
+      "area": null,
+      "sourceUrl": "https://x.com/bo_oomori_tcg/status/2108166937608081804",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/bo_oomori_tcg/status/2108166937608081804",
+      "deckUrl": "https://x.com/bo_oomori_tcg/status/2108166937608081804",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-08T23:07:22+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-08T23:07:22+00:00",
+      "id": "6bfc60c1e77ad9513f85fc81"
+    },
     {
       "event": "トリオサバイバル in WGP26-27 Season1 東京会場 Aブロック",
       "eventDate": null,
@@ -1847,7 +1873,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-01T23:04:38+00:00",
+      "xCheckedAt": "2026-10-08T23:07:23+00:00",
       "id": "62a3e0d1092ec58b30b65453"
     },
     {
@@ -1873,7 +1899,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:17+00:00",
+      "xCheckedAt": "2026-10-08T23:07:26+00:00",
       "id": "b6ff49b2dc0d4f252ca2b54f"
     },
     {
@@ -1899,7 +1925,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:17+00:00",
+      "xCheckedAt": "2026-10-08T23:07:25+00:00",
       "id": "26bd24be573c22224b159f7f"
     },
     {
@@ -1925,7 +1951,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-01T23:04:39+00:00",
+      "xCheckedAt": "2026-10-08T23:07:25+00:00",
       "id": "1ffd2bd0f7548283c2b99a13"
     },
     {
@@ -1954,7 +1980,7 @@
       "role": null,
       "team": null,
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:19+00:00",
+      "xCheckedAt": "2026-10-08T23:07:28+00:00",
       "entryKey": "3位||ブラウンダスト|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -2012,7 +2038,7 @@
       "role": null,
       "team": null,
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:19+00:00",
+      "xCheckedAt": "2026-10-08T23:07:28+00:00",
       "entryKey": "優勝||東方|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -2044,7 +2070,7 @@
       "role": null,
       "team": null,
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:19+00:00",
+      "xCheckedAt": "2026-10-08T23:07:28+00:00",
       "entryKey": "準優勝||アサリ|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -3587,7 +3613,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:21+00:00",
+      "xCheckedAt": "2026-10-08T23:07:29+00:00",
       "id": "d36c69f6136a41d3177d993d"
     },
     {
@@ -3645,7 +3671,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:21+00:00",
+      "xCheckedAt": "2026-10-08T23:07:29+00:00",
       "id": "383dce4097a061565e9258e6"
     },
     {
@@ -3800,7 +3826,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:23+00:00",
+      "xCheckedAt": "2026-10-08T23:07:31+00:00",
       "id": "755bae7b30a1071675637214"
     },
     {
@@ -4315,7 +4341,7 @@
       ],
       "sourceId": "x",
       "id": "831a1d77f3045e88a38d3adc",
-      "xCheckedAt": "2026-10-01T23:04:40+00:00"
+      "xCheckedAt": "2026-10-08T23:07:33+00:00"
     },
     {
       "event": "第29回 キズナ杯",
@@ -4354,6 +4380,45 @@
       "game": "ws",
       "contextSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
       "id": "8279c2e4c1f07226337bb401"
+    },
+    {
+      "event": "スミレヤ 玩具事業部 / 大会結果",
+      "eventDate": "2026-09-20",
+      "publishedAt": "2026-09-20",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": "あき",
+      "title": "リゼロ",
+      "deck": null,
+      "organizer": "スミレヤ 玩具事業部",
+      "area": null,
+      "sourceUrl": "https://x.com/kgpXnKH3qVbx3PA/status/2101723937143222331",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/kgpXnKH3qVbx3PA/status/2101723937143222331",
+      "deckUrl": "https://ws4696.xyz/2026/10/08/wsdeckrz-210/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。",
+      "collectedAt": "2026-10-08T23:06:41+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-rz-2101723937143222331-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-rz-2101723937143222331-0-300x192.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/10/08/wsdeckrz-210/",
+          "alt": "デッキレシピリゼロ"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/10/08/wsdeckrz-210/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-10-08"
+        }
+      ],
+      "sourceId": "x",
+      "id": "66f3576496441b28fa661b2a",
+      "xCheckedAt": "2026-10-08T23:07:23+00:00"
     },
     {
       "event": "🐎TC バトロコ高田馬場🐎@アルバイト募集中 / 大会結果",
@@ -10252,7 +10317,7 @@
       "role": null,
       "team": "Ex-Otogibanashi",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:09+00:00",
+      "xCheckedAt": "2026-10-08T23:07:17+00:00",
       "entryKey": "優勝||モリげ|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -10284,7 +10349,7 @@
       "role": null,
       "team": "Ex-Otogibanashi",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:09+00:00",
+      "xCheckedAt": "2026-10-08T23:07:17+00:00",
       "entryKey": "優勝||とて|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -10316,7 +10381,7 @@
       "role": null,
       "team": "Ex-Otogibanashi",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:09+00:00",
+      "xCheckedAt": "2026-10-08T23:07:17+00:00",
       "entryKey": "優勝||ふぁて|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -15697,7 +15762,7 @@
       "role": null,
       "team": "すごいじゃん",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:10+00:00",
+      "xCheckedAt": "2026-10-08T23:07:18+00:00",
       "entryKey": "優勝||ハヤト|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -15729,7 +15794,7 @@
       "role": null,
       "team": "すごいじゃん",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:10+00:00",
+      "xCheckedAt": "2026-10-08T23:07:18+00:00",
       "entryKey": "優勝||ふにゃた|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -15761,7 +15826,7 @@
       "role": null,
       "team": "すごいじゃん",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:10+00:00",
+      "xCheckedAt": "2026-10-08T23:07:18+00:00",
       "entryKey": "優勝||むっつ|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -15793,7 +15858,7 @@
       "role": null,
       "team": "清水家",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:11+00:00",
+      "xCheckedAt": "2026-10-08T23:07:19+00:00",
       "entryKey": "優勝||しみみ|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -15825,7 +15890,7 @@
       "role": null,
       "team": "清水家",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:11+00:00",
+      "xCheckedAt": "2026-10-08T23:07:19+00:00",
       "entryKey": "優勝||ちゃばん|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -15857,7 +15922,7 @@
       "role": null,
       "team": "清水家",
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:11+00:00",
+      "xCheckedAt": "2026-10-08T23:07:19+00:00",
       "entryKey": "優勝||ぎょっぴ|",
       "game": "ws",
       "contextSourceUrl": null,
