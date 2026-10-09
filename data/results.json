@@ -1,7 +1,33 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-08T23:07:35+00:00",
+  "updatedAt": "2026-10-09T23:06:47+00:00",
   "results": [
+    {
+      "event": "Japan TCG Center本厚木駅前店 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-09",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": "NIKKE",
+      "organizer": "Japan TCG Center本厚木駅前店",
+      "area": null,
+      "sourceUrl": "https://x.com/JTC_Honatsugi/status/2108498954182906153",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/JTC_Honatsugi/status/2108498954182906153",
+      "deckUrl": "https://x.com/JTC_Honatsugi/status/2108498954182906153",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-09T23:06:31+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-09T23:06:31+00:00",
+      "id": "1ca8bcc1569366e4b19c36a0"
+    },
     {
       "event": "ブックオフ西友大森店【トレカ】 / 大会結果",
       "eventDate": null,
@@ -1541,38 +1567,6 @@
       "id": "026295d91288c0b93894943f"
     },
     {
-      "event": "プリニークラブ各務原本店 / 公認ショップ大会",
-      "eventDate": null,
-      "publishedAt": "2026-10-06",
-      "category": "sanctioned",
-      "categoryReason": "発表文に「公認」の明記あり",
-      "format": null,
-      "placement": "優勝",
-      "player": "すっぱい",
-      "title": "ラブライブ!蓮ノ空女学院スクールアイドルクラブ",
-      "deck": null,
-      "organizer": "プリニークラブ各務原本店",
-      "area": null,
-      "sourceUrl": "https://ws4696.xyz/2026/10/06/wsdecklhs-218/",
-      "sourceName": "しろくろ速報",
-      "originalUrl": "https://x.com/prinnyclub/status/2101572239267369099",
-      "deckUrl": "https://ws4696.xyz/2026/10/06/wsdecklhs-218/",
-      "evidence": "repost",
-      "notes": "紹介記事内の投稿から成績を確認。使用タイトルは記事の表記。元投稿の「本日」等から開催日を推定していません。",
-      "collectedAt": "2026-10-06T23:04:50+00:00",
-      "images": [
-        {
-          "url": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-lhs-2101572239267369099-0.jpg",
-          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-lhs-2101572239267369099-0-300x177.jpg",
-          "sourceUrl": "https://ws4696.xyz/2026/10/06/wsdecklhs-218/",
-          "alt": "デッキレシピラブライブ!蓮ノ空女学院スクールアイドルクラブ"
-        }
-      ],
-      "relatedSources": [],
-      "sourceId": "reposts",
-      "id": "d5ccb5f8426b21a3d8a97edb"
-    },
-    {
       "event": "BSB 17号前橋リリカ トレカ店 / 大会結果",
       "eventDate": null,
       "publishedAt": "2026-10-05",
@@ -1743,7 +1737,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-02T23:04:35+00:00",
+      "xCheckedAt": "2026-10-09T23:06:32+00:00",
       "id": "f402d0a928e0c2ab15776af5"
     },
     {
@@ -1769,7 +1763,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-02T23:04:38+00:00",
+      "xCheckedAt": "2026-10-09T23:06:35+00:00",
       "id": "d1f57ad36256343df6dc1cb8"
     },
     {
@@ -1795,7 +1789,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-02T23:04:36+00:00",
+      "xCheckedAt": "2026-10-09T23:06:34+00:00",
       "id": "42a7802641440f351b339123"
     },
     {
@@ -1821,7 +1815,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-02T23:04:37+00:00",
+      "xCheckedAt": "2026-10-09T23:06:34+00:00",
       "id": "0a91e255d7213b6cc7b2e5ff"
     },
     {
@@ -1847,7 +1841,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-02T23:04:35+00:00",
+      "xCheckedAt": "2026-10-09T23:06:33+00:00",
       "id": "05098cc9c430f979c595bcb9"
     },
     {
@@ -3535,7 +3529,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-02T23:04:39+00:00",
+      "xCheckedAt": "2026-10-09T23:06:37+00:00",
       "id": "a1ec59e318bd690380c4de75"
     },
     {
@@ -3587,7 +3581,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-02T23:04:40+00:00",
+      "xCheckedAt": "2026-10-09T23:06:37+00:00",
       "id": "f3b4e88e3b9a9d46d8600555"
     },
     {
@@ -4054,6 +4048,45 @@
       "game": "ws",
       "contextSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
       "id": "ebdb5f93ab96b5874c0ba0a8"
+    },
+    {
+      "event": "プリニークラブ各務原本店 / 公認大会",
+      "eventDate": null,
+      "publishedAt": "2026-09-20",
+      "category": "sanctioned",
+      "categoryReason": "発表文に「公認」の明記あり",
+      "format": null,
+      "placement": "優勝",
+      "player": "すっぱい",
+      "title": "ラブライブ!蓮ノ空女学院スクールアイドルクラブ",
+      "deck": "蓮ノ空8電",
+      "organizer": "プリニークラブ各務原本店",
+      "area": null,
+      "sourceUrl": "https://x.com/prinnyclub/status/2101572239267369099",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/prinnyclub/status/2101572239267369099",
+      "deckUrl": "https://ws4696.xyz/2026/10/06/wsdecklhs-218/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-06T23:04:50+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-lhs-2101572239267369099-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-lhs-2101572239267369099-0-300x177.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/10/06/wsdecklhs-218/",
+          "alt": "デッキレシピラブライブ!蓮ノ空女学院スクールアイドルクラブ"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/10/06/wsdecklhs-218/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-10-06"
+        }
+      ],
+      "sourceId": "x",
+      "id": "d5ccb5f8426b21a3d8a97edb",
+      "xCheckedAt": "2026-10-09T23:06:39+00:00"
     },
     {
       "event": "第29回 キズナ杯",
@@ -4903,7 +4936,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-02T23:04:43+00:00",
+      "xCheckedAt": "2026-10-09T23:06:40+00:00",
       "id": "0d2e0ef7f3ec915af39c7aa4"
     },
     {
@@ -5236,7 +5269,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-02T23:04:44+00:00",
+      "xCheckedAt": "2026-10-09T23:06:41+00:00",
       "id": "58258d6716fff2f8214b8101"
     },
     {
@@ -6909,7 +6942,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:28+00:00",
+      "xCheckedAt": "2026-10-09T23:06:45+00:00",
       "id": "4181ac7104ff475fcfbe3c93"
     },
     {
