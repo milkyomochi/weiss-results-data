@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-09T23:06:47+00:00",
+  "updatedAt": "2026-10-10T23:05:20+00:00",
   "results": [
     {
       "event": "Japan TCG Center本厚木駅前店 / 大会結果",
@@ -1713,6 +1713,45 @@
       "game": "ws",
       "contextSourceUrl": null,
       "id": "375f2027d7f50881fd9abd44"
+    },
+    {
+      "event": "マト@BM池袋WS/WSR担当 / 公認大会",
+      "eventDate": null,
+      "publishedAt": "2026-10-03",
+      "category": "sanctioned",
+      "categoryReason": "発表文に「公認」の明記あり",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "SPY×FAMILY",
+      "deck": null,
+      "organizer": "マト@BM池袋WS/WSR担当",
+      "area": null,
+      "sourceUrl": "https://x.com/bigmagicmato/status/2106305125069553982",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/bigmagicmato/status/2106305125069553982",
+      "deckUrl": "https://ws4696.xyz/2026/10/10/wsdeckspy-46/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-10T23:04:48+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-spy-2106305125069553982-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-spy-2106305125069553982-0-300x184.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/10/10/wsdeckspy-46/",
+          "alt": "デッキレシピSPY×FAMILY"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/10/10/wsdeckspy-46/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-10-10"
+        }
+      ],
+      "sourceId": "x",
+      "id": "51bb81ee44300656dea10b7e",
+      "xCheckedAt": "2026-10-10T23:05:05+00:00"
     },
     {
       "event": "カードジム石神井公園駅前店 / 大会結果",
@@ -7251,7 +7290,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-09-30T23:05:29+00:00",
+      "xCheckedAt": "2026-10-10T23:05:07+00:00",
       "id": "3a7dedb9db5cb8de2a80cd85"
     },
     {
@@ -7330,7 +7369,7 @@
       ],
       "sourceId": "x",
       "id": "0851ea43f87604d4e2d657ed",
-      "xCheckedAt": "2026-09-29T23:05:29+00:00"
+      "xCheckedAt": "2026-10-10T23:05:09+00:00"
     },
     {
       "event": "プリニークラブ各務原本店 / 非公認大会",
@@ -7355,7 +7394,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-01T23:04:43+00:00",
+      "xCheckedAt": "2026-10-10T23:05:11+00:00",
       "id": "fc5cca34287b9173570d480b"
     },
     {
@@ -7471,7 +7510,7 @@
       ],
       "sourceId": "x",
       "id": "d5f08697b3c565d62f5ead28",
-      "xCheckedAt": "2026-09-30T23:05:20+00:00"
+      "xCheckedAt": "2026-10-10T23:05:10+00:00"
     },
     {
       "event": "第111回福福杯",
@@ -7850,7 +7889,7 @@
       ],
       "sourceId": "x",
       "id": "1285e6a15cf89b2c621977de",
-      "xCheckedAt": "2026-10-01T23:04:41+00:00"
+      "xCheckedAt": "2026-10-10T23:05:10+00:00"
     },
     {
       "event": "カードバンク秋葉原店 / 公認ショップ大会",
@@ -7921,7 +7960,7 @@
       ],
       "sourceId": "x",
       "id": "c9892c81cd8fd5bf1607e63f",
-      "xCheckedAt": "2026-10-01T23:04:44+00:00"
+      "xCheckedAt": "2026-10-10T23:05:12+00:00"
     },
     {
       "event": "マト@BM池袋WS/WSR担当 / 公認大会",
@@ -7999,7 +8038,7 @@
       ],
       "sourceId": "x",
       "id": "5c587c89afa824ee3298064f",
-      "xCheckedAt": "2026-10-01T23:04:44+00:00"
+      "xCheckedAt": "2026-10-10T23:05:13+00:00"
     },
     {
       "event": "マト@BM池袋WS/WSR担当 / 非公認大会",
@@ -8038,7 +8077,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-01T23:04:46+00:00"
+      "xCheckedAt": "2026-10-10T23:05:16+00:00"
     },
     {
       "event": "ドラゴンスター町田店 / 大会結果",
@@ -8077,7 +8116,7 @@
       ],
       "sourceId": "x",
       "id": "51013f08f7c9f15a1aafbd17",
-      "xCheckedAt": "2026-10-01T23:04:45+00:00"
+      "xCheckedAt": "2026-10-10T23:05:14+00:00"
     },
     {
       "event": "✨ネクストプロ大須2号店✨ / 大会結果",
@@ -8116,7 +8155,7 @@
       ],
       "sourceId": "x",
       "id": "18a289a47293efb627ff0011",
-      "xCheckedAt": "2026-10-02T23:04:46+00:00"
+      "xCheckedAt": "2026-10-10T23:05:15+00:00"
     },
     {
       "event": "TCGショップコロッサス@てんちょう🐾 / 大会結果",
@@ -8155,7 +8194,7 @@
       ],
       "sourceId": "x",
       "id": "0070f30c0ecdb4c231098f64",
-      "xCheckedAt": "2026-10-02T23:04:46+00:00"
+      "xCheckedAt": "2026-10-10T23:05:15+00:00"
     },
     {
       "event": "TCGショップ ”ディスク” / 大会結果",
@@ -8194,7 +8233,7 @@
       ],
       "sourceId": "x",
       "id": "efcf4a8f2bfaca660b6557f8",
-      "xCheckedAt": "2026-10-01T23:04:47+00:00"
+      "xCheckedAt": "2026-10-10T23:05:17+00:00"
     },
     {
       "event": "トレカタウン三刀屋店 / 大会結果",
@@ -8272,7 +8311,7 @@
       ],
       "sourceId": "x",
       "id": "05b26d14459763798f34b058",
-      "xCheckedAt": "2026-10-01T23:04:49+00:00"
+      "xCheckedAt": "2026-10-10T23:05:19+00:00"
     },
     {
       "event": "第28回 キズナ杯",
@@ -8721,7 +8760,7 @@
         }
       ],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-01T23:04:49+00:00",
+      "xCheckedAt": "2026-10-10T23:05:20+00:00",
       "id": "03eb10e4ef1d4d1a0cc9c128"
     },
     {
