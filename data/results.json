@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-11T23:06:37+00:00",
+  "updatedAt": "2026-10-12T23:08:14+00:00",
   "results": [
     {
       "event": "第117回福福杯",
@@ -1685,7 +1685,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-05T23:05:46+00:00",
+      "xCheckedAt": "2026-10-12T23:08:04+00:00",
       "id": "9ca04a1eccfd407d6d496b38"
     },
     {
@@ -1753,6 +1753,45 @@
       "id": "a9dc5b961e7a33c3079099f7"
     },
     {
+      "event": "グランドパンダキャニオン秋葉原店 / 公認大会",
+      "eventDate": null,
+      "publishedAt": "2026-10-04",
+      "category": "sanctioned",
+      "categoryReason": "発表文に「公認」の明記あり",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "ホロライブ",
+      "deck": null,
+      "organizer": "グランドパンダキャニオン秋葉原店",
+      "area": null,
+      "sourceUrl": "https://x.com/Akibagrapan/status/2106622580132327481",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/Akibagrapan/status/2106622580132327481",
+      "deckUrl": "https://ws4696.xyz/2026/10/12/wsdeckhol-764/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-12T23:07:18+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-hol-2106622580132327481-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-hol-2106622580132327481-0-300x177.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/10/12/wsdeckhol-764/",
+          "alt": "デッキレシピホロライブ"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/10/12/wsdeckhol-764/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-10-12"
+        }
+      ],
+      "sourceId": "x",
+      "id": "805d0eb4d7ec0c3d12c21a47",
+      "xCheckedAt": "2026-10-12T23:08:00+00:00"
+    },
+    {
       "event": "CREATIVE STYLE / 大会結果",
       "eventDate": null,
       "publishedAt": "2026-10-04",
@@ -1775,7 +1814,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-05T23:05:48+00:00",
+      "xCheckedAt": "2026-10-12T23:08:06+00:00",
       "id": "59e28a845c92d6f6291b623b"
     },
     {
@@ -1887,6 +1926,45 @@
       "sourceId": "x",
       "id": "51bb81ee44300656dea10b7e",
       "xCheckedAt": "2026-10-10T23:05:05+00:00"
+    },
+    {
+      "event": "✨ネクストプロ大須2号店✨ / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-03",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "Summer Pockets",
+      "deck": "サマポケ",
+      "organizer": "✨ネクストプロ大須2号店✨",
+      "area": null,
+      "sourceUrl": "https://x.com/NextPro0002/status/2106293913325846874",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/NextPro0002/status/2106293913325846874",
+      "deckUrl": "https://ws4696.xyz/2026/10/12/wsdecksmp-264/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-12T23:07:18+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-smp-2106293913325846874-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-smp-2106293913325846874-0-300x182.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/10/12/wsdecksmp-264/",
+          "alt": "デッキレシピサマポケ"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/10/12/wsdecksmp-264/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-10-12"
+        }
+      ],
+      "sourceId": "x",
+      "id": "049b2c194f2e953d0dc64ee7",
+      "xCheckedAt": "2026-10-12T23:08:01+00:00"
     },
     {
       "event": "カードジム石神井公園駅前店 / 大会結果",
@@ -2987,7 +3065,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-05T23:05:50+00:00",
+      "xCheckedAt": "2026-10-12T23:08:07+00:00",
       "id": "5877dfe8597a3cf82f214b6f"
     },
     {
@@ -3325,7 +3403,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-05T23:05:49+00:00",
+      "xCheckedAt": "2026-10-12T23:08:07+00:00",
       "id": "19ae0078d74eeee090f6e0d8"
     },
     {
@@ -3495,7 +3573,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-05T23:05:55+00:00",
+      "xCheckedAt": "2026-10-12T23:08:12+00:00",
       "id": "e3ca35fd5e5502f102b30651"
     },
     {
@@ -3521,7 +3599,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-05T23:05:53+00:00",
+      "xCheckedAt": "2026-10-12T23:08:10+00:00",
       "id": "93a6fdde52919a522ed8282a"
     },
     {
@@ -3547,7 +3625,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-05T23:05:54+00:00",
+      "xCheckedAt": "2026-10-12T23:08:12+00:00",
       "id": "7159c6e18d3a44526a0d34b4"
     },
     {
@@ -3599,7 +3677,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-05T23:05:56+00:00",
+      "xCheckedAt": "2026-10-12T23:08:14+00:00",
       "id": "3c64f4ed2511246aeeb4b11e"
     },
     {
@@ -3625,7 +3703,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-05T23:05:56+00:00",
+      "xCheckedAt": "2026-10-12T23:08:13+00:00",
       "id": "331ec2b583aaed114cfc186c"
     },
     {
