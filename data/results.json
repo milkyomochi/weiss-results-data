@@ -1,7 +1,85 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-12T23:08:14+00:00",
+  "updatedAt": "2026-10-13T23:15:04+00:00",
   "results": [
+    {
+      "event": "文教堂 あきる野店【トレカ】 / 公認大会",
+      "eventDate": null,
+      "publishedAt": "2026-10-13",
+      "category": "sanctioned",
+      "categoryReason": "発表文に「公認」の明記あり",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": "るしあ",
+      "organizer": "文教堂 あきる野店【トレカ】",
+      "area": null,
+      "sourceUrl": "https://x.com/bunakiruno_TCG/status/2109959359585468666",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/bunakiruno_TCG/status/2109959359585468666",
+      "deckUrl": "https://x.com/bunakiruno_TCG/status/2109959359585468666",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-13T23:14:50+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-13T23:14:50+00:00",
+      "id": "7c6b345ef08b65398a73cc2a"
+    },
+    {
+      "event": "ブックオフ大野城御笠川トレカ部 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-13",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": "ウーロン",
+      "title": null,
+      "deck": null,
+      "organizer": "ブックオフ大野城御笠川トレカ部",
+      "area": null,
+      "sourceUrl": "https://x.com/bookoff_oonojou/status/2109953054200172795",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/bookoff_oonojou/status/2109953054200172795",
+      "deckUrl": "https://x.com/bookoff_oonojou/status/2109953054200172795",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-13T23:14:51+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-13T23:14:51+00:00",
+      "id": "38e6f2d8ab1d4b6654f87646"
+    },
+    {
+      "event": "ブックオフ鹿児島ジョイプラザ店トレカ館 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-12",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": "anemoi門扉",
+      "organizer": "ブックオフ鹿児島ジョイプラザ店トレカ館",
+      "area": null,
+      "sourceUrl": "https://x.com/BOOKOFF_JP2008/status/2109606915764580765",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/BOOKOFF_JP2008/status/2109606915764580765",
+      "deckUrl": "https://x.com/BOOKOFF_JP2008/status/2109606915764580765",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-13T23:14:52+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-13T23:14:52+00:00",
+      "id": "d85919497c0873892cba2f21"
+    },
     {
       "event": "第117回福福杯",
       "eventDate": null,
@@ -3863,6 +3941,45 @@
       "id": "d36c69f6136a41d3177d993d"
     },
     {
+      "event": "TableGameCafe’ Shuffle @大阪/ボードゲームカフェ/トレカ / 公認大会",
+      "eventDate": null,
+      "publishedAt": "2026-09-23",
+      "category": "sanctioned",
+      "categoryReason": "発表文に「公認」の明記あり",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "Summer Pockets",
+      "deck": null,
+      "organizer": "TableGameCafe’ Shuffle @大阪/ボードゲームカフェ/トレカ",
+      "area": null,
+      "sourceUrl": "https://x.com/TGCShuffle/status/2102731456464462117",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/TGCShuffle/status/2102731456464462117",
+      "deckUrl": "https://ws4696.xyz/2026/10/13/wsdecksmp-262/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-13T23:14:26+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-smp-2102731456464462117-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-smp-2102731456464462117-0-300x225.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/10/13/wsdecksmp-262/",
+          "alt": "デッキレシピサマポケ"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/10/13/wsdecksmp-262/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-10-13"
+        }
+      ],
+      "sourceId": "x",
+      "id": "89131da444c390700b2604ad",
+      "xCheckedAt": "2026-10-13T23:14:52+00:00"
+    },
+    {
       "event": "G-PROJECT黒崎本店@駅から徒歩5分 / 大会結果",
       "eventDate": null,
       "publishedAt": "2026-09-23",
@@ -3957,7 +4074,7 @@
       ],
       "sourceId": "x",
       "id": "1095c96e7a7820968c2ec221",
-      "xCheckedAt": "2026-10-05T23:05:49+00:00"
+      "xCheckedAt": "2026-10-13T23:14:54+00:00"
     },
     {
       "event": "ネオ / 大会結果",
@@ -4156,7 +4273,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-05T23:05:58+00:00",
+      "xCheckedAt": "2026-10-13T23:14:55+00:00",
       "id": "ffb8fa7208ce442e5e8b9e4c"
     },
     {
@@ -4182,7 +4299,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-06T23:05:12+00:00",
+      "xCheckedAt": "2026-10-13T23:14:56+00:00",
       "id": "96b5e8dda33f25b0c3a6de76"
     },
     {
@@ -4208,7 +4325,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-06T23:05:12+00:00",
+      "xCheckedAt": "2026-10-13T23:14:57+00:00",
       "id": "59890ae200f83229f5221dc3"
     },
     {
@@ -4234,7 +4351,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-05T23:05:57+00:00",
+      "xCheckedAt": "2026-10-13T23:14:55+00:00",
       "id": "56ae1eb7c523a04193b27a02"
     },
     {
@@ -4821,6 +4938,45 @@
       "id": "23dbd5f2617fdad7138b12b6"
     },
     {
+      "event": "창원 바이스슈발츠 / 大会結果",
+      "eventDate": "2026-09-20",
+      "publishedAt": "2026-09-20",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "デアラ",
+      "deck": null,
+      "organizer": "창원 바이스슈발츠",
+      "area": null,
+      "sourceUrl": "https://x.com/ws_changwon/status/2101562714623815738",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/ws_changwon/status/2101562714623815738",
+      "deckUrl": "https://ws4696.xyz/2026/10/13/wsdeckdal-378/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。",
+      "collectedAt": "2026-10-13T23:14:26+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-dal-2101562714623815738-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/09/deck-dal-2101562714623815738-0-300x225.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/10/13/wsdeckdal-378/",
+          "alt": "デッキレシピデアラ"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/10/13/wsdeckdal-378/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-10-13"
+        }
+      ],
+      "sourceId": "x",
+      "id": "228139816afa19caf75ca746",
+      "xCheckedAt": "2026-10-13T23:14:53+00:00"
+    },
+    {
       "event": "第29回 キズナ杯",
       "eventDate": "2026-09-20",
       "publishedAt": "2026-09-20",
@@ -5162,7 +5318,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-06T23:05:15+00:00",
+      "xCheckedAt": "2026-10-13T23:15:00+00:00",
       "id": "71c15f929f630999b1d75956"
     },
     {
@@ -5411,7 +5567,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-06T23:05:19+00:00",
+      "xCheckedAt": "2026-10-13T23:15:03+00:00",
       "id": "cb03cfc13e12e1c1eb47fe98"
     },
     {
