@@ -1,7 +1,59 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-14T23:16:51+00:00",
+  "updatedAt": "2026-10-16T00:55:55+00:00",
   "results": [
+    {
+      "event": "プレイズ安城店★安城総合運動公園前★ / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-15",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": "せ",
+      "title": null,
+      "deck": null,
+      "organizer": "プレイズ安城店★安城総合運動公園前★",
+      "area": null,
+      "sourceUrl": "https://x.com/preyz_anjo/status/2110707302856884319",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/preyz_anjo/status/2110707302856884319",
+      "deckUrl": "https://x.com/preyz_anjo/status/2110707302856884319",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-16T00:55:40+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-16T00:55:40+00:00",
+      "id": "82dc074cdbf8169bedbb37a2"
+    },
+    {
+      "event": "町のトレカ屋さん|トレーディングカードショップ / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-14",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": null,
+      "organizer": "町のトレカ屋さん|トレーディングカードショップ",
+      "area": null,
+      "sourceUrl": "https://x.com/matitore0901/status/2110346030604865827",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/matitore0901/status/2110346030604865827",
+      "deckUrl": "https://x.com/matitore0901/status/2110346030604865827",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-16T00:55:43+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-10-16T00:55:43+00:00",
+      "id": "ce25c932a153b813f29d2b97"
+    },
     {
       "event": "ストレージワン広島店 / 公認大会",
       "eventDate": null,
@@ -251,7 +303,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-08T23:07:22+00:00",
+      "xCheckedAt": "2026-10-16T00:55:47+00:00",
       "id": "6bfc60c1e77ad9513f85fc81"
     },
     {
@@ -1825,6 +1877,45 @@
       "id": "d169d9f8aff76b61f9d34723"
     },
     {
+      "event": "Card Cellar紙牌屋 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-04",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "【推しの子】",
+      "deck": null,
+      "organizer": "Card Cellar紙牌屋",
+      "area": null,
+      "sourceUrl": "https://x.com/CCellar44719/status/2106752762667245761",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/CCellar44719/status/2106752762667245761",
+      "deckUrl": "https://ws4696.xyz/2026/10/16/wsdeckosk-189/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-16T00:54:58+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-osk-2106752762667245761-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-osk-2106752762667245761-0-300x163.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/10/16/wsdeckosk-189/",
+          "alt": "デッキレシピ推しの子"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/10/16/wsdeckosk-189/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-10-16"
+        }
+      ],
+      "sourceId": "x",
+      "id": "b3fc0fb686f30db83775c139",
+      "xCheckedAt": "2026-10-16T00:55:44+00:00"
+    },
+    {
       "event": "第116回福福杯",
       "eventDate": null,
       "publishedAt": "2026-10-04",
@@ -1855,6 +1946,45 @@
       "game": "ws",
       "contextSourceUrl": null,
       "id": "a9dc5b961e7a33c3079099f7"
+    },
+    {
+      "event": "Card Cellar紙牌屋 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-04",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "勝利の女神:NIKKE",
+      "deck": null,
+      "organizer": "Card Cellar紙牌屋",
+      "area": null,
+      "sourceUrl": "https://x.com/CCellar44719/status/2106746278940139698",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/CCellar44719/status/2106746278940139698",
+      "deckUrl": "https://ws4696.xyz/2026/10/15/wsdecknik-161/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-16T00:54:58+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-nik-2106746278940139698-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-nik-2106746278940139698-0-300x177.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/10/15/wsdecknik-161/",
+          "alt": "デッキレシピ勝利の女神:NIKKE"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/10/15/wsdecknik-161/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-10-15"
+        }
+      ],
+      "sourceId": "x",
+      "id": "a9294ce47f6cd8d72ac90b2c",
+      "xCheckedAt": "2026-10-16T00:55:45+00:00"
     },
     {
       "event": "グランドパンダキャニオン秋葉原店 / 公認大会",
@@ -2301,7 +2431,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-08T23:07:23+00:00",
+      "xCheckedAt": "2026-10-16T00:55:48+00:00",
       "id": "62a3e0d1092ec58b30b65453"
     },
     {
@@ -2327,7 +2457,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-08T23:07:26+00:00",
+      "xCheckedAt": "2026-10-16T00:55:51+00:00",
       "id": "b6ff49b2dc0d4f252ca2b54f"
     },
     {
@@ -2353,7 +2483,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-08T23:07:25+00:00",
+      "xCheckedAt": "2026-10-16T00:55:50+00:00",
       "id": "26bd24be573c22224b159f7f"
     },
     {
@@ -2379,7 +2509,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-08T23:07:25+00:00",
+      "xCheckedAt": "2026-10-16T00:55:49+00:00",
       "id": "1ffd2bd0f7548283c2b99a13"
     },
     {
@@ -2408,7 +2538,7 @@
       "role": null,
       "team": null,
       "sourceId": "x",
-      "xCheckedAt": "2026-10-08T23:07:28+00:00",
+      "xCheckedAt": "2026-10-16T00:55:53+00:00",
       "entryKey": "3位||ブラウンダスト|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -2466,7 +2596,7 @@
       "role": null,
       "team": null,
       "sourceId": "x",
-      "xCheckedAt": "2026-10-08T23:07:28+00:00",
+      "xCheckedAt": "2026-10-16T00:55:53+00:00",
       "entryKey": "優勝||東方|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -2498,7 +2628,7 @@
       "role": null,
       "team": null,
       "sourceId": "x",
-      "xCheckedAt": "2026-10-08T23:07:28+00:00",
+      "xCheckedAt": "2026-10-16T00:55:53+00:00",
       "entryKey": "準優勝||アサリ|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -4041,7 +4171,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-08T23:07:29+00:00",
+      "xCheckedAt": "2026-10-16T00:55:53+00:00",
       "id": "d36c69f6136a41d3177d993d"
     },
     {
@@ -4138,7 +4268,7 @@
       "images": [],
       "relatedSources": [],
       "sourceId": "x",
-      "xCheckedAt": "2026-10-08T23:07:29+00:00",
+      "xCheckedAt": "2026-10-16T00:55:54+00:00",
       "id": "383dce4097a061565e9258e6"
     },
     {
@@ -5155,6 +5285,45 @@
       "game": "ws",
       "contextSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
       "id": "0f94303954ea1d91bed91844"
+    },
+    {
+      "event": "Card Cellar紙牌屋 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-09-20",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "東方",
+      "deck": null,
+      "organizer": "Card Cellar紙牌屋",
+      "area": null,
+      "sourceUrl": "https://x.com/CCellar44719/status/2101747824514003437",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/CCellar44719/status/2101747824514003437",
+      "deckUrl": "https://ws4696.xyz/2026/10/15/wsdeckthp-51/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-10-16T00:54:58+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-thp-2101747824514003437-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/10/deck-thp-2101747824514003437-0-300x198.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/10/15/wsdeckthp-51/",
+          "alt": "デッキレシピ東方"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/10/15/wsdeckthp-51/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-10-15"
+        }
+      ],
+      "sourceId": "x",
+      "id": "090a8ad357728fbeaeb44d64",
+      "xCheckedAt": "2026-10-16T00:55:46+00:00"
     },
     {
       "event": "第21回天井杯",
@@ -10862,7 +11031,7 @@
       "role": null,
       "team": "Ex-Otogibanashi",
       "sourceId": "x",
-      "xCheckedAt": "2026-10-08T23:07:17+00:00",
+      "xCheckedAt": "2026-10-16T00:55:38+00:00",
       "entryKey": "優勝||モリげ|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -10894,7 +11063,7 @@
       "role": null,
       "team": "Ex-Otogibanashi",
       "sourceId": "x",
-      "xCheckedAt": "2026-10-08T23:07:17+00:00",
+      "xCheckedAt": "2026-10-16T00:55:38+00:00",
       "entryKey": "優勝||とて|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -10926,7 +11095,7 @@
       "role": null,
       "team": "Ex-Otogibanashi",
       "sourceId": "x",
-      "xCheckedAt": "2026-10-08T23:07:17+00:00",
+      "xCheckedAt": "2026-10-16T00:55:38+00:00",
       "entryKey": "優勝||ふぁて|",
       "game": "ws",
       "contextSourceUrl": null,
