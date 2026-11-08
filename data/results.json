@@ -1,7 +1,71 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-07T02:29:07+00:00",
+  "updatedAt": "2026-11-08T01:58:41+00:00",
   "results": [
+    {
+      "event": "TCGショップ ”ディスク” / ショップ大会",
+      "eventDate": null,
+      "publishedAt": "2026-11-08",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "GA文庫",
+      "deck": null,
+      "organizer": "TCGショップ ”ディスク”",
+      "area": null,
+      "sourceUrl": "https://ws4696.xyz/2026/11/08/wsdeckga01-64/",
+      "sourceName": "しろくろ速報",
+      "originalUrl": "https://x.com/6thedieiscast9/status/2116831462922272933",
+      "deckUrl": "https://ws4696.xyz/2026/11/08/wsdeckga01-64/",
+      "evidence": "repost",
+      "notes": "紹介記事内の投稿から成績を確認。使用タイトルは記事の表記。元投稿の「本日」等から開催日を推定していません。",
+      "collectedAt": "2026-11-08T01:57:49+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-ga01-2116831462922272933-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-ga01-2116831462922272933-0-300x170.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/08/wsdeckga01-64/",
+          "alt": "デッキレシピGA文庫"
+        }
+      ],
+      "relatedSources": [],
+      "sourceId": "reposts",
+      "id": "b2ff07669f14aa546b0a4ee6"
+    },
+    {
+      "event": "ストレージワン広島店 / 公認ショップ大会",
+      "eventDate": null,
+      "publishedAt": "2026-11-08",
+      "category": "sanctioned",
+      "categoryReason": "発表文に「公認」の明記あり",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "ラブライブ!蓮ノ空女学院スクールアイドルクラブ",
+      "deck": null,
+      "organizer": "ストレージワン広島店",
+      "area": null,
+      "sourceUrl": "https://ws4696.xyz/2026/11/08/wsdecklhs-221/",
+      "sourceName": "しろくろ速報",
+      "originalUrl": "https://x.com/storage0810/status/2117608914858778686",
+      "deckUrl": "https://ws4696.xyz/2026/11/08/wsdecklhs-221/",
+      "evidence": "repost",
+      "notes": "紹介記事内の投稿から成績を確認。使用タイトルは記事の表記。元投稿の「本日」等から開催日を推定していません。",
+      "collectedAt": "2026-11-08T01:57:49+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-lhs-2117608914858778686-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-lhs-2117608914858778686-0-300x169.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/08/wsdecklhs-221/",
+          "alt": "デッキレシピラブライブ!蓮ノ空女学院スクールアイドルクラブ"
+        }
+      ],
+      "relatedSources": [],
+      "sourceId": "reposts",
+      "id": "71868ed620c45fc5e1e22a0b"
+    },
     {
       "event": "CarDragon / 公認ショップ大会",
       "eventDate": null,
@@ -35,36 +99,36 @@
       "id": "f9c3f19ad64d841370986856"
     },
     {
-      "event": "ラックス奈良柏木店(ならかしわぎてん)@奈良市 カードショップ / ショップ大会",
+      "event": "タッチ松本店@トレカイベントショップ / 大会結果",
       "eventDate": null,
       "publishedAt": "2026-11-07",
       "category": "unknown",
       "categoryReason": "公認・非公認の明記を確認できず",
       "format": null,
       "placement": "優勝",
-      "player": "リリsanセルガ",
-      "title": "ホロライブ",
+      "player": null,
+      "title": "アネモイ",
       "deck": null,
-      "organizer": "ラックス奈良柏木店(ならかしわぎてん)@奈良市 カードショップ",
+      "organizer": "タッチ松本店@トレカイベントショップ",
       "area": null,
-      "sourceUrl": "https://ws4696.xyz/2026/11/07/wsdeckhol-765/",
+      "sourceUrl": "https://ws4696.xyz/2026/11/07/wsdeckanm-16/",
       "sourceName": "しろくろ速報",
-      "originalUrl": "https://x.com/laccus_k2/status/2111416905156440496",
-      "deckUrl": "https://ws4696.xyz/2026/11/07/wsdeckhol-765/",
+      "originalUrl": "https://x.com/touchxxKDT/status/2117944781460656526",
+      "deckUrl": "https://ws4696.xyz/2026/11/07/wsdeckanm-16/",
       "evidence": "repost",
       "notes": "紹介記事内の投稿から成績を確認。使用タイトルは記事の表記。元投稿の「本日」等から開催日を推定していません。",
-      "collectedAt": "2026-11-07T02:28:07+00:00",
+      "collectedAt": "2026-11-08T01:57:52+00:00",
       "images": [
         {
-          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-hol-2111416905156440496-0.jpg",
-          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-hol-2111416905156440496-0-300x225.jpg",
-          "sourceUrl": "https://ws4696.xyz/2026/11/07/wsdeckhol-765/",
-          "alt": "デッキレシピホロライブ"
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-anm-2117944781460656526-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-anm-2117944781460656526-0-300x155.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/07/wsdeckanm-16/",
+          "alt": "デッキレシピアネモイ"
         }
       ],
       "relatedSources": [],
       "sourceId": "reposts",
-      "id": "e154425f5f780706d84e56e1"
+      "id": "c1d0d6bacb2685a72b32c6c6"
     },
     {
       "event": "TCGショップコロッサス@てんちょう / ショップ大会",
@@ -99,7 +163,7 @@
       "id": "9fecac503b5b1d2aa513b9b0"
     },
     {
-      "event": "ドラゴンスター町田店 / ショップ大会",
+      "event": "ホビーステーション名駅店 / ショップ大会",
       "eventDate": null,
       "publishedAt": "2026-11-07",
       "category": "unknown",
@@ -107,28 +171,118 @@
       "format": null,
       "placement": "優勝",
       "player": null,
-      "title": "シャニマス",
+      "title": "勝利の女神:NIKKE",
       "deck": null,
-      "organizer": "ドラゴンスター町田店",
+      "organizer": "ホビーステーション名駅店",
       "area": null,
-      "sourceUrl": "https://ws4696.xyz/2026/11/07/wsdeckisc-287/",
+      "sourceUrl": "https://ws4696.xyz/2026/11/07/wsdecknik-183/",
       "sourceName": "しろくろ速報",
-      "originalUrl": "https://x.com/ds_machida_/status/2111416455241539861",
-      "deckUrl": "https://ws4696.xyz/2026/11/07/wsdeckisc-287/",
+      "originalUrl": "https://x.com/hbst_meieki/status/2110314312153915564",
+      "deckUrl": "https://ws4696.xyz/2026/11/07/wsdecknik-183/",
       "evidence": "repost",
       "notes": "紹介記事内の投稿から成績を確認。使用タイトルは記事の表記。元投稿の「本日」等から開催日を推定していません。",
-      "collectedAt": "2026-11-07T02:28:07+00:00",
+      "collectedAt": "2026-11-08T01:57:52+00:00",
       "images": [
         {
-          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-isc-2111416455241539861-0.jpg",
-          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-isc-2111416455241539861-0-300x205.jpg",
-          "sourceUrl": "https://ws4696.xyz/2026/11/07/wsdeckisc-287/",
-          "alt": "デッキレシピシャニマス"
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-nik-2110314312153915564-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-nik-2110314312153915564-0-300x179.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/07/wsdecknik-183/",
+          "alt": "デッキレシピ勝利の女神:NIKKE"
         }
       ],
       "relatedSources": [],
       "sourceId": "reposts",
-      "id": "16e8ed9f8709e7f3d0a66d60"
+      "id": "7d0ceda365d87741b4cdac16"
+    },
+    {
+      "event": "TCバトロコ富山駅前 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-11-07",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": "そう!そーのフリーレン",
+      "organizer": "TCバトロコ富山駅前",
+      "area": null,
+      "sourceUrl": "https://x.com/batoloco_tym/status/2118976765360320834",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/batoloco_tym/status/2118976765360320834",
+      "deckUrl": "https://x.com/batoloco_tym/status/2118976765360320834",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-11-08T01:58:29+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-11-08T01:58:29+00:00",
+      "id": "655db3a5dfac70ea5fa0c57a"
+    },
+    {
+      "event": "TableGameCafe’ Shuffle @大阪/ボードゲームカフェ/トレカ / 公認ショップ大会",
+      "eventDate": null,
+      "publishedAt": "2026-11-07",
+      "category": "sanctioned",
+      "categoryReason": "発表文に「公認」の明記あり",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "勝利の女神:NIKKE",
+      "deck": null,
+      "organizer": "TableGameCafe’ Shuffle @大阪/ボードゲームカフェ/トレカ",
+      "area": null,
+      "sourceUrl": "https://ws4696.xyz/2026/11/07/wsdecknik-182/",
+      "sourceName": "しろくろ速報",
+      "originalUrl": "https://x.com/TGCShuffle/status/2110334314647044199",
+      "deckUrl": "https://ws4696.xyz/2026/11/07/wsdecknik-182/",
+      "evidence": "repost",
+      "notes": "紹介記事内の投稿から成績を確認。使用タイトルは記事の表記。元投稿の「本日」等から開催日を推定していません。",
+      "collectedAt": "2026-11-08T01:57:52+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-nik-2110334314647044199-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-nik-2110334314647044199-0-300x225.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/07/wsdecknik-182/",
+          "alt": "デッキレシピ勝利の女神:NIKKE"
+        }
+      ],
+      "relatedSources": [],
+      "sourceId": "reposts",
+      "id": "4c72fdf5154311ba743059fe"
+    },
+    {
+      "event": "창원 바이스슈발츠 / 大会結果",
+      "eventDate": "2026-10-17",
+      "publishedAt": "2026-11-07",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "アネモイ",
+      "deck": null,
+      "organizer": "창원 바이스슈발츠",
+      "area": null,
+      "sourceUrl": "https://ws4696.xyz/2026/11/07/wsdeckanm-15/",
+      "sourceName": "しろくろ速報",
+      "originalUrl": "https://x.com/ws_changwon/status/2111359867466457397",
+      "deckUrl": "https://ws4696.xyz/2026/11/07/wsdeckanm-15/",
+      "evidence": "repost",
+      "notes": "紹介記事内の投稿から成績を確認。使用タイトルは記事の表記。",
+      "collectedAt": "2026-11-08T01:57:52+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-anm-2111359867466457397-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-anm-2111359867466457397-0-300x178.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/07/wsdeckanm-15/",
+          "alt": "デッキレシピアネモイ"
+        }
+      ],
+      "relatedSources": [],
+      "sourceId": "reposts",
+      "id": "103af42786116482e6262a9d"
     },
     {
       "event": "北国書林辰口店@Cardbox / ショップ大会",
@@ -193,6 +347,32 @@
       "relatedSources": [],
       "sourceId": "reposts",
       "id": "f26afa83b4a5c1d30a40ffde"
+    },
+    {
+      "event": "JapanTCGCenter錦糸町マルイ店 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-11-06",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": "シングウSP Ver.Cyg",
+      "organizer": "JapanTCGCenter錦糸町マルイ店",
+      "area": null,
+      "sourceUrl": "https://x.com/JTC_Kinshicho/status/2118606129660084672",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/JTC_Kinshicho/status/2118606129660084672",
+      "deckUrl": "https://x.com/JTC_Kinshicho/status/2118606129660084672",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-11-08T01:58:33+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-11-08T01:58:33+00:00",
+      "id": "ea6110e733aec3751fa26ccc"
     },
     {
       "event": "カードショップ ヴェルデ / 大会結果",
@@ -501,6 +681,32 @@
       "sourceId": "x",
       "xCheckedAt": "2026-11-07T02:28:52+00:00",
       "id": "15bfdc3997ce17f1d4e3828e"
+    },
+    {
+      "event": "TCGショップ ”ディスク” / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-11-06",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": null,
+      "deck": null,
+      "organizer": "TCGショップ ”ディスク”",
+      "area": null,
+      "sourceUrl": "https://x.com/6thedieiscast9/status/2118653439924371723",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/6thedieiscast9/status/2118653439924371723",
+      "deckUrl": "https://x.com/6thedieiscast9/status/2118653439924371723",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-11-08T01:58:32+00:00",
+      "images": [],
+      "relatedSources": [],
+      "sourceId": "x",
+      "xCheckedAt": "2026-11-08T01:58:32+00:00",
+      "id": "091f43ce5ae470754bebaf65"
     },
     {
       "event": "ネオスタンダード in WGP26-27 Season1 仙台会場 Cブロック",
@@ -1623,6 +1829,45 @@
       "id": "3ec74e7251e3f6a91fd31284"
     },
     {
+      "event": "カードラボ池袋店@新規アルバイトスタッフ募集中 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-11-05",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "アネモイ",
+      "deck": "枝門anemoi",
+      "organizer": "カードラボ池袋店@新規アルバイトスタッフ募集中",
+      "area": null,
+      "sourceUrl": "https://x.com/ikebukuro_labo/status/2118299746326679895",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/ikebukuro_labo/status/2118299746326679895",
+      "deckUrl": "https://ws4696.xyz/2026/11/08/wsdeckanm-17/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-11-08T01:57:52+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-anm-2118299746326679895-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-anm-2118299746326679895-0-300x142.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/08/wsdeckanm-17/",
+          "alt": "デッキレシピアネモイ"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/11/08/wsdeckanm-17/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-11-08"
+        }
+      ],
+      "sourceId": "x",
+      "id": "39196aa237a4a0e6b68fcf6e",
+      "xCheckedAt": "2026-11-08T01:58:34+00:00"
+    },
+    {
       "event": "タイトルカップ in WGP26-27 Season1 仙台会場",
       "eventDate": null,
       "publishedAt": "2026-11-05",
@@ -1885,6 +2130,240 @@
       "images": [],
       "relatedSources": [],
       "id": "09207735ad801aac6a79f069"
+    },
+    {
+      "event": "遊vic中野店 WS,WSB,ラブカ情報 / 公認大会",
+      "eventDate": null,
+      "publishedAt": "2026-11-04",
+      "category": "sanctioned",
+      "categoryReason": "発表文に「公認」の明記あり",
+      "format": null,
+      "placement": "優勝",
+      "player": "すりーぴー",
+      "title": "デレマス",
+      "deck": null,
+      "organizer": "遊vic中野店 WS,WSB,ラブカ情報",
+      "area": null,
+      "sourceUrl": "https://x.com/bigmariows/status/2117961388182393000",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/bigmariows/status/2117961388182393000",
+      "deckUrl": "https://ws4696.xyz/2026/11/08/wsdeckimc-111/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-11-08T01:57:52+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-imc-2117961388182393000-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-imc-2117961388182393000-0-300x162.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/08/wsdeckimc-111/",
+          "alt": "デッキレシピデレマス"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/11/08/wsdeckimc-111/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-11-08"
+        }
+      ],
+      "sourceId": "x",
+      "id": "926d28deea87bb133bab59c4",
+      "xCheckedAt": "2026-11-08T01:58:34+00:00"
+    },
+    {
+      "event": "イーフォーラム河内長野店【ゲームトレカ】 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-11-03",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "Summer Pockets",
+      "deck": null,
+      "organizer": "イーフォーラム河内長野店【ゲームトレカ】",
+      "area": null,
+      "sourceUrl": "https://x.com/eforum_staff/status/2117582301815243102",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/eforum_staff/status/2117582301815243102",
+      "deckUrl": "https://ws4696.xyz/2026/11/08/wsdecksmp-269/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-11-08T01:57:49+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-smp-2117582301815243102-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-smp-2117582301815243102-0-300x156.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/08/wsdecksmp-269/",
+          "alt": "デッキレシピサマポケ"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/11/08/wsdecksmp-269/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-11-08"
+        }
+      ],
+      "sourceId": "x",
+      "id": "b083ad56849a6e693dda7d20",
+      "xCheckedAt": "2026-11-08T01:58:36+00:00"
+    },
+    {
+      "event": "プリニークラブ各務原本店 / 非公認大会",
+      "eventDate": null,
+      "publishedAt": "2026-11-03",
+      "category": "independent",
+      "categoryReason": "発表文に「非公認」の明記あり",
+      "format": null,
+      "placement": "優勝",
+      "player": "匿名希望",
+      "title": "葬送のフリーレン",
+      "deck": "フリーレン",
+      "organizer": "プリニークラブ各務原本店",
+      "area": null,
+      "sourceUrl": "https://x.com/prinnyclub/status/2117516692939317432",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/prinnyclub/status/2117516692939317432",
+      "deckUrl": "https://ws4696.xyz/2026/11/08/wsdecksfn-50/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-11-08T01:57:49+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-sfn-2117516692939317432-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-sfn-2117516692939317432-0-300x199.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/08/wsdecksfn-50/",
+          "alt": "デッキレシピ葬送のフリーレン"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/11/08/wsdecksfn-50/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-11-08"
+        }
+      ],
+      "sourceId": "x",
+      "id": "9c87496004d645d389fa022d",
+      "xCheckedAt": "2026-11-08T01:58:36+00:00"
+    },
+    {
+      "event": "アメニティードリーム京都店 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-11-02",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "アサリ",
+      "deck": null,
+      "organizer": "アメニティードリーム京都店",
+      "area": null,
+      "sourceUrl": "https://x.com/amenitykyoto/status/2117228895229616309",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/amenitykyoto/status/2117228895229616309",
+      "deckUrl": "https://ws4696.xyz/2026/11/08/wsdeckall-290/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-11-08T01:57:49+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-all-2117228895229616309-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-all-2117228895229616309-0-300x209.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/08/wsdeckall-290/",
+          "alt": "デッキレシピアサリ"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/11/08/wsdeckall-290/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-11-08"
+        }
+      ],
+      "sourceId": "x",
+      "id": "0870c47b1f9380ddeff3ebb7",
+      "xCheckedAt": "2026-11-08T01:58:37+00:00"
+    },
+    {
+      "event": "창원 바이스슈발츠 / 大会結果",
+      "eventDate": "2026-11-01",
+      "publishedAt": "2026-11-01",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "【推しの子】",
+      "deck": null,
+      "organizer": "창원 바이스슈발츠",
+      "area": null,
+      "sourceUrl": "https://x.com/ws_changwon/status/2116837501130400064",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/ws_changwon/status/2116837501130400064",
+      "deckUrl": "https://ws4696.xyz/2026/11/08/wsdeckosk-203/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。",
+      "collectedAt": "2026-11-08T01:57:49+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-osk-2116837501130400064-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-osk-2116837501130400064-0-300x168.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/08/wsdeckosk-203/",
+          "alt": "デッキレシピ推しの子"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/11/08/wsdeckosk-203/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-11-08"
+        }
+      ],
+      "sourceId": "x",
+      "id": "c670b58b912bde7544b9e2fc",
+      "xCheckedAt": "2026-11-08T01:58:38+00:00"
+    },
+    {
+      "event": "トレジャーコレクション イオンタウン周南久米店 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-11-01",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "アネモイ",
+      "deck": null,
+      "organizer": "トレジャーコレクション イオンタウン周南久米店",
+      "area": null,
+      "sourceUrl": "https://x.com/torekore_kudama/status/2116854857906958710",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/torekore_kudama/status/2116854857906958710",
+      "deckUrl": "https://ws4696.xyz/2026/11/08/wsdeckanm-18/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-11-08T01:57:49+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-anm-2116854857906958710-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-anm-2116854857906958710-0-300x176.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/08/wsdeckanm-18/",
+          "alt": "デッキレシピアネモイ"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/11/08/wsdeckanm-18/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-11-08"
+        }
+      ],
+      "sourceId": "x",
+      "id": "7b565eb895679b7408b7573d",
+      "xCheckedAt": "2026-11-08T01:58:38+00:00"
     },
     {
       "event": "トレジャーコレクション イオンタウン周南久米店 / 大会結果",
@@ -3362,6 +3841,45 @@
       "xCheckedAt": "2026-11-07T02:29:00+00:00"
     },
     {
+      "event": "ラックス奈良柏木店(ならかしわぎてん)@奈良市 カードショップ / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-17",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": "リリsanセルガ",
+      "title": "ホロライブ",
+      "deck": "姉妹",
+      "organizer": "ラックス奈良柏木店(ならかしわぎてん)@奈良市 カードショップ",
+      "area": null,
+      "sourceUrl": "https://x.com/laccus_k2/status/2111416905156440496",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/laccus_k2/status/2111416905156440496",
+      "deckUrl": "https://ws4696.xyz/2026/11/07/wsdeckhol-765/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-11-07T02:28:07+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-hol-2111416905156440496-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-hol-2111416905156440496-0-300x225.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/07/wsdeckhol-765/",
+          "alt": "デッキレシピホロライブ"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/11/07/wsdeckhol-765/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-11-07"
+        }
+      ],
+      "sourceId": "x",
+      "id": "e154425f5f780706d84e56e1",
+      "xCheckedAt": "2026-11-08T01:58:39+00:00"
+    },
+    {
       "event": "トレカショップ ぽよんまる(にゃー クロスタ取扱開始!!️ / 大会結果",
       "eventDate": null,
       "publishedAt": "2026-10-17",
@@ -3401,6 +3919,45 @@
       "xCheckedAt": "2026-11-07T02:29:05+00:00"
     },
     {
+      "event": "北国書林辰口店@Cardbox / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-17",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "葬送のフリーレン",
+      "deck": null,
+      "organizer": "北国書林辰口店@Cardbox",
+      "area": null,
+      "sourceUrl": "https://x.com/Cardbox_tatsuno/status/2111388143798866173",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/Cardbox_tatsuno/status/2111388143798866173",
+      "deckUrl": "https://ws4696.xyz/2026/11/07/wsdecksfn-49/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-11-08T01:57:52+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-sfn-2111388143798866173-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-sfn-2111388143798866173-0-300x225.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/07/wsdecksfn-49/",
+          "alt": "デッキレシピ葬送のフリーレン"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/11/07/wsdecksfn-49/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-11-07"
+        }
+      ],
+      "sourceId": "x",
+      "id": "c5df62cb8cb9cb8dc46f5cb6",
+      "xCheckedAt": "2026-11-08T01:58:40+00:00"
+    },
+    {
       "event": "トレカプラザ55岡崎店✨アルバイト募集中✨ / 大会結果",
       "eventDate": null,
       "publishedAt": "2026-10-17",
@@ -3438,6 +3995,84 @@
       "sourceId": "x",
       "id": "6858177cf2048afe0b4c7731",
       "xCheckedAt": "2026-11-07T02:29:06+00:00"
+    },
+    {
+      "event": "✨ネクストプロ大須2号店✨ / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-17",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "ブラウンダスト2",
+      "deck": "6カス2トビラブラダス",
+      "organizer": "✨ネクストプロ大須2号店✨",
+      "area": null,
+      "sourceUrl": "https://x.com/NextPro0002/status/2111364917446275519",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/NextPro0002/status/2111364917446275519",
+      "deckUrl": "https://ws4696.xyz/2026/11/07/wsdeckbrd-15/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-11-08T01:57:52+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-brd-2111364917446275519-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-brd-2111364917446275519-0-300x182.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/07/wsdeckbrd-15/",
+          "alt": "デッキレシピブラウンダスト2"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/11/07/wsdeckbrd-15/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-11-07"
+        }
+      ],
+      "sourceId": "x",
+      "id": "1cd1000dfa99329af7c8d557",
+      "xCheckedAt": "2026-11-08T01:58:41+00:00"
+    },
+    {
+      "event": "ドラゴンスター町田店 / 大会結果",
+      "eventDate": null,
+      "publishedAt": "2026-10-17",
+      "category": "unknown",
+      "categoryReason": "公認・非公認の明記を確認できず",
+      "format": null,
+      "placement": "優勝",
+      "player": null,
+      "title": "シャニマス",
+      "deck": null,
+      "organizer": "ドラゴンスター町田店",
+      "area": null,
+      "sourceUrl": "https://x.com/ds_machida_/status/2111416455241539861",
+      "sourceName": "X",
+      "originalUrl": "https://x.com/ds_machida_/status/2111416455241539861",
+      "deckUrl": "https://ws4696.xyz/2026/11/07/wsdeckisc-287/",
+      "evidence": "primary",
+      "notes": "Xの公開投稿本文で成績を確認。公開日は元投稿に表示された日付。使用タイトル・画像は紹介記事も参照。開催日を「本日」や年のない日付から推定していません。",
+      "collectedAt": "2026-11-07T02:28:07+00:00",
+      "images": [
+        {
+          "url": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-isc-2111416455241539861-0.jpg",
+          "thumbnailUrl": "https://ws4696.xyz/wp-content/uploads/2026/11/deck-isc-2111416455241539861-0-300x205.jpg",
+          "sourceUrl": "https://ws4696.xyz/2026/11/07/wsdeckisc-287/",
+          "alt": "デッキレシピシャニマス"
+        }
+      ],
+      "relatedSources": [
+        {
+          "url": "https://ws4696.xyz/2026/11/07/wsdeckisc-287/",
+          "name": "しろくろ速報",
+          "publishedAt": "2026-11-07"
+        }
+      ],
+      "sourceId": "x",
+      "id": "16e8ed9f8709e7f3d0a66d60",
+      "xCheckedAt": "2026-11-08T01:58:40+00:00"
     },
     {
       "event": "プレイズ安城店★安城総合運動公園前★ / 大会結果",
@@ -14676,7 +15311,7 @@
       "role": null,
       "team": "Ex-Otogibanashi",
       "sourceId": "x",
-      "xCheckedAt": "2026-10-16T00:55:38+00:00",
+      "xCheckedAt": "2026-11-08T01:58:24+00:00",
       "entryKey": "優勝||モリげ|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -14708,7 +15343,7 @@
       "role": null,
       "team": "Ex-Otogibanashi",
       "sourceId": "x",
-      "xCheckedAt": "2026-10-16T00:55:38+00:00",
+      "xCheckedAt": "2026-11-08T01:58:24+00:00",
       "entryKey": "優勝||とて|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -14740,7 +15375,7 @@
       "role": null,
       "team": "Ex-Otogibanashi",
       "sourceId": "x",
-      "xCheckedAt": "2026-10-16T00:55:38+00:00",
+      "xCheckedAt": "2026-11-08T01:58:24+00:00",
       "entryKey": "優勝||ふぁて|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -20121,7 +20756,7 @@
       "role": null,
       "team": "すごいじゃん",
       "sourceId": "x",
-      "xCheckedAt": "2026-10-08T23:07:18+00:00",
+      "xCheckedAt": "2026-11-08T01:58:28+00:00",
       "entryKey": "優勝||ハヤト|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -20153,7 +20788,7 @@
       "role": null,
       "team": "すごいじゃん",
       "sourceId": "x",
-      "xCheckedAt": "2026-10-08T23:07:18+00:00",
+      "xCheckedAt": "2026-11-08T01:58:28+00:00",
       "entryKey": "優勝||ふにゃた|",
       "game": "ws",
       "contextSourceUrl": null,
@@ -20185,7 +20820,7 @@
       "role": null,
       "team": "すごいじゃん",
       "sourceId": "x",
-      "xCheckedAt": "2026-10-08T23:07:18+00:00",
+      "xCheckedAt": "2026-11-08T01:58:28+00:00",
       "entryKey": "優勝||むっつ|",
       "game": "ws",
       "contextSourceUrl": null,
