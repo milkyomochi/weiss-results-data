@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryAt": "2026-11-13",
+  "lastDiscoveryAt": "2026-11-14",
   "accounts": [
     "saikoro1to3",
     "prinnyclub",
@@ -1278,7 +1278,7 @@
       "url": "https://x.com/moti_cs_/status/2095494800711860551",
       "discoveredAt": "2026-09-16T23:03:28+00:00",
       "eventKind": "cs",
-      "lastCheckedAt": "2026-11-04T02:51:01+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:46+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -1461,7 +1461,7 @@
       "event": "第29回 キズナ杯",
       "eventDate": "2026-09-20",
       "contextSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
-      "lastCheckedAt": "2026-11-06T02:59:08+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:56+00:00",
       "lastCheckOutcome": "parsed"
     },
     {
@@ -1752,7 +1752,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-09-22T12:40:08+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E3%82%AD%E3%82%BA%E3%83%8A%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-05T02:59:34+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:53+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -1784,7 +1784,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-09-22T12:40:08+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E9%A4%85CS&ei=UTF-8",
-      "lastCheckedAt": "2026-11-05T02:59:30+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:50+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -1792,7 +1792,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-09-22T12:40:08+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E9%A4%85CS&ei=UTF-8",
-      "lastCheckedAt": "2026-11-06T02:59:01+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:53+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -1800,7 +1800,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-09-22T12:40:08+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E9%A4%85CS&ei=UTF-8",
-      "lastCheckedAt": "2026-11-06T02:59:05+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:57+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -1933,14 +1933,14 @@
       "url": "https://x.com/corgi_nagoya/status/2098030290103115843",
       "discoveredAt": "2026-09-23T23:02:59+00:00",
       "eventKind": "cs",
-      "lastCheckedAt": "2026-11-07T02:28:44+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:59+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/corgi_nagoya/status/2098031199898014097",
       "discoveredAt": "2026-09-23T23:02:59+00:00",
       "eventKind": "cs",
-      "lastCheckedAt": "2026-11-06T02:59:12+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:55+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -2021,7 +2021,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-09-23T23:03:37+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E3%82%AD%E3%82%BA%E3%83%8A%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-06T02:59:04+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:49+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -2036,28 +2036,28 @@
       "url": "https://x.com/corgi_nagoya/status/2098326753869725845",
       "discoveredAt": "2026-09-24T23:03:40+00:00",
       "eventKind": "cs",
-      "lastCheckedAt": "2026-11-07T02:28:41+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:51+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/corgi_nagoya/status/2098336594419937773",
       "discoveredAt": "2026-09-24T23:03:40+00:00",
       "eventKind": "cs",
-      "lastCheckedAt": "2026-11-07T02:28:37+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:48+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/corgi_nagoya/status/2100181931459809756",
       "discoveredAt": "2026-09-24T23:03:40+00:00",
       "eventKind": "cs",
-      "lastCheckedAt": "2026-11-07T02:28:30+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:41+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/corgi_nagoya/status/2103033792684560808",
       "discoveredAt": "2026-09-24T23:03:40+00:00",
       "eventKind": "cs",
-      "lastCheckedAt": "2026-11-07T02:28:25+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:37+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -2113,7 +2113,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-09-24T23:04:19+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E3%82%AD%E3%82%BA%E3%83%8A%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-07T02:28:34+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:45+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -2121,7 +2121,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-09-24T23:04:19+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E9%A4%85CS&ei=UTF-8",
-      "lastCheckedAt": "2026-11-07T02:28:27+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:43+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -2240,7 +2240,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-09-26T23:04:04+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E7%A6%8F%E7%A6%8F%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-05T02:59:19+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:51+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -2248,7 +2248,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-09-26T23:04:04+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E7%A6%8F%E7%A6%8F%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-05T02:59:23+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:55+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -2256,7 +2256,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-09-26T23:04:04+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E7%A6%8F%E7%A6%8F%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-05T02:59:28+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:58+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -2276,7 +2276,7 @@
       "url": "https://x.com/fukufuku_ws/status/2104067900474871857",
       "discoveredAt": "2026-09-27T23:03:31+00:00",
       "eventKind": "cs",
-      "lastCheckedAt": "2026-11-04T02:51:17+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:44+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -2322,7 +2322,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-09-27T23:04:03+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E7%A6%8F%E7%A6%8F%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-04T02:51:15+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:36+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -2330,7 +2330,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-09-27T23:04:03+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E7%A6%8F%E7%A6%8F%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-04T02:51:17+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:40+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -2338,7 +2338,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-09-27T23:04:03+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E7%A6%8F%E7%A6%8F%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-05T02:59:14+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:47+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -2929,7 +2929,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-10-09T23:05:22+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E3%82%AD%E3%82%BA%E3%83%8A%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-07T02:28:31+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:42+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -3081,7 +3081,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-10-13T23:13:36+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E3%81%B5%E3%82%89%E3%82%81%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-04T02:51:05+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:58+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -4004,7 +4004,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-10-24T01:15:26+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=SSSS%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-07T02:28:41+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:56+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -4012,7 +4012,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-10-24T01:15:26+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=SSSS%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-07T02:28:45+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:59+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -4036,21 +4036,21 @@
       "url": "https://x.com/flame_cup_unei/status/2113927735970234478",
       "discoveredAt": "2026-10-25T00:40:49+00:00",
       "eventKind": "cs",
-      "lastCheckedAt": "2026-11-12T03:31:14+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:54+00:00",
       "lastCheckOutcome": "error"
     },
     {
       "url": "https://x.com/flame_cup_unei/status/2113928075700568393",
       "discoveredAt": "2026-10-25T00:40:49+00:00",
       "eventKind": "cs",
-      "lastCheckedAt": "2026-11-12T03:31:04+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:50+00:00",
       "lastCheckOutcome": "error"
     },
     {
       "url": "https://x.com/flame_cup_unei/status/2113928401442771412",
       "discoveredAt": "2026-10-25T00:40:49+00:00",
       "eventKind": "cs",
-      "lastCheckedAt": "2026-11-12T03:30:58+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:46+00:00",
       "lastCheckOutcome": "error"
     },
     {
@@ -4226,19 +4226,19 @@
     {
       "url": "https://x.com/toyama_bm/status/2114293199183532412",
       "discoveredAt": "2026-10-26T00:51:30+00:00",
-      "lastCheckedAt": "2026-11-02T02:00:03+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:12+00:00",
       "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/bookoff_tcgcard/status/2114297812540338509",
       "discoveredAt": "2026-10-26T00:51:30+00:00",
-      "lastCheckedAt": "2026-11-02T02:00:02+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:11+00:00",
       "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/ws4696/status/2114344978788839509",
       "discoveredAt": "2026-10-26T00:51:30+00:00",
-      "lastCheckedAt": "2026-11-02T02:00:01+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:09+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -4297,13 +4297,13 @@
     {
       "url": "https://x.com/ws4696/status/2114480874347507949",
       "discoveredAt": "2026-10-27T01:42:39+00:00",
-      "lastCheckedAt": "2026-11-03T03:48:23+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:08+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/weissbandung/status/2114546026237624321",
       "discoveredAt": "2026-10-27T01:42:39+00:00",
-      "lastCheckedAt": "2026-11-03T03:48:22+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:08+00:00",
       "lastCheckOutcome": "error"
     },
     {
@@ -4449,7 +4449,7 @@
       "url": "https://x.com/ssss37336553297/status/2115413279187316780",
       "discoveredAt": "2026-10-29T01:59:57+00:00",
       "eventKind": "cs",
-      "lastCheckedAt": "2026-11-12T03:31:11+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:52+00:00",
       "lastCheckOutcome": "error"
     },
     {
@@ -4582,7 +4582,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-10-31T01:56:38+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E3%81%B5%E3%82%89%E3%82%81%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-07T02:28:23+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:43+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -4590,7 +4590,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-10-31T01:56:38+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=SSSS%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-07T02:28:34+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:48+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -4598,7 +4598,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-10-31T01:56:38+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E3%82%AD%E3%82%BA%E3%83%8A%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-07T02:28:26+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:38+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -4650,7 +4650,7 @@
       "url": "https://x.com/ssss37336553297/status/2116817114233532487",
       "discoveredAt": "2026-11-02T01:58:02+00:00",
       "eventKind": "cs",
-      "lastCheckedAt": "2026-11-12T03:31:00+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:42+00:00",
       "lastCheckOutcome": "error"
     },
     {
@@ -4769,7 +4769,7 @@
       "url": "https://x.com/ssss37336553297/status/2116816640633651334",
       "discoveredAt": "2026-11-03T03:46:26+00:00",
       "eventKind": "cs",
-      "lastCheckedAt": "2026-11-12T03:31:05+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:45+00:00",
       "lastCheckOutcome": "error"
     },
     {
@@ -4912,7 +4912,7 @@
     },
     {
       "url": "https://x.com/kgpXnKH3qVbx3PA/status/2114411716176224627",
-      "lastCheckedAt": "2026-11-05T02:59:47+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:09+00:00",
       "lastCheckOutcome": "parsed"
     },
     {
@@ -4992,7 +4992,7 @@
     {
       "url": "https://x.com/tsutayakasugai2/status/2118319635498181077",
       "discoveredAt": "2026-11-06T02:57:29+00:00",
-      "lastCheckedAt": "2026-11-12T03:31:16+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:07+00:00",
       "lastCheckOutcome": "error"
     },
     {
@@ -5122,30 +5122,30 @@
     },
     {
       "url": "https://x.com/torekore_kudama/status/2114320601276187014",
-      "lastCheckedAt": "2026-11-06T02:59:19+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:11+00:00",
       "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/bulldor777/status/2114343142195659217",
-      "lastCheckedAt": "2026-11-06T02:59:18+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:10+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/ws4696/status/2118629461918892117",
       "discoveredAt": "2026-11-07T02:26:58+00:00",
-      "lastCheckedAt": "2026-11-07T02:28:53+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:06+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
       "url": "https://x.com/TSUTAYA_Card_ks/status/2118657144597987837",
       "discoveredAt": "2026-11-07T02:26:58+00:00",
-      "lastCheckedAt": "2026-11-07T02:28:52+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:06+00:00",
       "lastCheckOutcome": "parsed"
     },
     {
       "url": "https://x.com/JTC_hachioji/status/2118681601286815956",
       "discoveredAt": "2026-11-07T02:26:58+00:00",
-      "lastCheckedAt": "2026-11-07T02:28:52+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:05+00:00",
       "lastCheckOutcome": "parsed"
     },
     {
@@ -5153,7 +5153,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-11-07T02:27:32+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E3%81%B5%E3%82%89%E3%82%81%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-07T02:28:20+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:36+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -5161,7 +5161,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-11-07T02:27:32+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E3%81%B5%E3%82%89%E3%82%81%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-07T02:28:22+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:40+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -5169,7 +5169,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-11-07T02:27:32+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=SSSS%E6%9D%AF&ei=UTF-8",
-      "lastCheckedAt": "2026-11-07T02:28:21+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:38+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -5177,7 +5177,7 @@
       "eventKind": "cs",
       "discoveredAt": "2026-11-07T02:27:32+00:00",
       "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=%E9%A4%85CS&ei=UTF-8",
-      "lastCheckedAt": "2026-11-07T02:28:22+00:00",
+      "lastCheckedAt": "2026-11-14T02:49:39+00:00",
       "lastCheckOutcome": "no_result"
     },
     {
@@ -5751,6 +5751,62 @@
       "url": "https://x.com/Akibagrapan/status/2119308545430810865",
       "lastCheckedAt": "2026-11-13T03:03:20+00:00",
       "lastCheckOutcome": "parsed"
+    },
+    {
+      "url": "https://x.com/ws4696/status/2121003856134054016",
+      "discoveredAt": "2026-11-14T02:48:16+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:04+00:00",
+      "lastCheckOutcome": "no_result"
+    },
+    {
+      "url": "https://x.com/ws4696/status/2121105780070051922",
+      "discoveredAt": "2026-11-14T02:48:16+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:04+00:00",
+      "lastCheckOutcome": "no_result"
+    },
+    {
+      "url": "https://x.com/ws4696/status/2121113329552835022",
+      "discoveredAt": "2026-11-14T02:48:16+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:03+00:00",
+      "lastCheckOutcome": "no_result"
+    },
+    {
+      "url": "https://x.com/TSUTAYA_Card_ks/status/2121157614101004623",
+      "discoveredAt": "2026-11-14T02:48:16+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:03+00:00",
+      "lastCheckOutcome": "no_result"
+    },
+    {
+      "url": "https://x.com/ws4696/status/2121166177632219639",
+      "discoveredAt": "2026-11-14T02:48:16+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:02+00:00",
+      "lastCheckOutcome": "no_result"
+    },
+    {
+      "url": "https://x.com/TSUTAYA_Card_ks/status/2121185636728357331",
+      "discoveredAt": "2026-11-14T02:48:16+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:01+00:00",
+      "lastCheckOutcome": "parsed"
+    },
+    {
+      "url": "https://x.com/JTC_Honatsugi/status/2121192229318668624",
+      "discoveredAt": "2026-11-14T02:48:16+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:01+00:00",
+      "lastCheckOutcome": "parsed"
+    },
+    {
+      "url": "https://x.com/JTC_hachioji/status/2121218744047611911",
+      "discoveredAt": "2026-11-14T02:48:16+00:00",
+      "lastCheckedAt": "2026-11-14T02:50:00+00:00",
+      "lastCheckOutcome": "parsed"
+    },
+    {
+      "url": "https://x.com/SSSS37336553297/status/2121211483463835938",
+      "eventKind": "cs",
+      "discoveredAt": "2026-11-14T02:48:52+00:00",
+      "discoveredVia": "https://search.yahoo.co.jp/realtime/search?p=SSSS%E6%9D%AF&ei=UTF-8",
+      "lastCheckedAt": "2026-11-14T02:49:35+00:00",
+      "lastCheckOutcome": "no_result"
     }
   ],
   "csOrganizers": [
@@ -5763,14 +5819,14 @@
         "ふらめ杯 優勝",
         "site:x.com/FLAME_CUP_unei 優勝"
       ],
-      "lastDiscoveryAt": "2026-11-13",
+      "lastDiscoveryAt": "2026-11-14",
       "lastDiscoveryOutcome": "no_recent_result",
       "lastConfirmedPublishedAt": "2026-09-12",
       "lastConfirmedResultUrl": "https://x.com/FLAME_CUP_unei/status/2098713304852316356",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。前回確認済みより新しい結果は未確認。開催中止・結果未発表を意味せず、全投稿の網羅でもありません。",
       "discoveryFailure": "Xの通常投稿ページはHTTP 403で取得できませんでした。公式公開oEmbedで4投稿の本文・公開日は確認済みです。",
       "failedSourceUrl": "https://x.com/FLAME_CUP_unei/status/2098713774433968395",
-      "lastSearchAttemptAt": "2026-11-13T03:01:33+00:00",
+      "lastSearchAttemptAt": "2026-11-14T02:48:16+00:00",
       "lastSearchOutcome": "no_candidates"
     },
     {
@@ -5782,12 +5838,12 @@
         "福福杯 優勝",
         "site:x.com/fukufuku_ws 優勝"
       ],
-      "lastDiscoveryAt": "2026-11-13",
+      "lastDiscoveryAt": "2026-11-14",
       "lastDiscoveryOutcome": "candidates_found",
       "lastConfirmedPublishedAt": "2026-11-08",
       "lastConfirmedResultUrl": "https://x.com/fukufuku_ws/status/2119373887448465650",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。前回確認済みより新しい結果は未確認。開催中止・結果未発表を意味せず、全投稿の網羅でもありません。",
-      "lastSearchAttemptAt": "2026-11-13T03:01:33+00:00",
+      "lastSearchAttemptAt": "2026-11-14T02:48:16+00:00",
       "lastSearchOutcome": "candidates_found"
     },
     {
@@ -5799,13 +5855,13 @@
         "コギナゴカップ 優勝",
         "site:x.com/corgi_nagoya 優勝"
       ],
-      "lastDiscoveryAt": "2026-11-13",
-      "lastDiscoveryOutcome": "candidates_found",
-      "lastConfirmedPublishedAt": "2026-11-08",
-      "lastConfirmedResultUrl": "https://x.com/corgi_nagoya/status/2119390764950266044",
+      "lastDiscoveryAt": "2026-11-14",
+      "lastDiscoveryOutcome": "no_recent_result",
+      "lastConfirmedPublishedAt": "2026-08-30",
+      "lastConfirmedResultUrl": "https://x.com/corgi_nagoya/status/2093989484568485889",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。新しい結果は未確認。開催中止・結果未発表を意味しません。",
-      "lastSearchAttemptAt": "2026-11-13T03:01:33+00:00",
-      "lastSearchOutcome": "candidates_found"
+      "lastSearchAttemptAt": "2026-11-14T02:48:16+00:00",
+      "lastSearchOutcome": "no_candidates"
     },
     {
       "name": "SSSS杯",
@@ -5816,14 +5872,14 @@
         "SSSS杯 優勝",
         "site:x.com/SSSS37336553297 優勝"
       ],
-      "lastDiscoveryAt": "2026-11-13",
+      "lastDiscoveryAt": "2026-11-14",
       "lastDiscoveryOutcome": "candidates_found",
       "lastConfirmedPublishedAt": "2026-09-13",
       "lastConfirmedResultUrl": "https://x.com/SSSS37336553297/status/2099073550821056585",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。前回確認済みより新しい結果は未確認。開催中止・結果未発表を意味せず、全投稿の網羅でもありません。",
       "discoveryFailure": "主催者案内からリンクされたTonamel大会ページは取得できませんでした。主催者の案内・結果と参加者の同回WS表記は公開oEmbedで確認済み。",
       "failedSourceUrl": "https://tonamel.com/competition/RVlyW",
-      "lastSearchAttemptAt": "2026-11-13T03:01:33+00:00",
+      "lastSearchAttemptAt": "2026-11-14T02:48:16+00:00",
       "lastSearchOutcome": "candidates_found"
     },
     {
@@ -5836,14 +5892,14 @@
         "site:x.com/kizunahi_ijanai 優勝",
         "site:note.com/ws_final キズナ杯 運営レポート"
       ],
-      "lastDiscoveryAt": "2026-11-13",
+      "lastDiscoveryAt": "2026-11-14",
       "lastDiscoveryOutcome": "no_recent_result",
       "lastConfirmedPublishedAt": "2026-09-20",
       "lastConfirmedResultUrl": "https://x.com/kizunahi_ijanai/status/2101596751660757409",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。新しい結果は未確認。開催中止・結果未発表を意味しません。",
       "lastSupplementedAt": "2026-09-11",
       "lastSupplementSourceUrl": "https://note.com/ws_final/n/n22926cf66697",
-      "lastSearchAttemptAt": "2026-11-13T03:01:33+00:00",
+      "lastSearchAttemptAt": "2026-11-14T02:48:16+00:00",
       "lastSearchOutcome": "no_candidates"
     },
     {
@@ -5884,10 +5940,10 @@
         "WSたいCS",
         "たいCS ヴァイス 結果"
       ],
-      "lastDiscoveryAt": "2026-11-10",
+      "lastDiscoveryAt": "2026-11-14",
       "lastDiscoveryOutcome": "no_recent_result",
       "discoveryNote": "大会名・アカウントをrecency=14で公開検索。新しい結果は未確認。開催中止・結果未発表を意味しません。",
-      "lastSearchAttemptAt": "2026-11-10T04:25:18+00:00",
+      "lastSearchAttemptAt": "2026-11-14T02:48:16+00:00",
       "lastSearchOutcome": "no_candidates"
     },
     {
@@ -5909,8 +5965,8 @@
   ],
   "tavilyBudget": {
     "month": "2026-11",
-    "monthlyAttempts": 182,
-    "day": "2026-11-13",
+    "monthlyAttempts": 195,
+    "day": "2026-11-14",
     "dailyAttempts": 13
   }
 }
